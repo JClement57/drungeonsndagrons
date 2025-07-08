@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/player-info/characters/jin-tsuji/"}
+{"dg-publish":true,"dg-path":"Player Info/Characters/Jin Tsuji.md","permalink":"/player-info/characters/jin-tsuji/"}
 ---
 
 Level 1 Dragonborn Fighter

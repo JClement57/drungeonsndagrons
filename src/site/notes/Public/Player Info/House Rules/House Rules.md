@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/player-info/house-rules/house-rules/"}
+{"dg-publish":true,"dg-path":"Player Info/House Rules/House Rules.md","permalink":"/player-info/house-rules/house-rules/"}
 ---
 
 
