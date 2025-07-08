@@ -2,8 +2,6 @@
 {"dg-publish":true,"dg-path":"Welcome.md","permalink":"/welcome/","tags":["gardenEntry"]}
 ---
 
-# 🐉 Welcome to the Campaign Wiki!
-
 ## 🎲 What is this?
 
 Welcome adventurers!  

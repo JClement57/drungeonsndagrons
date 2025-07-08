@@ -5,20 +5,13 @@
 Level 1 Dwarf Ranger
 
 > [!infobox]+
-> # Heading
-> ![[Image.png\|Image.png]]
-> ###### Heading 6
-> | Table Header |  Table Header |
+> # Norin Stormhammer
+> ![norin.png](/img/user/Public/Player%20Info/Characters/norin.png)
+> ######  Description
+> |  |   |
 > | ---- | --- |
-> | Test | Testing |
-> | Test | Testing |
-> 
-> # Heading 1
-> - Bullet list
-> 	- Testing
-> 	- Testing
-> - Testing
-
-Test123
-Test
+> | Level | 1 |
+> | Race | Mountain Dwarf |
+> | Class | Ranger |
+> | Subclass | Drakewarden |
 
