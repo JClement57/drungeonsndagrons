@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Player Info/Session Notes/0 - Planning.md","permalink":"/player-info/session-notes/0-planning/"}
+{"dg-publish":true,"permalink":"/public/player-info/session-notes/0-planning/"}
 ---
 
 # Goal/Priorities

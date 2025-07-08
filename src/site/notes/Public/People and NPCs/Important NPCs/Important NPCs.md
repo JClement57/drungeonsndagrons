@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"People and NPCs/Important NPCs/Important NPCs.md","permalink":"/people-and-np-cs/important-np-cs/important-np-cs/"}
+{"dg-publish":true,"permalink":"/public/people-and-np-cs/important-np-cs/important-np-cs/"}
 ---
 
 ## This Guy

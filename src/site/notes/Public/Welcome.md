@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Welcome.md","permalink":"/welcome/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/public/welcome/","tags":["gardenEntry"]}
 ---
 
 # 🐉 Welcome to the Campaign Wiki!
