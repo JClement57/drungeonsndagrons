@@ -2,11 +2,9 @@
 {"dg-publish":true,"dg-path":"Player Info/Characters/Norin Stormhammer.md","permalink":"/player-info/characters/norin-stormhammer/"}
 ---
 
-Level 1 Dwarf Ranger
-
 > [!infobox]+
 > # Norin Stormhammer
-> ![norin.png](/img/user/Public/Player%20Info/Characters/norin.png)
+> ![img/norin.png](/img/user/Public/Player%20Info/Characters/img/norin.png)
 > ######  Description
 > |  |   |
 > | ---- | --- |
@@ -14,4 +12,10 @@ Level 1 Dwarf Ranger
 > | Race | Mountain Dwarf |
 > | Class | Ranger |
 > | Subclass | Drakewarden |
+
+Level 1 Dwarf Ranger
+
+Norin used to be a blacksmith before being called to a life of adventure for the 
+
+
 
