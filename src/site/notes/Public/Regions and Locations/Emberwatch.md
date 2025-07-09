@@ -2,6 +2,10 @@
 {"dg-publish":true,"dg-path":"Regions and Locations/Emberwatch.md","permalink":"/regions-and-locations/emberwatch/"}
 ---
 
+> [!QUOTE] Darnic Thale, traveling peddler
+> _They say you can see the flame of Emberwatch from leagues out at sea — a promise of safe harbor and bustling streets. But stand too close, friend, and you might notice the shadows dancing at its edge."_  
+
+
 ## Overview
 
 Emberwatch is the second-largest city in the kingdom, a thriving hub of trade and defense located **about three miles inland from the western coast**, linked to the sea by the wide and navigable **Ravenflow River**. Merchant vessels, fishing boats, and river barges travel daily between Emberwatch and the coastal ports, making the city a vital artery for commerce.
