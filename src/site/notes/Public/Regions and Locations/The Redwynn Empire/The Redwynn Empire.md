@@ -25,9 +25,3 @@ Where coin flows freely, shadows inevitably gather. Smuggling, extortion, and cl
 # Culture & Reputation
 
 Redwynners are proud, fashion-conscious, and quick to boast of their empire’s wealth. Festivals honoring trade victories and exotic foreign fairs are common, filling the streets with color, song, and visiting merchants from faraway lands.
-<br>
-
-```ccard
-type: folder_brief_live
-```
- 
