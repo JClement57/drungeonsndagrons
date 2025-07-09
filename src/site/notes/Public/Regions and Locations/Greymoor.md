@@ -8,27 +8,27 @@
 **Population:** ~350  
 **Region:** Western coast of the mainland, across the sea from Stormwreck Isle
 
-## 🏘 Overview
+## Overview
 
 Greymoor is a modest, fog-choked town perched on the western coast, where the rocky shore gives way to weather-worn docks that have long served as its lifeline. Frequent mists roll in from the sea, lending the wooden streets and leaning buildings a somber, gray hue that inspired the town’s name.
 
 Most structures are timber-built and appear aged, with dark stains from years of salt and damp. Moss crawls up stone foundations, and rooftops sag under the weight of constant drizzle. Though it may seem dour at first glance, Greymoor is known for the hardiness and quiet hospitality of its folk.  
 <br>
 
-## 🏛 Government
+## Government
 
 Greymoor is governed by a small council of elders, headed by **Elder Calwin Dreel**, a retired shipwright who has lived here most of his life. The council handles disputes, trade arrangements, and oversees local defenses.
 
 Law and order is maintained by the **Town Guard**, commanded by **Captain Tolen Brask**, who is respected for his fair but stern approach to justice. For most small issues, disputes are settled by local custom or by Calwin’s level-headed mediation.  
   <br>
-## ⛪ Religions
+## Religions
 
 The town is home to a modest shrine where locals give quiet thanks to gods of the sea and safe passage. Offerings to **Procan**, god of the sea and storms, are especially common, as are occasional tokens to **Chauntea**, goddess of agriculture, for the small gardens and livestock kept by villagers.
 
 The shrine sits near the center of town, a simple stone circle with weathered driftwood carvings and colored ribbons tied around posts.  
 <br>
 
-## 🏠 Popular Places  
+## Popular Places  
 
 #### **The Drowned Candle**
 
@@ -43,7 +43,7 @@ A modest open area surrounded by wood-plank stalls. Locals sell smoked fish, pic
 The beating heart of the town. Several long piers stretch into the cold sea, lined with fishing boats and merchant sloops. Crates of salted fish, barrels of pitch, and bundles of nets often lie stacked nearby.
 <br>
 <br>
-## 🐟 What Greymoor is Known For
+## What Greymoor is Known For
 
 - **Fishing & Salted Goods:** Greymoor’s primary trade is fishing. Much of the catch is smoked or salted to preserve it for sale inland.
     
