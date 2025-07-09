@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"Regions and Locations/Greymoor.md","permalink":"/regions-and-locations/greymoor/"}
 ---
 
+> [!QUOTE] ~
 > **“A quiet town, battered by fog and salt winds, yet stubborn enough to endure—Greymoor stands as it always has, leaning toward the sea, listening for what might come in with the tide.”**
 
 **Type:** Small coastal town  
