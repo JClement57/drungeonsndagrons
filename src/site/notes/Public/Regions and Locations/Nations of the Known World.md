@@ -5,25 +5,25 @@
 > [!note]+ Note
 > Many of these are just ideas at this point
 
-## [[Public/Regions and Locations/The Redwynn Empire/The Redwynn Empire\|The Redwynn Empire]]
+## The Redwynn Empire
 
-A mighty kingdom sprawling along the western coast of the eastern continent. Rolling hills give way to dense forests, jagged mountain ranges, and breathtaking coastlines dotted with bustling ports. The Redwynn Empire is ruled by a monarch — currently Queen Alandra Vaelwyn — but each major city maintains its own elected mayor, balancing the interests of local governance with imperial decree. This mix of monarchy and civic democracy, alongside its thriving guilds, makes it a hub of trade, politics, and intrigue.
-
----
-
-## Tzicali Basin
-
-Deep within steamy jungles lies the Tzicali Basin, where entire cities perch atop colossal stone golems left behind by ancient gods. These god-machines still stir from time to time, sending tremors across the canopy. Astronomer-priests rule here, studying intricate star charts and celestial omens to predict when the titans will next awaken. Life is built around devotion and careful observation of the divine patterns.
+[[Public/Regions and Locations/The Redwynn Empire/The Redwynn Empire\|The Redwynn Empire]] is a mighty kingdom sprawling along the western coast of the eastern continent. Rolling hills give way to dense forests, jagged mountain ranges, and breathtaking coastlines dotted with bustling ports. The Redwynn Empire is ruled by a monarch — currently Queen Alandra Vaelwyn — but each major city maintains its own elected mayor, balancing the interests of local governance with imperial decree. This mix of monarchy and civic democracy, alongside its thriving guilds, makes it a hub of trade, politics, and intrigue.
 
 ---
 
-## Shatari Dominion
+## The Tzicali Isles
 
-A realm of lush jungles and resplendent jeweled palaces, the Shatari Dominion thrives atop the living roots of a primordial world-tree. Its sap brings both miraculous life and horrifying mutations, a power closely guarded by the ruling dynasties. Emperors and nobles maintain vast menageries of magical beasts — status symbols as much as formidable weapons — creating a society where wonder and terror walk hand in hand.
+[[Public/Regions and Locations/The Tzicali Isles/The Tzicali Isles\|The Tzicali Isles]] form a striking archipelago of verdant, misty islands scattered across warm tropical seas. Beneath their vibrant jungles lie titanic, dormant forms of ancient god-beasts — colossal remnants from a war of the gods, whose uneasy slumber occasionally sends tremors across the land.
 
 ---
 
-## Korrandi League
+## The Tyrasil Dominion
+
+A realm of lush jungles and resplendent jeweled palaces, the Tyrasil Dominion thrives atop the living roots of a primordial world-tree. Its sap brings both miraculous life and horrifying mutations, a power closely guarded by the ruling dynasties. Emperors and nobles maintain vast menageries of magical beasts — status symbols as much as formidable weapons — creating a society where wonder and terror walk hand in hand.
+
+---
+
+## The Korrandi League
 
 Renowned for its towering academies and vibrant art halls, the Korrandi League is a constellation of independent city-states. Merchant houses, master artisans, and brilliant mages constantly push the limits of magic, technology, fashion, and philosophy. Fiercely competitive yet dazzlingly progressive, the League stands as the intellectual and cultural heart of the world.
 
