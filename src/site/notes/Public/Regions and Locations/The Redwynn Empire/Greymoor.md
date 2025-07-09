@@ -7,7 +7,7 @@
 
 **Type:** Small coastal town  
 **Population:** ~350  
-**Region:** Western coast of the [[Public/Regions and Locations/The Redwynn Empire/The Redwynn Empire\|Redwynn Empire]], across the sea from Stormwreck Isle
+**Region:** Western coast of the [[Public/Regions and Locations/The Redwynn Empire/The Redwynn Empire\|Redwynn Empire]], across the sea from [[Public/Regions and Locations/The Redwynn Empire/Stormwreck Isle\|Stormwreck Isle]]
 
 ## Overview
 
