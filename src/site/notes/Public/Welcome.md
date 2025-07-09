@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Welcome.md","permalink":"/welcome/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-path":"Welcome.md","permalink":"/welcome/","pinned":true,"tags":["gardenEntry"]}
 ---
 
 ## 🎲 What is this?

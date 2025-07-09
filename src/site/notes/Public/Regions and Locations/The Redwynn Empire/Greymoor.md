@@ -7,11 +7,11 @@
 
 **Type:** Small coastal town  
 **Population:** ~350  
-**Region:** Western coast of the mainland, across the sea from Stormwreck Isle
+**Region:** Western coast of the [[Public/Regions and Locations/The Redwynn Empire/The Redwynn Empire\|Redwynn Empire]], across the sea from Stormwreck Isle
 
 ## Overview
 
-Greymoor is a modest, fog-choked town perched on the western coast, where the rocky shore gives way to weather-worn docks that have long served as its lifeline. Frequent mists roll in from the sea, lending the wooden streets and leaning buildings a somber, gray hue that inspired the town’s name.
+Greymoor is a modest, fog-choked town perched on the western coast of the Redwynn Empire, where the rocky shore gives way to weather-worn docks that have long served as its lifeline. Frequent mists roll in from the sea, lending the wooden streets and leaning buildings a somber, gray hue that inspired the town’s name.
 
 Most structures are timber-built and appear aged, with dark stains from years of salt and damp. Moss crawls up stone foundations, and rooftops sag under the weight of constant drizzle. Though it may seem dour at first glance, Greymoor is known for the hardiness and quiet hospitality of its folk.  
 <br>

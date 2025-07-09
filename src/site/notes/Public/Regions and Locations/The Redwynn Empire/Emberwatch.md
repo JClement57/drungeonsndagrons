@@ -8,7 +8,7 @@
 
 ## Overview
 
-Emberwatch is the second-largest city in the kingdom, a thriving hub of trade and defense located **about a half-day's boatride up river from the western coast**, linked to the sea by the wide and navigable **Ravenflow River**. Merchant vessels, fishing boats, and river barges travel daily between Emberwatch and the coastal ports, making the city a vital artery for commerce.
+Emberwatch is the second-largest city in the [[Public/Regions and Locations/The Redwynn Empire/The Redwynn Empire\|the Redwynn Empire]] , a thriving hub of trade and defense located **about a half-day's boat ride up river from the western coast**, linked to the sea by the wide and navigable **Ravenflow River**. Merchant vessels, fishing boats, and river barges travel daily between Emberwatch and the coastal ports, making the city a vital artery for commerce.
 
 Its imposing walls and towers stand as both deterrent and promise — a city that has endured for generations, proud of its role as the western guardian of the realm.
 
