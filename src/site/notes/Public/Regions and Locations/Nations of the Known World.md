@@ -29,6 +29,12 @@ Renowned for its towering academies and vibrant art halls, the Korrandi League i
 
 ---
 
+## The Varrholm Confederacy
+
+Frost giants once ruled here, and their lingering magic makes the winters sentient — the snow whispers, blizzards seek vengeance, and auroras can open gates to the spirit realms. The people ride giant elk and sail longships that can glide over both water and ice.
+
+---
+
 ## The Aetheric Reaches
 
 Far above the surface world lies the Aetheric Reaches: a realm of floating islands adrift in a vast sky-ocean roiled by endless storms. Airships with sails spun from woven spells traverse these magical currents, connecting sky ports and cloud fortresses. Governed by councils elected by free peoples, the Reaches represent a fragile democratic web in a place where the laws of gravity — and often reality — are not to be trusted.

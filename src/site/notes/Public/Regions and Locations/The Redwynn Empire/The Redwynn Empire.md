@@ -6,6 +6,15 @@
 
 The Redwynn Empire is a powerful coastal nation, known across continents for its bustling ports, lavish markets, and a sprawling network of trade routes that make it the beating heart of commerce in the region. Its merchant vessels fly crimson sails, a proud emblem of prosperity and ambition.
 
+# Cities
+
+### Large Cities
+ - [[Public/Regions and Locations/The Redwynn Empire/Aelinar\|Aelinar]] - Capital
+ - [[Public/Regions and Locations/The Redwynn Empire/Emberwatch\|Emberwatch]]
+
+### Townships
+ - [[Public/Regions and Locations/The Redwynn Empire/Greymoor\|Greymoor]]
+
 # Government
 
 ### National Governance
