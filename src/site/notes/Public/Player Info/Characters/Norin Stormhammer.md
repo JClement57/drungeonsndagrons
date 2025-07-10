@@ -3,10 +3,9 @@
 ---
 
 > [!infobox]+
-> # Norin Stormhammer
 > ![img/norin.png](/img/user/Public/Player%20Info/Characters/img/norin.png)
-> ######  Description
-> |  |   |
+> ######  Norin Stormhammer
+> |   |   |
 > | ---- | --- |
 > | Level | 1 |
 > | Race | Mountain Dwarf |

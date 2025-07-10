@@ -2,9 +2,18 @@
 {"dg-publish":true,"dg-path":"Regions and Locations/The Redwynn Empire/Aelinar.md","permalink":"/regions-and-locations/the-redwynn-empire/aelinar/"}
 ---
 
+
+> [!QUOTE] Marlan Rooke, ferryman and rumor-monger of Aelinar
+> If you want to hear secrets, stand on the Sapphire Walk after dark. The bridges have more ears than the court itself—and prettier views, too. 
+
+
 > [!infobox]+
-> # Aelinar
 > ![imgs/Aelinar.png](/img/user/Public/Regions%20and%20Locations/The%20Redwynn%20Empire/imgs/Aelinar.png)
+> #### Aelinar
+> |   |   |
+> | ---- | ---- |
+> | Nation | Redwynn |
+> | Population | ~100,000 |
 
 ## Overview
 
