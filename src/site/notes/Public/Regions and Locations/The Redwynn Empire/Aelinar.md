@@ -16,6 +16,7 @@
 > | ---- | ---- |
 > | Nation | Redwynn |
 > | Population | ~100,000 |
+> | Prounciation | EH-lih-nar|
 
 ## Overview
 
