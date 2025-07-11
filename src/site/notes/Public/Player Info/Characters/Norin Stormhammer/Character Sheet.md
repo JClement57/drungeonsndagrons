@@ -1,0 +1,1 @@
+`= sum([number(floor((this.dex - 10)/2)),number(this.pb) * number(this.acrobaticsP)])`
