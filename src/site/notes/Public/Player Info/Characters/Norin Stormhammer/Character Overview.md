@@ -1,1 +1,0 @@
-`= sum([number(floor((this.int - 10)/2)),sum(filter([number(this.pb), 0], (x) => this.arcanaP = true OR x = 0))])`
