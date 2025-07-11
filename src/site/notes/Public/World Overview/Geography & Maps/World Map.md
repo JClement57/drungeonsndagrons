@@ -23,6 +23,6 @@ darkmode: true ### marker
 imageOverlay:
  - [ [[regionOverlay.png|Nations]], [0,0], [7168,12288]]
 ```
-
+[[worldMap.jpg]]
 > [!NOTE]
 > Use the "Layers" button in the top right to see the "Nations" overlay
