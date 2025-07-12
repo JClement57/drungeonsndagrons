@@ -41,3 +41,20 @@
 
 </div></div>
  |
+
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+### Weapons
+
+| Weapon            |                       Hit Modifier                       |                                  Damage                                   | Notes                       |     Hit      |     Dmg     | 
+| ----------------- | :------------------------------------------------------: | :-----------------------------------------------------------------------: | --------------------------- | :----------: | :---------: |
+| Blacksmith Hammer | +5 | 1d4 + 5 Bludgeoning | Nick, Simple, Light, Thrown | `dice: 1d20` | `dice: 1d4` | 
+| Hammaxe        | +5 | 1d6 + 5 Blud/Slash  | Vex, Light, Thrown        | `dice:1d20`  | `dice:1d6`  | 
+> You still need to add the modifiers to the rolls
+
+</div></div>
+
