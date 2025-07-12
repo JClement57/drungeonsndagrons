@@ -22,7 +22,7 @@
 |                 |                                                                                                                               |
 |          Arcana | **`= sum([number(floor(([[data]].int - 10)/2)),sum(filter([number([[data]].pb), 0], (x) => [[data]].arcanaP = true OR x = 0))])`**     |
 |         History | **`= sum([number(floor(([[data]].int - 10)/2)),sum(filter([number([[data]].pb), 0], (x) => [[data]].historyP = true OR x = 0))])`**    |
-|   Investigation | **`= sum([number(floor(([[data]].int - 10)/2)),sum(filter([number([[data]].pb), 0], (x) => [[data]].investigationP = true OR x = 0))])`** |
+|   Investigation | **1** |
 |          Nature | **`= sum([number(floor(([[data]].int - 10)/2)),sum(filter([number([[data]].pb), 0], (x) => [[data]].natureP = true OR x = 0))])`**     |
 |        Religion | **2**    |
 |                 |                                                                                                                               |
