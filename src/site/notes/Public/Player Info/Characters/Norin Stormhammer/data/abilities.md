@@ -4,6 +4,11 @@
 
 
 `=floor(((11-10)/2) + 99) - 99`
+`=floor(0/2)`
+`=floor(1/2)`
+`=floor((11-10)/2)`
+`=floor((10-10)/2)`
+
 
 ## Ability Modifiers
 
