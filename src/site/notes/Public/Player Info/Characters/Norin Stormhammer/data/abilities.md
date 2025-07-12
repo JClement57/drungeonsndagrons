@@ -3,6 +3,8 @@
 ---
 
 
+`=floor((11-10)/2)`
+
 ## Ability Modifiers
 
 |           Skill |                                                           Modifier                                                            |
