@@ -9,15 +9,15 @@
 | --------------: | :---------------------------------------------------------------------------------------------------------------------------: |
 |       Athletics |  **5 **   |
 |                 |                                                                                                                               |
-|      Acrobatics |  **1**   |
-| Sleight of Hand |    **1**    |
-|         Stealth |    **1**    |
+|      Acrobatics | **1**   |
+| Sleight of Hand | **1**    |
+|         Stealth | **1**    |
 |                 |                                                                                                                               |
-|          Arcana |    **`= sum([number(floor(([[data]].int - 10)/2)),sum(filter([number([[data]].pb), 0], (x) => [[data]].arcanaP = true OR x = 0))])`**     |
-|         History |    **`= sum([number(floor(([[data]].int - 10)/2)),sum(filter([number([[data]].pb), 0], (x) => [[data]].historyP = true OR x = 0))])`**    |
+|          Arcana | **`= sum([number(floor(([[data]].int - 10)/2)),sum(filter([number([[data]].pb), 0], (x) => [[data]].arcanaP = true OR x = 0))])`**     |
+|         History | **`= sum([number(floor(([[data]].int - 10)/2)),sum(filter([number([[data]].pb), 0], (x) => [[data]].historyP = true OR x = 0))])`**    |
 |   Investigation | **`= sum([number(floor(([[data]].int - 10)/2)),sum(filter([number([[data]].pb), 0], (x) => [[data]].investigationP = true OR x = 0))])`** |
-|          Nature |    **`= sum([number(floor(([[data]].int - 10)/2)),sum(filter([number([[data]].pb), 0], (x) => [[data]].natureP = true OR x = 0))])`**     |
-|        Religion |   **2**    |
+|          Nature | **`= sum([number(floor(([[data]].int - 10)/2)),sum(filter([number([[data]].pb), 0], (x) => [[data]].natureP = true OR x = 0))])`**     |
+|        Religion | **2**    |
 |                 |                                                                                                                               |
 | Animal Handling |    **1**     |
 |         Insight |    **3**    |
@@ -37,6 +37,6 @@
 | Strength:         | **5 ** |
 | Dexterity         | **3 ** |
 | Constitution      | **3 ** |
-| Intelligence      | `INPUT[number:int]` |
-| Wisdom            | `INPUT[number:wis]` |
-| Charisma          | `INPUT[number:cha]` |
+| Intelligence      | **`= sum([number(floor(([[data]].int - 10)/2)),sum(filter([number([[data]].pb), 0], (x) => [[data]].intSTP = true OR x = 0))])` ** |
+| Wisdom            | **1 ** |
+| Charisma          | **-1 ** |
