@@ -23,11 +23,11 @@
 | Sleight of Hand | **1**    |
 |         Stealth | **1**    |
 |                 |                                                                                                                               |
-|          Arcana | **1**     |
-|         History | **1**    |
-|   Investigation | **1** |
-|          Nature | **1**     |
-|        Religion | **3**    |
+|          Arcana | **`= sum([number(floor(([[data]].int - 10)/2) + 99),sum(filter([number([[data]].pb), 0], (x) => [[data]].arcanaP = true OR x = 0)),-99])`**     |
+|         History | **`= sum([number(floor(([[data]].int - 10)/2)),sum(filter([number([[data]].pb), 0], (x) => [[data]].historyP = true OR x = 0))])`**    |
+|   Investigation | **`= sum([number(floor(([[data]].int - 10)/2)),sum(filter([number([[data]].pb), 0], (x) => [[data]].investigationP = true OR x = 0))])`** |
+|          Nature | **`= sum([number(floor(([[data]].int - 10)/2)),sum(filter([number([[data]].pb), 0], (x) => [[data]].natureP = true OR x = 0))])`**     |
+|        Religion | **2**    |
 |                 |                                                                                                                               |
 | Animal Handling |    **1**     |
 |         Insight |    **3**    |
@@ -47,6 +47,6 @@
 | Strength:         | **5 ** |
 | Dexterity         | **3 ** |
 | Constitution      | **3 ** |
-| Intelligence      | **1 ** |
+| Intelligence      | **`= sum([number(floor(([[data]].int - 10)/2)),sum(filter([number([[data]].pb), 0], (x) => [[data]].intSTP = true OR x = 0))])` ** |
 | Wisdom            | **1 ** |
 | Charisma          | **-1 ** |
