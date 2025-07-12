@@ -3,7 +3,7 @@
 ---
 
 
-`=floor((11-10)/2)`
+1
 
 ## Ability Modifiers
 
