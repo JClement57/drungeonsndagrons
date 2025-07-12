@@ -3,7 +3,7 @@
 ---
 
 
-1
+`=floor(((11-10)/2) + 99) - 99`
 
 ## Ability Modifiers
 
