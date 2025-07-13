@@ -3,16 +3,6 @@
 ---
 
 
-
-0
-
-`=round(0.4)`
-
-`=round(-0.5)`
-
--1
-
-
 ## Ability Modifiers
 
 |           Skill |                                                           Modifier                                                            |
@@ -23,7 +13,7 @@
 | Sleight of Hand | **1**    |
 |         Stealth | **1**    |
 |                 |                                                                                                                               |
-|          Arcana | **`= sum([number(floor(([[data]].int - 10)/2)),sum(filter([number([[data]].pb), 0], (x) => [[data]].arcanaP = true OR x = 0))])`**     |
+|          Arcana | **`= sum([number(floor(([[data]].int - 10)/2)),sum(filter([number([[data]].pb), 0], (x) => [[data]].arcanaP = true OR x = 0))]) OR 0`**     |
 |         History | **`= sum([number(floor(([[data]].int - 10)/2)),sum(filter([number([[data]].pb), 0], (x) => [[data]].historyP = true OR x = 0))])`**    |
 |   Investigation | **`= sum([number(floor(([[data]].int - 10)/2)),sum(filter([number([[data]].pb), 0], (x) => [[data]].investigationP = true OR x = 0))])`** |
 |          Nature | **`= sum([number(floor(([[data]].int - 10)/2)),sum(filter([number([[data]].pb), 0], (x) => [[data]].natureP = true OR x = 0))])`**     |
