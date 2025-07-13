@@ -7,7 +7,7 @@
 0
 
 
-`=firstvalue([floor(0.5), 0])`
+`=firstvalue([floor(0.5), 1])`
 
 
 ## Ability Modifiers
