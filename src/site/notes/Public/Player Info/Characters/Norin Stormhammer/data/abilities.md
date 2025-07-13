@@ -6,8 +6,11 @@
 
 0
 
+`=round(0.4)`
 
-`=firstvalue([floor(0.5), 1])`
+`=round(-0.5)`
+
+-1
 
 
 ## Ability Modifiers
