@@ -6,8 +6,7 @@
 
 0
 
-`=sum(filter([number(floor(([[data]].int - 11)/2)), 0], (x) => x != null))`
-
+intMod:: `=firstvalue([sum(filter([number(floor(([[data]].int - 11)/2)), 0], (x) => x != null)),0])`
 ## Ability Modifiers
 
 |           Skill |                                                           Modifier                                                            |
@@ -18,7 +17,8 @@
 | Sleight of Hand | **1**    |
 |         Stealth | **1**    |
 |                 |                                                                                                                               |
-|          Arcana | **`= sum([number(floor(([[data]].int - 10)/2)),sum(filter([number([[data]].pb), 0], (x) => [[data]].arcanaP = true OR x = 0))])`**     |
+|          Arcana | **11**     |
+|          Arcana | **`= sum([firstvalue([sum(filter([number(floor(([[data]].int - 11)/2)), 0], (x) => x != null)),0]),sum(filter([number([[data]].pb), 0], (x) => [[data]].arcanaP = true OR x = 0))])`**     |
 |         History | **`= sum([map([[[data]].int], (x) => floor((number(x)-10)/2))[0],sum(filter([number([[data]].pb), 0], (x) => [[data]].historyP = true OR x = 0))])`**    |
 |   Investigation | **`= sum([number(floor(([[data]].int - 10)/2)),sum(filter([number([[data]].pb), 0], (x) => [[data]].investigationP = true OR x = 0))])`** |
 |          Nature | **`= sum([number(floor(([[data]].int - 10)/2)),sum(filter([number([[data]].pb), 0], (x) => [[data]].natureP = true OR x = 0))])`**     |
