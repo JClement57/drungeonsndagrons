@@ -3,10 +3,14 @@
 ---
 
 
-<pre class="dataview dataview-error">Dataview JS queries are disabled. You can enable them in the Dataview settings.</pre>
+
+
 `=sum([floor(((11-10)/2) + 99),-99])`
+
 `=floor(0/2)`
+
 `=sum([0])`
+
 0.5
 
 
