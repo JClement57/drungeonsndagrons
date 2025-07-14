@@ -3,9 +3,12 @@
 ---
 
 # The Shattered Reach
-Long before written memory, the world was a single sprawling landmass — a cradle where titans walked, gods contended, and mortal kingdoms first took root. This unity was violently undone in the Cataclysm of Sundering, a world-rending upheaval said to have been caused by warring deities or a reckless spell of unimaginable scale. Mountains split, rivers boiled into steam, and fissures swallowed whole empires. When the world stilled, a vast ocean stood where fertile plains once stretched, forever dividing the continents and scattering countless islands like shattered jewels across the waters.
+Long before written memory, the world was a single sprawling landmass — a cradle where titans walked, gods contended, and mortal kingdoms first took root. This unity was violently undone in the Cataclysm of the Shattering, a world-rending upheaval said to have been caused by warring deities or a reckless spell of unimaginable scale. Mountains split, rivers boiled into steam, and fissures swallowed whole empires. When the world stilled, a vast ocean stood where fertile plains once stretched, forever dividing the continents and scattering countless islands like shattered jewels across the waters.
 
-Even now, sages debate the true cause of the Sundering, poring over fragmentary myths and cryptic ruins. Meanwhile, sailors and merchants ply the seas born of that long-ago devastation, unknowingly tracing the scars of an ancient wound with every voyage. This ocean stands as both a bridge and a barrier between civilizations, its depths hiding echoes of the world that once was.
+Even now, sages debate the true cause of the Shattering, poring over fragmentary myths and cryptic ruins. Meanwhile, sailors and merchants ply the seas born of that long-ago devastation, unknowingly tracing the scars of an ancient wound with every voyage. This ocean stands as both a bridge and a barrier between civilizations, its depths hiding echoes of the world that once was.
+
+## The Veildeep Ocean
+The Veildeep is the ocean that  separates the two continents main of The Shattered Reach. Legends say that it hides mysteries and ancient wreckage from the Shattering.
 <br><br>
 # Nations
 
