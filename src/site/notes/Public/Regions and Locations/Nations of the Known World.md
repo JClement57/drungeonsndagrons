@@ -24,7 +24,7 @@ The Veildeep is the ocean that  separates the two continents main of The Shatter
 
 ---
 
-## The Tyras il Dominion
+## The Tyrasil Dominion
 
 A realm of lush jungles and resplendent jeweled palaces, the Tyrasil Dominion thrives atop the living roots of a primordial world-tree. Its sap brings both miraculous life and horrifying mutations, a power closely guarded by the ruling dynasties. Emperors and nobles maintain vast menageries of magical beasts — status symbols as much as formidable weapons — creating a society where wonder and terror walk hand in hand.
 
