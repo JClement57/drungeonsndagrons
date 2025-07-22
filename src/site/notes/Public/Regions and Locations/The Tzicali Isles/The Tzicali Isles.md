@@ -16,7 +16,7 @@ Political life resembles the cutthroat court intrigue of medieval England: arran
 <br>
 ## Samurai Tradition
 
-Among the nobility’s armies, the knights/samurai (NAME) stand apart — elite, ritual-bound warriors who travel the Isles seeking causes to champion and foes to best. They live by strict codes of personal honor and loyalty, mingling local myth with martial discipline. Some roam freely, offering their blades to nobles in return for land or favor.
+**[[Public/Regions and Locations/The Tzicali Isles/Tzicali Warrior Traditions\|Martial traditions]]** flourish across the Tzicali Isles, where **warrior clans known as the Tiwi and the Balami** hold deep cultural significance. The Tiwi — eagle-inspired warriors — act as noble defenders of peace and freedom, upholding ancient codes of conduct and spiritual guardianship. In contrast, the jaguar-inspired Balami serve as mercenaries and power brokers, often employed by feuding lords to enforce will through strength. While both warrior traditions command respect, their conflicting ideals reflect the divided soul of the archipelago itself.
 <br>
 
 ## Religion
