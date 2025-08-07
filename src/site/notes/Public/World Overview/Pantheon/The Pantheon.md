@@ -6,7 +6,7 @@
 The **Celestial Triad** is the simplified divine structure of the cosmos, composed of **three tiers of divinity**:
 1. **[[Public/World Overview/Pantheon/Solarin\|Solarin]], the Sun** – The supreme creator and overseer of order
 2. **[[Public/World Overview/Pantheon/Lunira\|Lunira]], the Moon** – The goddess of transformation, death, and ambiguity
-3. **[[The Stars \| The Cosmic Legion]], the Stars** – A vast and varied legion of lesser deities, appointed to rule over specific domains
+3. **[[Public/World Overview/Pantheon/The Stars\|The Cosmic Legion]], the Stars** – A vast and varied legion of lesser deities, appointed to rule over specific domains
 
 Together, these forces shape the universe and influence every aspect of existence—light and shadow, life and death, knowledge and mystery.
 
