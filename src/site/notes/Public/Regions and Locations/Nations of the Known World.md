@@ -14,7 +14,7 @@ The Veildeep is the ocean that  separates the two continents main of The Shatter
 
 ## The Redwynn Empire
 
-[[Public/Regions and Locations/The Redwynn Empire/The Redwynn Empire\|The Redwynn Empire]] is a mighty kingdom sprawling along the western coast of the eastern continent. Rolling hills give way to dense forests, jagged mountain ranges, and breathtaking coastlines dotted with bustling ports. The Redwynn Empire is ruled by a monarch — currently Queen Alandra Vaelwyn — but each major city maintains its own elected mayor, balancing the interests of local governance with imperial decree. This mix of monarchy and civic democracy, alongside its thriving guilds, makes it a hub of trade, politics, and intrigue.
+[[Public/Regions and Locations/The Redwynn Empire/0 - The Redwynn Empire\|0 - The Redwynn Empire]] is a mighty kingdom sprawling along the western coast of the eastern continent. Rolling hills give way to dense forests, jagged mountain ranges, and breathtaking coastlines dotted with bustling ports. The Redwynn Empire is ruled by a monarch — currently Queen Alandra Vaelwyn — but each major city maintains its own elected mayor, balancing the interests of local governance with imperial decree. This mix of monarchy and civic democracy, alongside its thriving guilds, makes it a hub of trade, politics, and intrigue.
 
 ---
 
