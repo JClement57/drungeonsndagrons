@@ -5,7 +5,6 @@
 ## The Cosmic Legion
 
 > [!infobox]+
-> ![sunGodEmblem.png](/img/user/Public/World%20Overview/Pantheon/imgs/sunGodEmblem.png)
 > ######  The Stars, the Cosmic Legion
 > |   |   |
 > | ---- | --- |
