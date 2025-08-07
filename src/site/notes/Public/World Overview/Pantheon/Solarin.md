@@ -9,9 +9,15 @@
 > ######  Solarin, the Sun Father
 > |   |   |
 > | ---- | --- |
-> | **Domains** | Light, Life, Nature, Forge, Creation, Order |
+> | **Domains** | Light, Life, Nature, Creation, Order |
 > | **Alignment** | Lawful Good |
 > | **Titles** | The Sunfather, The Dawnfather, The First Flame, Giver of All, The Eternal Beacon |
+
+**Solarin** is the original force in the universe—the first spark, the primal fire, the shaper of reality. He created the world, the heavens, and time itself. All structure, all logic, all things that function according to rules and patterns fall under his dominion.
+
+He is a deity of stability and certainty. Day follows night because he commands it. Civilization, law, and the natural world—all are expressions of his divine order.
+
+The Sun is revered as the ultimate power in the cosmos. Though distant, his light touches all things. He rarely intervenes directly, instead working through his divine stewards: the Stars.
 
 ### Description
 Solarin is the oldest and most powerful of the divine. He is the origin of life, warmth, and form—the divine forge from which all that exists was shaped. Solarin's light not only brings clarity but **creates**. His radiance gives birth to forests, breathes life into the land, and fuels the crafts of mortals and gods alike.

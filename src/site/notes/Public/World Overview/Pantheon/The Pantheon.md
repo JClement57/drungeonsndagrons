@@ -28,5 +28,5 @@ This structure allows for both **order** and **mystery** to coexist within the d
 ## Legend of Creation
 - **Creation Myth:** [[Public/World Overview/Pantheon/Solarin\|Solarin]] forged the world from nothing, bringing order to the void. From his light and [[Public/World Overview/Pantheon/Lunira\|Lunira]]'s shadow, the Stars were born—each one carrying a shard of divinity to oversee different parts of existence.
   
-- [[Public/World Overview/Pantheon/The Cosmic Legion\|The Stars]], though distant, still serve their makers. They hold fragments of Solarin’s flame and Lunira’s dream. They do not rule, but they guide, each from their seat in the sky.
+- [[Public/World Overview/Pantheon/The Stars\|The Stars]], though distant, still serve their makers. They hold fragments of Solarin’s flame and Lunira’s dream. They do not rule, but they guide, each from their seat in the sky.
 
