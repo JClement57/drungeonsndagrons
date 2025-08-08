@@ -2,8 +2,6 @@
   font-family: "Faculty Glyphic", sans-serif;
 }
 
-$background-secondary: #2a2e34; 
-
 #tooltip-wrapper {
   width: 80%;
   max-width: 800px !important;
@@ -15,8 +13,9 @@ $background-secondary: #2a2e34;
   }
 }
 
-.navbar-inner {
+.navbar-inner .filetree-sidebar {
   h1 {
     visibility: hidden;
   }
+  background-color: #2a2e34;
 }
