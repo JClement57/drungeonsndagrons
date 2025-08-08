@@ -1,0 +1,8 @@
+.dnd {
+  font-family: "Faculty Glyphic", sans-serif;
+}
+
+#tooltip-wrapper {
+  width: 80%;
+  max-width: 800px;
+}
