@@ -13,7 +13,7 @@
 > | **Alignment** | Chaotic Neutral |
 > | **Titles** | The Veiled Queen, Mother of Secrets, Night’s Mercy, The Storm-Widow |
 
-**Lunira** is the second god, born in the shadow of the Sun’s radiance. She governs all that shifts, fades, or transforms. Where [[Public/World Overview/Pantheon/Solarin\|Solarin]] creates and defines, Lunira disturbs and redefines. Her domain includes death, the sea, storms, dreams, and deception—anything that cannot be pinned down or permanently held.
+**Lunira** is the second celestial, born in the shadow of the Sun’s radiance. She governs all that shifts, fades, or transforms. Where [[Public/World Overview/Pantheon/Solarin\|Solarin]] creates and defines, Lunira disturbs and redefines. Her domain includes death, the sea, storms, dreams, and deception—anything that cannot be pinned down or permanently held.
 
 While the Sun ensures the world functions, the Moon ensures that it **evolves**. She guides endings toward new beginnings and allows space for secrets, chaos, and uncertainty to exist. Though often associated with trickery or darkness, she is also the comforter of the grieving, the guide of souls, and the patron of change.
 
