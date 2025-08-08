@@ -12,3 +12,9 @@
     height: 75px;
   }
 }
+
+.navbar-inner {
+  h2 {
+    visibility: hidden;
+  }
+}
