@@ -2,6 +2,8 @@
   font-family: "Faculty Glyphic", sans-serif;
 }
 
+$background-secondary: #2a2e34; 
+
 #tooltip-wrapper {
   width: 80%;
   max-width: 800px !important;
