@@ -6,4 +6,3 @@
 
 ![worldMap.jpg](/img/user/Public/World%20Overview/Geography%20&%20Maps/worldMap.jpg)
 
-A
