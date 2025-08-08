@@ -13,7 +13,7 @@
 > | **Alignment** | Chaotic Neutral |
 > | **Titles** | The Veiled Queen, Mother of Secrets, Night’s Mercy, The Storm-Widow |
 
-**Lunira** is the second celestial, born in the shadow of the Sun’s radiance. She governs all that shifts, fades, or transforms. Where [[Public/World Overview/Pantheon/Solarin\|Solarin]] creates and defines, Lunira disturbs and redefines. Her domain includes death, the sea, storms, dreams, and deception—anything that cannot be pinned down or permanently held.
+**Lunira** is the second celestial, born in the shadow of the Sun’s radiance. She governs all that shifts, fades, evolves, or transforms. Where [[Public/World Overview/Pantheon/Solarin\|Solarin]] creates and defines, Lunira disturbs and redefines. Her domain includes death, the sea, storms, dreams, and deception—anything that cannot be pinned down or permanently held.
 
 While the Sun ensures the world functions, the Moon ensures that it **evolves**. She guides endings toward new beginnings and allows space for secrets, chaos, and uncertainty to exist. Though often associated with trickery or darkness, she is also the comforter of the grieving, the guide of souls, and the patron of change.
 
@@ -28,4 +28,4 @@ Lunira does not create, but **transforms**. The dying find passage through her. 
 Elusive, mercurial, and enigmatic. Lunira is a trickster, a mourner, a storm that passes as quickly as it comes. She speaks in riddles and dreams. She loves deeply and mourns eternally, especially the stars she once bore from Solarin’s fire.
 
 ### Worshippers  
-Sailors, mourners, spies, storm-callers, gravekeepers, assassins, and dreamers. Many pray to her at dusk, especially those in grief or fear.
+Sailors, mourners, spies, storm-callers, gravekeepers, assassins, and dreamers. Many pray to her at dusk, especially those in grief or fear. 
