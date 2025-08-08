@@ -4,5 +4,5 @@
 
 #tooltip-wrapper {
   width: 80%;
-  max-width: 800px;
+  max-width: 800px !important;
 }
