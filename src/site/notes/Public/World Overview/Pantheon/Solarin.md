@@ -10,7 +10,7 @@
 > |   |   |
 > | ---- | --- |
 > | **Domains** | Light, Life, Nature, Creation, Order |
-> | **Alignment** | Lawful Good |
+> | **Alignment** | Lawful Neutral |
 > | **Titles** | The Sunfather, The Dawnfather, The First Flame, Giver of All, The Eternal Beacon |
 
 **Solarin** is the original force in the universe—the first spark, the primal fire, the shaper of reality. He created the world, the heavens, and time itself. All structure, all logic, all things that function according to rules and patterns fall under his dominion.
