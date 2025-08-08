@@ -13,7 +13,7 @@
   }
 }
 
-.navbar-inner .filetree-sidebar {
+.navbar-inner, .filetree-sidebar {
   h1 {
     visibility: hidden;
   }
