@@ -9,7 +9,7 @@
 
 #tooltip-content {
   div, header {
-    visibility: none;
+    visibility: hidden;
     height: 0px;
   }
 }
