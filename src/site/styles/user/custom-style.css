@@ -5,6 +5,7 @@
 #tooltip-wrapper {
   width: 80%;
   max-width: 800px !important;
+  border: solid medium #343840;
 }
 
 #tooltip-content {
