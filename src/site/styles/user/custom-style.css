@@ -7,10 +7,20 @@
   max-width: 800px !important;
 }
 
+#tooltip-content {
+  div, header {
+    visibility: none;
+    height: 0px;
+  }
+}
+
 #drungeons-home-button {
   @media (max-width: 1400px) {
     height: 70px;
     padding-top: 10px;
+  }
+  @media (min-width: 1401px) {
+    padding: 10px;
   }
 }
 
