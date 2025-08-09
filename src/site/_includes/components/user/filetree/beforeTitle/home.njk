@@ -1,3 +1,15 @@
 <a href="https://drungeonsndagrons.com">
 <img src="https://iili.io/FsZAn71.md.png" alt="FsZAn71.md.png" border="0" id="drungeons-home-button">
 </a>
+<script>
+var prevScrollpos = window.pageYOffset;
+window.onscroll = function() {
+  var currentScrollPos = window.pageYOffset;
+  if (prevScrollpos > currentScrollPos) {
+    document.getElementsByClassName("navbar")[0].style.top = "0";
+  } else {
+    document.getElementsByClassName("navbar")[0].style.top = "-75px";
+  }
+  prevScrollpos = currentScrollPos;
+}
+</script>
