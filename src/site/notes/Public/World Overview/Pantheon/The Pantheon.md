@@ -4,9 +4,9 @@
 
 ## The Celestial Triad
 The **Celestial Triad** is the simplified divine structure of the cosmos, composed of **three tiers of divinity**:
-1. **[[Public/World Overview/Pantheon/Solarin\|Solarin]], the Sun** – The supreme creator and overseer of order
-2. **[[Public/World Overview/Pantheon/Lunira\|Lunira]], the Moon** – The celestial of transformation, death, and ambiguity
-3. **[[Public/World Overview/Pantheon/The Stars\|The Cosmic Legion]], the Stars** – A vast and varied legion of lesser deities, appointed to rule over specific domains
+- **[[Public/World Overview/Pantheon/Celestials/Solarin\|Solarin]], the Sun** – The supreme creator and overseer of order
+- **[[Public/World Overview/Pantheon/Celestials/Lunira\|Lunira]], the Moon** – The celestial of transformation, death, and ambiguity
+- **[[Public/World Overview/Pantheon/Celestials/The Stars\|The Cosmic Legion]], the Stars** – A vast and varied legion of lesser deities, appointed to rule over specific domains
 
 Together, these forces shape the universe and influence every aspect of existence—light and shadow, life and death, knowledge and mystery.
 
@@ -17,7 +17,7 @@ Together, these forces shape the universe and influence every aspect of existenc
 
 
 ### Balance and Divine Governance
-The Triad is not a pantheon of conflict, but of **cosmic balance**. Solarin and Lunira do not represent good and evil, but light and dark, constant and change, push and pull, order and chaos. Their relationship creates the dynamic ebbing and flowing that makes the world worth living in. The stars operate as children or servants to the Sun and the Moon, helping to advance their goals.
+The Triad is not a pantheon of conflict, but of **cosmic balance**. [[Public/World Overview/Pantheon/Celestials/Solarin\|Solarin]] and [[Public/World Overview/Pantheon/Celestials/Lunira\|Lunira]] do not represent good and evil, but light and dark, constant and change, push and pull, order and chaos. Their relationship creates the dynamic ebbing and flowing that makes the world worth living in. The stars operate as children or servants to the Sun and the Moon, helping to advance their goals.
 
 - The **Sun** establishes the **constants** of reality.
 - The **Moon** introduces **change** and ensures the cycle of creation and dissolution continues.
@@ -26,7 +26,12 @@ The Triad is not a pantheon of conflict, but of **cosmic balance**. Solarin and 
 This structure allows for both **order** and **mystery** to coexist within the divine cosmos, offering a rich tapestry of belief and devotion for mortals.
 
 ### Legend of Creation
-- **Creation Myth:** [[Public/World Overview/Pantheon/Solarin\|Solarin]] forged the world from nothing, bringing order to the void. From his light and [[Public/World Overview/Pantheon/Lunira\|Lunira]]'s shadow, the Stars were born—each one carrying a shard of divinity to oversee different parts of existence.
+- **Creation Myth:** [[Public/World Overview/Pantheon/Celestials/Solarin\|Solarin]] forged the world from nothing, bringing order to the void. From his light and [[Public/World Overview/Pantheon/Celestials/Lunira\|Lunira]]'s shadow, the Stars were born—each one carrying a shard of divinity to oversee different parts of existence.
   
-- [[Public/World Overview/Pantheon/The Stars\|The Stars]], though distant, still serve their makers. They hold fragments of Solarin’s flame and Lunira’s dream. They do not rule, but they guide, each from their seat in the sky.
+- [[Public/World Overview/Pantheon/Celestials/The Stars\|The Stars]], though distant, still serve their makers. They hold fragments of Solarin’s flame and Lunira’s dream. They do not rule, but they guide, each from their seat in the sky.
+
+###  Celestial Law
+To maintain order in the celestial realm, [[Public/World Overview/Pantheon/Celestials/Solarin\|Solarin]] created the [[Public/World Overview/Pantheon/Celestial Law\|Celestial Code]] - a set of laws that governed all beings in the celestial realm. Any breach of these laws would be met with immediate banishment from the celestial realm. Upon banishment stars lose all but a sliver of their radiant power reducing them to mere mortals.
+
+
 
