@@ -68,8 +68,9 @@ Varnoth reminded the party to investigate the shipwreck on the North and see if 
 <br>
 
 ## 📌 Player Notes
- - Jin used his poison breath attack down the mouth of a demoralized fume drake, only to find out the fume drake had an immunity to poison. The rest of the party perceived this as Jin making out with the drake
+ - Jin used his poison breath attack down the mouth of a demoralized fume drake, only to find out the fume drake had an immunity to poison. The rest of the party perceived this as Jin making out with the drake 
  - Leveled up to level 2!
+
 
 > [!QUOTE] Jin Tsuji
 >"You thought the snake was hot? The drake was way hotter!"
