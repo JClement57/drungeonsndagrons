@@ -13,3 +13,13 @@ Think of it as both:
 - 📚 **An encyclopedia** of the world, containing lore, locations, important NPCs, deities, maps, and more.
     
 - 🗺 **A campaign log**, tracking your party’s deeds, current quests, and memorable moments.
+
+
+# Session History
+
+| \#  | Title                                                                               | Location                  |
+| --- | ----------------------------------------------------------------------------------- | ------------------------- |
+| 2   | [[Public/Sessions/Session 2 - Curing the Blight\|Curing the Blight]]                       | Stormwreck Isle           |
+| 1   | [[Public/Sessions/Session 1 - Strangers on Stormwreck Isle\|Strangers on Stormwreck Isle]] | Greymoor, Stormwreck Isle |
+| 0   | [[Public/Sessions/Session 0 - Planning\|Session 0 - Planning]]                             |                           |
+
