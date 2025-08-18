@@ -12,7 +12,7 @@
 _The party was informed by the adult myconids treating the wounds of Sinensa - the leader of the caves - that the origin of the blight seemed to be coming from the western caverns. As the party investigated, they found a crystal that was blocking a ventilation shaft in the western cavern. From below, the violet haze arose "from the depths", but our heroes don't know it's true source. After removing the crystal blocking the shaft, the fumes began to flow out of the caverns, relieving the blight of the Seagrow Caves. The myconids were grateful for all of their help._
 
 _ Upon returning to Dragon's Rest, Tarok used some alchemist juju to create potions of the mushrooms that the party brought back from the caves. Jin talked with Runara about what could be "in the depths" and she revealed that, in the battle of the dragons, Sharruth was defeated by Bahamut and buried deep below the island.
-Varnoth reminded the party to investigate the shipwreck on the North and see if they could figure out what was causing all the shipwrecks recently. Alaric, a guard of Dragon's Rest, accompanied the party to make sure they got to the beach safely and helped them defeat an owlbear on the way down to the beach._
+Varnoth reminded the party to investigate the wreck of the Compass Rose on the North side of the island to see if they could figure out what was causing all the shipwrecks recently. Alaric, a guard of Dragon's Rest, accompanied the party to make sure they got to the beach safely and helped them defeat an owlbear on the way down to the beach._
 
 <br>
 

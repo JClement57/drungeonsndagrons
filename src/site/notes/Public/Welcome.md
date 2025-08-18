@@ -17,9 +17,9 @@ Think of it as both:
 
 # Session History
 
-| \#  | Title                                                                               | Location                  |
-| --- | ----------------------------------------------------------------------------------- | ------------------------- |
-| 2   | [[Public/Sessions/Session 2 - Curing the Blight\|Curing the Blight]]                       | Stormwreck Isle           |
-| 1   | [[Public/Sessions/Session 1 - Strangers on Stormwreck Isle\|Strangers on Stormwreck Isle]] | Greymoor, Stormwreck Isle |
-| 0   | [[Public/Sessions/Session 0 - Planning\|Session 0 - Planning]]                             |                           |
+| \#  | Title                                                                               | Location                  |            Date |
+| --- | ----------------------------------------------------------------------------------- | ------------------------- | --------------: |
+| 2   | [[Public/Sessions/Session 2 - Curing the Blight\|Curing the Blight]]                       | Stormwreck Isle           | August 10, 2025 |
+| 1   | [[Public/Sessions/Session 1 - Strangers on Stormwreck Isle\|Strangers on Stormwreck Isle]] | Greymoor, Stormwreck Isle |   July 19, 2025 |
+| 0   | [[Public/Sessions/Session 0 - Planning\|Session 0 - Planning]]                             |                           |                 |
 
