@@ -25,11 +25,6 @@ The Triad is not a pantheon of conflict, but of **cosmic balance**. [[Public/Wor
 
 This structure allows for both **order** and **mystery** to coexist within the divine cosmos, offering a rich tapestry of belief and devotion for mortals.
 
-### Legend of Creation
-- **Creation Myth:** [[Public/World Overview/Pantheon/Celestials/Solarin\|Solarin]] forged the world from nothing, bringing order to the void. From his light and [[Public/World Overview/Pantheon/Celestials/Lunira\|Lunira]]'s shadow, the Stars were born—each one carrying a shard of divinity to oversee different parts of existence.
-  
-- [[Public/World Overview/Pantheon/Celestials/The Stars\|The Stars]], though distant, still serve their makers. They hold fragments of Solarin’s flame and Lunira’s dream. They do not rule, but they guide, each from their seat in the sky.
-
 ###  Celestial Law
 To maintain order in the celestial realm, [[Public/World Overview/Pantheon/Celestials/Solarin\|Solarin]] created the [[Public/World Overview/Pantheon/Celestial Law\|Celestial Code]] - a set of laws that governed all beings in the celestial realm. Any breach of these laws would be met with immediate banishment from the celestial realm. Upon banishment stars lose all but a sliver of their radiant power reducing them to mere mortals.
 
