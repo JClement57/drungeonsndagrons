@@ -4,7 +4,7 @@
 
 ### Overview
 
-The **History of Magic** traces the origin, development, and understanding of arcane power within the world. Unlike natural forces such as wind or fire, magic is widely believed to be an **artificial phenomenon**, born from a celestial intervention during the aftermath of the [[Public/World Overview/Pantheon/The Myths of Creation#The Twilight Rebellion\|Twilight Rebellion]]. Its existence is intimately tied to the preservation of the world itself, and it remains both a tool and a reminder of cosmic conflict.
+The **History of Magic** traces the origin, development, and understanding of arcane power within the world. Unlike natural forces such as wind or fire, magic is widely believed to be an **artificial phenomenon**, born from a celestial intervention during the aftermath of the [[Public/World Overview/Pantheon/The Myth of Creation#The Twilight Rebellion\|Twilight Rebellion]]. Its existence is intimately tied to the preservation of the world itself, and it remains both a tool and a reminder of cosmic conflict.
 
 Magic’s beginnings lie in the **War of the Stars**, a rebellion against the Prime Deity **Solarin**. A faction of stars sought dominion beyond their appointed stewardship, seeking to remake creation in their own image. The resulting war devastated the fabric of reality. Mountains were broken, oceans overturned, and the boundaries between realms began to unravel. Though the rebellion was crushed, the fabric of the world was left wounded and unstable.  
 
