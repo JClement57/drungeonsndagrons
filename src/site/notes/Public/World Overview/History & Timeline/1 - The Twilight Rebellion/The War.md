@@ -25,3 +25,6 @@ Over the ages, some few of these peoples found their way back to the surface. Ye
 The war for the Krisis raged for centuries, each battle unraveling more of Solarin’s perfect creation. Mountains split, seas boiled, and the very threads of the world began to tear. As the ritual neared completion, the chaos of divine magic consumed the land, fracturing continents and rending the sky.
 
 Seeing Solarin’s creation that she had grown to love breaking apart, **Lunira** descended to mend what she could. With threads of silver light, she **stitched the world back together**, sealing its wounds and leaving behind shimmering fault lines across the land. This glow has since faded, but the magical energy remains, creating [[Public/World Overview/Magic/The Seams\|The Seams]] - places of extraordinary magical power that are both perilous and sacred.
+
+### Aftermath
+Thousands of years have passed since the conclusion of the rebellion. The fallen Aspirants mingled with mortals, seeding bloodlines and civilizations, but never regaining their celestial thrones. The conflicts since then have been mortal ones — wars of greed, ambition, and pride, fought without the direct hand of the stars. The Faithbound remained distant, operating as good stewards of the dominions to which they were assigned, but wary to step out of line in fear of Solarin's wrath. 

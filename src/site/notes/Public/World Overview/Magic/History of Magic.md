@@ -2,11 +2,9 @@
 {"dg-publish":true,"dg-path":"World Overview/Magic/History of Magic.md","permalink":"/world-overview/magic/history-of-magic/"}
 ---
 
-### Overview
+### **The Birth of Magic**
 
-The **History of Magic** traces the origin, development, and understanding of arcane power within the world. Unlike natural forces such as wind or fire, magic is widely believed to be an **artificial phenomenon**, born from a celestial intervention during the aftermath of the [[Public/World Overview/Pantheon/The Myth of Creation#The Twilight Rebellion\|Twilight Rebellion]]. Its existence is intimately tied to the preservation of the world itself, and it remains both a tool and a reminder of cosmic conflict.
-
-Magic’s beginnings lie in the **War of the Stars**, a rebellion against the Prime Deity **Solarin**. A faction of stars sought dominion beyond their appointed stewardship, seeking to remake creation in their own image. The resulting war devastated the fabric of reality. Mountains were broken, oceans overturned, and the boundaries between realms began to unravel. Though the rebellion was crushed, the fabric of the world was left wounded and unstable.  
+In the ages after the Twilight Rebellion, mortals began to uncover the lingering threads of **Aetherium** woven through Caelthys — the same celestial essence Solarin had wielded in creation. Drawn to its radiance, early scholars, shamans, and dreamers learned to touch this living current, shaping its flow through will and ritual. Thus was born **magic** — the mortal art of bending divine power. Though its use echoes the hand of Solarin himself, it remains a perilous gift; for every spell cast is a whisper tugged from the same tapestry that once nearly unraveled the world.
 
 
 ### Lunira’s Breath
