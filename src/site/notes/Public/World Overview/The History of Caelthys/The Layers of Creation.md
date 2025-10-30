@@ -3,7 +3,7 @@
 ---
 
 > [!INFOBOX]
-> ![attachments/Pasted image 20251030170206.png|400](/img/user/Public/World%20Overview/The%20History%20of%20Caelthys/attachments/Pasted%20image%2020251030170206.png)
+> ![attachments/Pasted image 20251030170206.png|300](/img/user/Public/World%20Overview/The%20History%20of%20Caelthys/attachments/Pasted%20image%2020251030170206.png)
 
 ### **The Celestial Realm**
 
