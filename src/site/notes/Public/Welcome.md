@@ -13,6 +13,27 @@ Think of it as both:
 - 📚 **An encyclopedia** of the world, containing lore, locations, important NPCs, deities, maps, and more.
     
 - 🗺 **A campaign log**, tracking your party’s deeds, current quests, and memorable moments.
+# Characters
+> [!cards|5]
+> **[[Public/Player Info/Characters/Jin Tsuji\|Jin Tsuji]]**
+> ![Player Info/Characters/img/jin.png](/img/user/Public/Player%20Info/Characters/img/jin.png)
+> 
+> **[[Public/Player Info/Characters/Kira Lux\|Kira Lux]]**
+> ![Player Info/Characters/img/kira.png](/img/user/Public/Player%20Info/Characters/img/kira.png)
+> 
+> **[[Public/Player Info/Characters/Oleander 'Oly' Briar\|Oleander 'Oly' Briar]]**
+> ![Player Info/Characters/img/oly.jpeg|275x409](/img/user/Public/Player%20Info/Characters/img/oly.jpeg)
+> 
+> **[[Public/Player Info/Characters/Z'Rak\|Z'Rak]]**
+> ![Player Info/Characters/img/zrak.png|277x412](/img/user/Public/Player%20Info/Characters/img/zrak.png)
+> 
+>**[[Public/Player Info/Characters/Norin Stormhammer\|Norin Stormhammer]]**
+> ![Player Info/Characters/img/norin3_4.jpg](/img/user/Public/Player%20Info/Characters/img/norin3_4.jpg)
+
+| Jin Tsuji                              | Kira Lux | Oly Briar | Z'Rak | Amaeric Cassius Palius | Norin Stormhammer |
+| -------------------------------------- | -------- | --------- | ----- | ---------------------- | ----------------- |
+| [[Player Info/Characters/img/jin.png]] |          |           |       |                        |                   |
+
 
 
 # Session History

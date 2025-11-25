@@ -3,7 +3,7 @@
 ---
 
 > [!infobox]+
-> ![img/kira.png.png](/img/user/Public/Player%20Info/Characters/img/kira.png.png)
+> ![img/kira.png](/img/user/Public/Player%20Info/Characters/img/kira.png)
 > ######  Kira Lux
 > |   |   |
 > | ---- | --- |
