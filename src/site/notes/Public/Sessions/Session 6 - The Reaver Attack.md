@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Sessions/Session 6 - The Reaver Attack.md","permalink":"/sessions/session-6-the-reaver-attack/"}
 ---
 
-*Date:* 10/5/2025  
+*Date:* 10/26/2025  
 *Game Master:* Josh  
 *Players Present:* Mike, Katy, Landon, Hailey 
 

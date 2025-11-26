@@ -3,7 +3,7 @@
 ---
 
 > [!infobox]+
-> ![img/norin3_4.jpg](/img/user/Public/Player%20Info/Characters/img/norin3_4.jpg)
+> ![img/norin3_4.jpeg](/img/user/Public/Player%20Info/Characters/img/norin3_4.jpeg)
 > ######  Norin Stormhammer
 > |   |   |
 > | ---- | --- |

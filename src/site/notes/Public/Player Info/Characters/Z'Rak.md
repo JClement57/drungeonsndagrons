@@ -3,7 +3,7 @@
 ---
 
 > [!infobox]+
-> ![img/zrak.png](/img/user/Public/Player%20Info/Characters/img/zrak.png)
+> ![img/zrak.jpeg](/img/user/Public/Player%20Info/Characters/img/zrak.jpeg) 
 > ######  Z'rak
 > |   |   |
 > | ---- | --- |

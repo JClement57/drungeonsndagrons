@@ -30,6 +30,9 @@ Dulannese people are taught from the day that they are born that they must earn 
 Originally, the lands in the north of Caelthys were rich plains and flatlands teeming with life, joy, and civilization. During [[Public/World Overview/The History of Caelthys/1 - The Twilight Rebellion/The War\|the Twilight Rebellion]] these plains were the site of many fierce battles. These battles scarred the once-beautiful landscape. Flat green plains became rugged frigid wastelands. 
 The rebellion scattered [[Public/World Overview/Magic/The Seams\|Seams]] all across the Northern reaches of Caelthys. An old mage named Haldor sought to harness this power for himself. He used the great power of one of the seams to erect a mountain around the seam, and thus Haldorfjell (Haldor's mountain) was founded. As Haldor's tribe grew, he and other powerful arcanists traversed the inhospitable wilderness of the North and erected more mountain cities on seams across the northern plains. This nation eventually became known as **The Dulann Marches**.
 
-|                      Haldorfjell                      |                        Eldsmid                        |
-| :---------------------------------------------------: | :---------------------------------------------------: |
-| ![[attachments/haldorfjell.png\|500]] | ![[attachments/eldsmid.png\|500]] |
+> [!cards|2]
+> **Haldorfjell**
+> ![attachments/haldorfjell.png|300](/img/user/Public/Regions%20and%20Locations/The%20Dulann%20Marches/attachments/haldorfjell.png)
+> 
+> **Eldsmid**
+> ![attachments/eldsmid.png|300](/img/user/Public/Regions%20and%20Locations/The%20Dulann%20Marches/attachments/eldsmid.png)

@@ -13,35 +13,38 @@ Think of it as both:
 - 📚 **An encyclopedia** of the world, containing lore, locations, important NPCs, deities, maps, and more.
     
 - 🗺 **A campaign log**, tracking your party’s deeds, current quests, and memorable moments.
+
+
 # Characters
-> [!column|flex 5 no-t s-mg]
+> [!column|flex 6 no-t]
 >> [!card|no-t]
 >> ### **[[Public/Player Info/Characters/Jin Tsuji\|Jin Tsuji]]**
->> 
->> ![Player Info/Characters/img/jin.jpeg|jin|400](/img/user/Public/Player%20Info/Characters/img/jin.jpeg)
+>> ![Player Info/Characters/img/jin.jpeg|jin](/img/user/Public/Player%20Info/Characters/img/jin.jpeg)
 >
 >> [!card|no-t]
 >> ### **[[Public/Player Info/Characters/Kira Lux\|Kira Lux]]**
->> 
->> ![Player Info/Characters/img/kira.jpeg|kira|400](/img/user/Public/Player%20Info/Characters/img/kira.jpeg)
+>> ![Player Info/Characters/img/kira.jpeg|kira](/img/user/Public/Player%20Info/Characters/img/kira.jpeg)
 >
 >>[!card|no-t]
 >>### **[[Public/Player Info/Characters/Oleander 'Oly' Briar\|Oleander 'Oly' Briar]]**
->>
->>![Player Info/Characters/img/oly.jpeg|oly|400](/img/user/Public/Player%20Info/Characters/img/oly.jpeg)
+>>![Player Info/Characters/img/oly.jpeg|oly](/img/user/Public/Player%20Info/Characters/img/oly.jpeg)
 > 
 >> [!card|no-t]
 >> ### **[[Public/Player Info/Characters/Z'Rak\|Z'Rak]]**
->> 
->> ![Player Info/Characters/img/zrak.jpeg|zrak|400](/img/user/Public/Player%20Info/Characters/img/zrak.jpeg)
+>> ![Player Info/Characters/img/zrak.jpeg|zrak](/img/user/Public/Player%20Info/Characters/img/zrak.jpeg)
 >
 >> [!card|no-t]
 >> ### **[[Public/Player Info/Characters/Norin Stormhammer\|Norin Stormhammer]]**
->> ![Player Info/Characters/img/norin3_4.jpeg|norin|400](/img/user/Public/Player%20Info/Characters/img/norin3_4.jpeg)
+>> ![Player Info/Characters/img/norin3_4.jpeg|norin](/img/user/Public/Player%20Info/Characters/img/norin3_4.jpeg)
+>
+>> [!card|no-t]
+>> ### [[Public/Player Info/Characters/Amaeric Cassius Palius\|Amaeric Cassius Palius]]
+>> ![Player Info/Characters/img/placeholder.jpeg|amaeric](/img/user/Public/Player%20Info/Characters/img/placeholder.jpeg)
 
 
 
 # Session History
+
 
 | \#  | Title                                                                               | Location                  |               Date |
 | --- | ----------------------------------------------------------------------------------- | ------------------------- | -----------------: |
