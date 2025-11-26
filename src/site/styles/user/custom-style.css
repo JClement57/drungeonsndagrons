@@ -41,3 +41,8 @@
 .navbar {
   background-color: #2a2e34;
 }
+
+.callout[data-callout*=column][data-callout-metadata~=flex] > .callout-content .callout {
+  flex: 1 0 440px;
+  max-width: 480px;
+}
