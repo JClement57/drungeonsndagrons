@@ -4,7 +4,7 @@
 
 > [!infobox]+
 > ######  Jin Tsuji
-> ![img/jin.png](/img/user/Public/Player%20Info/Characters/img/jin.png)
+> ![img/jin.jpeg](/img/user/Public/Player%20Info/Characters/img/jin.jpeg)
 > 
 > |   |   |
 > | ---- | --- |
