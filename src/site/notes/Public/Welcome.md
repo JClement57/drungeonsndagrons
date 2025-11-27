@@ -17,8 +17,7 @@ Think of it as both:
 
 # Characters
 
-> [!column|flex 6 no-t]
-> 
+> [!column|flex 6 no-t] 
 >> [!card|no-t]
 >> ### **[[Public/Player Info/Characters/Jin Tsuji\|Jin Tsuji]]**
 >> ![Player Info/Characters/img/jin.jpeg|jin](/img/user/Public/Player%20Info/Characters/img/jin.jpeg)
@@ -27,9 +26,9 @@ Think of it as both:
 >> ### **[[Public/Player Info/Characters/Kira Lux\|Kira Lux]]**
 >> ![Player Info/Characters/img/kira.jpeg|kira](/img/user/Public/Player%20Info/Characters/img/kira.jpeg)
 >
->>[!card|no-t]
->>### **[[Public/Player Info/Characters/Oleander 'Oly' Briar\|Oleander 'Oly' Briar]]**
->>![Player Info/Characters/img/oly.jpeg|oly](/img/user/Public/Player%20Info/Characters/img/oly.jpeg)
+>> [!card|no-t]
+>> ### **[[Public/Player Info/Characters/Oleander 'Oly' Briar\|Oleander 'Oly' Briar]]**
+>> ![Player Info/Characters/img/oly.jpeg|oly](/img/user/Public/Player%20Info/Characters/img/oly.jpeg)
 > 
 >> [!card|no-t]
 >> ### **[[Public/Player Info/Characters/Z'Rak\|Z'Rak]]**
@@ -43,13 +42,12 @@ Think of it as both:
 >> ### [[Public/Player Info/Characters/Amaeric Cassius Palius\|Amaeric Cassius Palius]]
 >> ![Player Info/Characters/img/placeholder.jpeg|amaeric](/img/user/Public/Player%20Info/Characters/img/placeholder.jpeg)
 
-
-
 # Session History
 
 
 | \#  | Title                                                                               | Location                  |               Date |
 | --- | ----------------------------------------------------------------------------------- | ------------------------- | -----------------: |
+| 7   | Ahab's Lumbermill                                                                   | East of Greymoor          |           November |
 | 6   | [[Public/Sessions/Session 6 - The Reaver Attack\|The Reaver Attack]]                       | Greymoor                  |   October 26, 2025 |
 | 5   | [[Public/Sessions/Session 5 - The Seafast Festival\|Seafast Festival]]                     | Greymoor                  |    October 5, 2025 |
 | 4   | [[Public/Sessions/Session 4 - The Observatory\|The Observatory]]                           | Stormwreck Isle           | September 21, 2025 |
