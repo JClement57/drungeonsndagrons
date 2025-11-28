@@ -17,10 +17,10 @@ Think of it as both:
 
 #  Player Characters
 
->[!column|flex 6 no-t]
->>[!card|no-t]
->>### **[[Public/Player Info/Characters/Jin Tsuji\|Jin Tsuji]]**
->>![Player Info/Characters/img/jin.jpeg|jin](/img/user/Public/Player%20Info/Characters/img/jin.jpeg)
+> [!column|flex 6 no-t embed nmg]
+>> [!card|no-t]
+>> ### **[[Public/Player Info/Characters/Jin Tsuji\|Jin Tsuji]]**
+>> ![Player Info/Characters/img/jin.jpeg|jin](/img/user/Public/Player%20Info/Characters/img/jin.jpeg)
 >
 >> [!card|no-t]
 >> ### **[[Public/Player Info/Characters/Kira Lux\|Kira Lux]]**
