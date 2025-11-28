@@ -42,6 +42,34 @@
   background-color: #2a2e34;
 }
 
+.callout-content {
+  p {
+    // 1. Hide paragraphs that are strictly empty (standard check)
+    &:empty {
+      display: none;
+    }
+
+    // 2. Hide paragraphs that only contain whitespace/newlines 
+    //    by checking if they lack significant child elements.
+    //    (This targets <p> </p> but keeps <p><picture>...</picture>)
+    &:not(:has(picture)):not(:has(img)):not(:has(a)):not(:has(strong)) {
+      display: none;
+    }
+
+    // 3. (Optional) Structural cleanup specific to your layout:
+    
+    // Hide any paragraph that immediately precedes a Header 3
+    &:has(+ h3) {
+      display: none;
+    }
+
+    // Hide any paragraph that immediately precedes another Callout card
+    &:has(+ .callout) {
+      display: none;
+    }
+  }
+}
+
 .callout[data-callout*=column][data-callout-metadata~=flex] > .callout-content .callout {
   flex: 1 0 12rem;
   max-width: 15rem;
@@ -49,21 +77,6 @@
   h3 {
     text-align: center;
     font-size: 1.2em;
-  }
-  
-  p {
-    // Check if the paragraph is empty
-    &:empty {
-      display: none;
-    }
-    
-    // Fallback: If the paragraph only contains a <br> or a space
-    // but implies emptiness, we can try to collapse the margins.
-    // NOTE: Use this only if the strictly empty solution fails.
-    &:not(:has(picture)):not(:has(img)):not(:has(a)) {
-       // This is risky if you have text-only paragraphs, 
-       // stick to the :empty solution first.
-    }
   }
   
   img, picture {
