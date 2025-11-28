@@ -98,9 +98,23 @@
   flex: 1 0 12rem;
   max-width: 15rem;
   align-content: center;
+  border-radius: 8px;
+  
   h3 {
     text-align: center;
     font-size: 1.2em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  
+  h3::after {
+    display: none;
+  }
+  
+  p {
+    align-content: center;
+    margin-top: 3px;
+    margin-bottom: 0px;
   }
   
   img, picture {
