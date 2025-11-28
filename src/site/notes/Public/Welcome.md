@@ -17,7 +17,8 @@ Think of it as both:
 
 # Characters
 
-> [!column|flex 6] ## Player Characters
+> [!column|flex 6] 
+> ## Player Characters
 >> [!card|no-t]
 >> ### **[[Public/Player Info/Characters/Jin Tsuji\|Jin Tsuji]]**
 >> ![Player Info/Characters/img/jin.jpeg|jin](/img/user/Public/Player%20Info/Characters/img/jin.jpeg)
