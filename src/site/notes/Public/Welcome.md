@@ -15,13 +15,12 @@ Think of it as both:
 - 🗺 **A campaign log**, tracking your party’s deeds, current quests, and memorable moments.
 
 
-# Characters
+#  Player Characters
 
-> [!column|flex 6] 
-> ## Player Characters
->> [!card|no-t]
->> ### **[[Public/Player Info/Characters/Jin Tsuji\|Jin Tsuji]]**
->> ![Player Info/Characters/img/jin.jpeg|jin](/img/user/Public/Player%20Info/Characters/img/jin.jpeg)
+>[!column|flex 6 no-t] 
+>>[!card|no-t]
+>>### **[[Public/Player Info/Characters/Jin Tsuji\|Jin Tsuji]]**
+>>![Player Info/Characters/img/jin.jpeg|jin](/img/user/Public/Player%20Info/Characters/img/jin.jpeg)
 >
 >> [!card|no-t]
 >> ### **[[Public/Player Info/Characters/Kira Lux\|Kira Lux]]**
