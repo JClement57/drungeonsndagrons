@@ -17,7 +17,7 @@ Think of it as both:
 
 #  Player Characters
 
->[!column|flex 6 no-t] 
+>[!column|flex 6 no-t]
 >>[!card|no-t]
 >>### **[[Public/Player Info/Characters/Jin Tsuji\|Jin Tsuji]]**
 >>![Player Info/Characters/img/jin.jpeg|jin](/img/user/Public/Player%20Info/Characters/img/jin.jpeg)
@@ -48,7 +48,7 @@ Think of it as both:
 
 | \#  | Title                                                                               | Location                  |               Date |
 | --- | ----------------------------------------------------------------------------------- | ------------------------- | -----------------: |
-| 7   | Ahab's Lumbermill                                                                   | East of Greymoor          |           November |
+| 7   | [[Public/Sessions/Session 7 - The Lumbermill\|The Lumbermill]]                             | East of Greymoor          |  November 18, 2025 |
 | 6   | [[Public/Sessions/Session 6 - The Reaver Attack\|The Reaver Attack]]                       | Greymoor                  |   October 26, 2025 |
 | 5   | [[Public/Sessions/Session 5 - The Seafast Festival\|Seafast Festival]]                     | Greymoor                  |    October 5, 2025 |
 | 4   | [[Public/Sessions/Session 4 - The Observatory\|The Observatory]]                           | Stormwreck Isle           | September 21, 2025 |
