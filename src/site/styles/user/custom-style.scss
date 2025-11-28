@@ -42,6 +42,12 @@
   background-color: #2a2e34;
 }
 
+.callout-content {
+  p:empty {
+    display: hidden;
+  }
+}
+
 .callout[data-callout*=column][data-callout-metadata~=flex] > .callout-content .callout {
   flex: 1 0 12rem;
   max-width: 15rem;
