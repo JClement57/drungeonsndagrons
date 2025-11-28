@@ -43,17 +43,20 @@
 }
 
 .callout[data-callout*=column][data-callout-metadata~=flex] > .callout-content .callout {
-  flex: 1 0 300px;
-  max-width: 330px;
+  flex: 1 0 24em;
+  max-width: 28em;
   align-content: center;
   h3 {
     text-align: center;
   }
+  
   img {
-    max-height: 400px;
-    max-width: 300px;
+    max-height: 28em;
+    height: auto;
+    max-width: 100%;
   }
-  .img-ember {
-    width: 100%;
+  
+  .image-embed {
+    max-width: 100%;
   }
 }
