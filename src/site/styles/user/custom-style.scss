@@ -42,12 +42,6 @@
   background-color: #2a2e34;
 }
 
-.callout-content {
-  p:empty {
-    display: hidden;
-  }
-}
-
 .callout[data-callout*=column][data-callout-metadata~=flex] > .callout-content .callout {
   flex: 1 0 12rem;
   max-width: 15rem;
@@ -56,10 +50,19 @@
     text-align: center;
     font-size: 1.2em;
   }
+  
   p {
-    align-content: center;
+    // Check if the paragraph is empty
     &:empty {
       display: none;
+    }
+    
+    // Fallback: If the paragraph only contains a <br> or a space
+    // but implies emptiness, we can try to collapse the margins.
+    // NOTE: Use this only if the strictly empty solution fails.
+    &:not(:has(picture)):not(:has(img)):not(:has(a)) {
+       // This is risky if you have text-only paragraphs, 
+       // stick to the :empty solution first.
     }
   }
   
