@@ -42,16 +42,24 @@
   background-color: #2a2e34;
 }
 
+.callout-content>p {
+  display: hidden;
+}
+
 .callout[data-callout*=column][data-callout-metadata~=flex] > .callout-content .callout {
-  flex: 1 0 24em;
-  max-width: 28em;
+  flex: 1 0 12rem;
+  max-width: 15rem;
   align-content: center;
   h3 {
     text-align: center;
+    font-size: 1.2em;
+  }
+  p {
+    align-content: center;
   }
   
-  img {
-    max-height: 28em;
+  img, picture {
+    max-height: 15rem;
     height: auto;
     max-width: 100%;
   }
