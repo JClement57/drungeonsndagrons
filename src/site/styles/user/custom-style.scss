@@ -70,6 +70,30 @@
   }
 }
 
+// Target only 'card' type callouts if you want to be specific
+.callout[data-callout="card"] .callout-content {
+  
+  // 1. Target the paragraph specifically containing the picture
+  p:has(picture) {
+    display: flex;
+    justify-content: center; // Centers horizontally
+    align-items: center;     // Centers vertically (if height varies)
+    width: 100%;             // Ensures the container fills the card width
+    margin: 0;               // Reset margins to ensure perfect centering
+  }
+
+  // 2. Ensure the picture tag itself doesn't fight the centering
+  picture {
+    display: flex; // Allows the img inside to fit correctly
+    max-width: 100%;
+  }
+  
+  // 3. Optional: Add a border-radius if you want rounded corners on images
+  img {
+    border-radius: 8px; // Adjust as needed
+  }
+}
+
 .callout[data-callout*=column][data-callout-metadata~=flex] > .callout-content .callout {
   flex: 1 0 12rem;
   max-width: 15rem;
