@@ -17,8 +17,7 @@ Think of it as both:
 
 # Characters
 
-
-> [!column|flex 6 no-t] 
+> [!column|flex 6 no-t]
 >> [!card|no-t]
 >> ### **[[Public/Player Info/Characters/Jin Tsuji\|Jin Tsuji]]**
 >> ![Player Info/Characters/img/jin.jpeg|jin](/img/user/Public/Player%20Info/Characters/img/jin.jpeg)
@@ -42,6 +41,7 @@ Think of it as both:
 >> [!card|no-t]
 >> ### [[Public/Player Info/Characters/Amaeric Cassius Palius\|Amaeric Cassius Palius]]
 >> ![Player Info/Characters/img/placeholder.jpeg|amaeric](/img/user/Public/Player%20Info/Characters/img/placeholder.jpeg)
+
 
 # Session History
 
