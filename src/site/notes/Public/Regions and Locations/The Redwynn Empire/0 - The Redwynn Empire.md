@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Regions and Locations/The Redwynn Empire/0 - The Redwynn Empire.md","permalink":"/regions-and-locations/the-redwynn-empire/0-the-redwynn-empire/","pinned":true}
+{"dg-publish":true,"dg-path":"Regions and Locations/The Redwynn Empire/0 - The Redwynn Empire.md","permalink":"/regions-and-locations/the-redwynn-empire/0-the-redwynn-empire/","title":"The Redwynn Empire","pinned":true}
 ---
-
-# The Redwynn Empire
 
 ## Overview
 
@@ -11,7 +9,7 @@ The Redwynn Empire is a powerful coastal nation, known across continents for its
 ## Cities
 
 ### Large Cities
- - [[Public/Regions and Locations/The Redwynn Empire/Aelinar\|Aelinar]] - Capital
+ - [[Public/Regions and Locations/The Redwynn Empire/1 - Aelinar\|1 - Aelinar]] - Capital
  - [[Public/Regions and Locations/The Redwynn Empire/Emberwatch\|Emberwatch]]
 
 ### Townships

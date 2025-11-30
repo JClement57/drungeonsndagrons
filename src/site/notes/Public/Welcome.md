@@ -16,7 +16,6 @@ Think of it as both:
 
 
 #  Player Characters
-
 > [!column|flex 6 no-t embed nmg]
 >> [!card|no-t]
 >> ### **[[Public/Player Info/Characters/Jin Tsuji\|Jin Tsuji]]**
