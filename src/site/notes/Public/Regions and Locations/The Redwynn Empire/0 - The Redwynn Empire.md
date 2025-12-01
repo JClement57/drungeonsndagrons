@@ -9,11 +9,11 @@ The Redwynn Empire is a powerful coastal nation, known across continents for its
 ## Cities
 
 ### Large Cities
- - [[Public/Regions and Locations/The Redwynn Empire/1 - Aelinar\|Aelinar]] - Capital
- - [[Public/Regions and Locations/The Redwynn Empire/Emberwatch\|Emberwatch]]
+ - [[Public/Regions and Locations/The Redwynn Empire/1a - Aelinar\|Aelinar]] - Capital
+ - [[Public/Regions and Locations/The Redwynn Empire/1b - Emberwatch\|1b - Emberwatch]]
 
 ### Townships
- - [[Public/Regions and Locations/The Redwynn Empire/Greymoor\|Greymoor]]
+ - [[Public/Regions and Locations/The Redwynn Empire/2a - Greymoor\|2a - Greymoor]]
 
 ## Government
 
