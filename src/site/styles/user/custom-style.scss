@@ -42,30 +42,36 @@
   background-color: #2a2e34;
 }
 
-.welcome-page .callout-content {
-  p {
-    // 1. Hide paragraphs that are strictly empty (standard check)
-    &:empty {
-      display: none;
-    }
-
-    // 2. Hide paragraphs that only contain whitespace/newlines 
-    //    by checking if they lack significant child elements.
-    //    (This targets <p> </p> but keeps <p><picture>...</picture>)
-    &:not(:has(picture)):not(:has(img)):not(:has(a)):not(:has(strong)) {
-      display: none;
-    }
-
-    // 3. (Optional) Structural cleanup specific to your layout:
-    
-    // Hide any paragraph that immediately precedes a Header 3
-    &:has(+ h3) {
-      display: none;
-    }
-
-    // Hide any paragraph that immediately precedes another Callout card
-    &:has(+ .callout) {
-      display: none;
+.welcome-page {
+  header {
+    display: none;
+  }
+  
+  .callout-content {
+    p {
+      // 1. Hide paragraphs that are strictly empty (standard check)
+      &:empty {
+        display: none;
+      }
+  
+      // 2. Hide paragraphs that only contain whitespace/newlines 
+      //    by checking if they lack significant child elements.
+      //    (This targets <p> </p> but keeps <p><picture>...</picture>)
+      &:not(:has(picture)):not(:has(img)):not(:has(a)):not(:has(strong)) {
+        display: none;
+      }
+  
+      // 3. (Optional) Structural cleanup specific to your layout:
+      
+      // Hide any paragraph that immediately precedes a Header 3
+      &:has(+ h3) {
+        display: none;
+      }
+  
+      // Hide any paragraph that immediately precedes another Callout card
+      &:has(+ .callout) {
+        display: none;
+      }
     }
   }
 }
