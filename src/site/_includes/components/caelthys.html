@@ -1,0 +1,36 @@
+<html>
+	<head>
+	    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+	    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+	    <style>
+	        /* 2. Set the height of the map container */
+	        #map { height: 600px; width: 100%; background: #242424; }
+	    </style>
+	</head>
+	<body>
+	    <div id="map"></div>
+	    <script>
+	        // 4. Configuration
+	        // Replace 'path/to/your/map.jpg' with your actual image path
+	        var mapUrl = 'worldMap.jpg'; 
+	        var mapWidth = 12288 ;  // Width of your image in pixels
+	        var mapHeight = 7168; // Height of your image in pixels
+	        // 5. Initialize the map
+	        // CRS.Simple is crucial: it flattens the world (turns off Earth physics)
+	        var map = L.map('map', {
+	            crs: L.CRS.Simple,
+                zoomSnap: 0.5,
+                zoomDelta: 0.5,
+                zoom: -1,
+	            minZoom: -3,
+                maxZoom: 1
+	        });
+	        // 6. Calculate the boundaries of the image
+	        var bounds = [[0,0], [mapHeight, mapWidth]];
+	        // 7. Add the image overlay
+	        var image = L.imageOverlay(mapUrl, bounds).addTo(map);
+	        // 8. Center the map on the image
+	        map.setView([mapHeight/2, mapWidth/2], -2.5);
+	    </script>
+	</body>
+</html>
