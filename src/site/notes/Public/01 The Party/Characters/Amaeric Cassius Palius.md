@@ -4,7 +4,7 @@
 
 > [!infobox]+
 > ######  Amaeric Cassius Palius
-> ![img/placeholder.jpeg](/img/user/Public/01%20The%20Party/Characters/img/placeholder.jpeg)
+> ![img/amaeric.jpeg](/img/user/Public/01%20The%20Party/Characters/img/amaeric.jpeg)
 > 
 > |   |   |
 > | ---- | --- |

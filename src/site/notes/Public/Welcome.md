@@ -35,7 +35,7 @@ Yet the fate of Caelthys is far from written. As ancient powers stir and the hea
 >
 >> [!card|no-t]
 >> ### [[Public/01 The Party/Characters/Amaeric Cassius Palius\|Amaeric Cassius Palius]]
->> ![01 The Party/Characters/img/placeholder.jpeg|amaeric](/img/user/Public/01%20The%20Party/Characters/img/placeholder.jpeg)
+>> ![01 The Party/Characters/img/amaeric.jpeg|amaeric](/img/user/Public/01%20The%20Party/Characters/img/amaeric.jpeg)
 
 
 ## Session History
