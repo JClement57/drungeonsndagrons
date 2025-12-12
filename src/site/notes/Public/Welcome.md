@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Welcome.md","permalink":"/welcome/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-path":"Welcome.md","permalink":"/welcome/","contentClasses":"t-c welcome-page","tags":["gardenEntry"]}
 ---
 
 

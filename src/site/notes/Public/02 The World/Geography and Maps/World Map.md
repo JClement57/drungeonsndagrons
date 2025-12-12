@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"02 The World/Geography and Maps/World Map.md","permalink":"/02-the-world/geography-and-maps/world-map/"}
+{"dg-publish":true,"dg-path":"02 The World/Geography and Maps/World Map.md","permalink":"/02-the-world/geography-and-maps/world-map/","contentClasses":"leaflet"}
 ---
 
 
