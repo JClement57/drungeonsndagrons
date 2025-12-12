@@ -3,6 +3,7 @@
 ---
 
 
+
 > [!QUOTE] Marlan Rooke, ferryman and rumor-monger of Aelinar
 > If you want to hear secrets, stand on the Sapphire Walk after dark. The bridges have more ears than the court itself—and prettier views, too. 
 

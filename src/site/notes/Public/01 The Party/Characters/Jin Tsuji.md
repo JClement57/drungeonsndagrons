@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"01 The Party/Characters/Jin Tsuji.md","permalink":"/01-the-party/characters/jin-tsuji/"}
 ---
 
+
 > [!infobox]+
 > ######  Jin Tsuji
 > ![img/jin.jpeg](/img/user/Public/01%20The%20Party/Characters/img/jin.jpeg)

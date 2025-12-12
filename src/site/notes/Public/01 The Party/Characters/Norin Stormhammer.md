@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"01 The Party/Characters/Norin Stormhammer.md","permalink":"/01-the-party/characters/norin-stormhammer/"}
 ---
 
+
 > [!infobox]+
 > ![img/norin3_4.jpeg](/img/user/Public/01%20The%20Party/Characters/img/norin3_4.jpeg)
 > ######  Norin Stormhammer

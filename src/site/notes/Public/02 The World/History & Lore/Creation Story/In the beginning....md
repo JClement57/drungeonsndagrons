@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"02 The World/History & Lore/Creation Story/In the beginning....md","permalink":"/02-the-world/history-and-lore/creation-story/in-the-beginning/"}
 ---
 
+
 > [!QUOTE] Solarin's Origins
 > “In the dark before time, a will awoke and saw nothing. To end the nothing, it became light.”
 

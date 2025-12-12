@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"02 The World/Nations/The Dulann Marches/The Dulann Marches.md","permalink":"/02-the-world/nations/the-dulann-marches/the-dulann-marches/"}
 ---
 
+
 In the far North of the eastern continent of Caelthys lies the frozen wasteland of **the Dulann Marches**.
 
 Dulann is a harsh alliance of warlord clans who carve their homes into the frozen mountains and volcanoes of the North. They trust strength far more than the distant sun, moon, or stars that long ago abandoned them. Each clan rules its own domain, united only by **the Kraal**—a leader chosen through ritual combat when the previous ruler dies—and by their shared belief that power is earned, never granted. 

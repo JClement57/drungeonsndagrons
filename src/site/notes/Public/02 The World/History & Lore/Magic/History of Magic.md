@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"02 The World/History & Lore/Magic/History of Magic.md","permalink":"/02-the-world/history-and-lore/magic/history-of-magic/"}
 ---
 
+
 ### **The Birth of Magic**
 
 In the ages after the Twilight Rebellion, mortals began to uncover the lingering threads of **Aetherium** woven through Caelthys — the same celestial essence Solarin had wielded in creation. Drawn to its radiance, early scholars, shamans, and dreamers learned to touch this living current, shaping its flow through will and ritual. Thus was born **magic** — the mortal art of bending divine power. Though its use echoes the hand of Solarin himself, it remains a perilous gift; for every spell cast is a whisper tugged from the same tapestry that once nearly unraveled the world.

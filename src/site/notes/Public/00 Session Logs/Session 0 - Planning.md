@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"00 Session Logs/Session 0 - Planning.md","permalink":"/00-session-logs/session-0-planning/"}
 ---
 
+
 # Goal/Priorities
  - Enjoy the game and have fun
  - Tell a fun story

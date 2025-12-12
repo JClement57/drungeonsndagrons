@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"02 The World/Nations/The Tzicali Isles/Tzicali Warrior Traditions.md","permalink":"/02-the-world/nations/the-tzicali-isles/tzicali-warrior-traditions/"}
 ---
 
+
 In the Tzicali Isles, martial tradition runs deep — a reflection of the archipelago’s tumultuous history and fractured political landscape. Though magic and faith are foundational forces, it is often the warriors who decide the fates of lords and lands. Two dominant martial paths define the warrior caste: the **Tiwi** and the **Balamí** — rivals in both philosophy and form.
 <br>
 # Martial Traditions

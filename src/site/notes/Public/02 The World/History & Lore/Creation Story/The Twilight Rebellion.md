@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"02 The World/History & Lore/Creation Story/The Twilight Rebellion.md","permalink":"/02-the-world/history-and-lore/creation-story/the-twilight-rebellion/"}
 ---
 
+
 ## The Stirrings of Rebellion
 For an age, Solarin’s law held firm, and the heavens knew peace. Yet not all were content beneath his radiant rule. To some, his order was not harmony but bondage — a golden cage built from light.
 

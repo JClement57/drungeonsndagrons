@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"00 Session Logs/Session 5 - The Seafast Festival.md","permalink":"/00-session-logs/session-5-the-seafast-festival/"}
 ---
 
+
 *Date:* 10/5/2025  
 *Game Master:* Josh  
 *Players Present:* Mike, Katy, Landon, Hailey 

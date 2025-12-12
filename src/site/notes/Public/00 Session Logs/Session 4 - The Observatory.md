@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"00 Session Logs/Session 4 - The Observatory.md","permalink":"/00-session-logs/session-4-the-observatory/"}
 ---
 
+
 *Date:* 9/21/2025  
 *Game Master:* Josh  
 *Players Present:* Mike, Katy, Landon, Hailey 

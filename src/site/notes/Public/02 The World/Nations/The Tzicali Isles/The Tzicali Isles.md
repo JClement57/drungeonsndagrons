@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"02 The World/Nations/The Tzicali Isles/The Tzicali Isles.md","permalink":"/02-the-world/nations/the-tzicali-isles/the-tzicali-isles/"}
 ---
 
+
 The **Tzicali Isles** form a striking archipelago of verdant, misty islands scattered across warm tropical seas. Beneath their vibrant jungles lie titanic, dormant forms of ancient god-beasts — colossal remnants from a war of the gods, whose uneasy slumber occasionally sends tremors across the land.
 
 The Isles are a land of **competing noble houses**, each ruling over their own island or stretch of coastline, locked in a delicate and ever-shifting game of feudal alliances, betrayals, and open war. Yet amidst their rivalry, all houses pay homage to the astronomer-priests who stand as spiritual stewards over the Isles, interpreting the movements of the stars and the whispers of the sleeping titans.

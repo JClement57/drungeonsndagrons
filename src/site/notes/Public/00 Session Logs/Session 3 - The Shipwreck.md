@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"00 Session Logs/Session 3 - The Shipwreck.md","permalink":"/00-session-logs/session-3-the-shipwreck/"}
 ---
 
+
 *Date:* 8/31/2025  
 *Game Master:* Josh  
 *Players Present:* Mike, Katy, Landon, Hailey 

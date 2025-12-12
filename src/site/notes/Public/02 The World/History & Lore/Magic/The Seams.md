@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"02 The World/History & Lore/Magic/The Seams.md","permalink":"/02-the-world/history-and-lore/magic/the-seams/"}
 ---
 
+
 ### Overview
 
 The **Seams** are rifts in the fabric of Caelthys where the celestial force known as **Aetherium** gathers in volatile concentration. These are the lingering scars of the **Twilight Rebellion**, when the Stars waged war against **Solarin** for dominion over the heavens.

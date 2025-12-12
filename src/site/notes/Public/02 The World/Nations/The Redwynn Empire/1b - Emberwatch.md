@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"02 The World/Nations/The Redwynn Empire/1b - Emberwatch.md","permalink":"/02-the-world/nations/the-redwynn-empire/1b-emberwatch/","title":"Emberwatch"}
 ---
 
+
 > [!QUOTE] Darnic Thale, traveling peddler
 > _They say you can see the flame of Emberwatch from leagues out at sea — a promise of safe harbor and bustling streets. But stand too close, friend, and you might notice the shadows dancing at its edge."_  
 

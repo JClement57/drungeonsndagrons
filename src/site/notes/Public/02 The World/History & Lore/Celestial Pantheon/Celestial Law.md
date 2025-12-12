@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"02 The World/History & Lore/Celestial Pantheon/Celestial Law.md","permalink":"/02-the-world/history-and-lore/celestial-pantheon/celestial-law/"}
 ---
 
+
 ## Overview
 To maintain order in the celestial realm, [[Public/02 The World/History & Lore/Celestial Pantheon/Solarin\|Solarin]] created the [[Public/02 The World/History & Lore/Celestial Pantheon/Celestial Law\|Celestial Code]] - a set of laws that governed all beings in the celestial realm. Any breach of these laws would be met with immediate banishment from the celestial realm. Upon banishment stars lose all but a sliver of their radiant power reducing them to mere mortals.
 

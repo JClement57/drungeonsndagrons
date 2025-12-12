@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"02 The World/History & Lore/Celestial Pantheon/The Pantheon.md","permalink":"/02-the-world/history-and-lore/celestial-pantheon/the-pantheon/"}
 ---
 
+
 ## The Celestial Triad
 The **Celestial Triad** is the simplified divine structure of the cosmos, composed of **three tiers of divinity**:
 - **[[Public/02 The World/History & Lore/Celestial Pantheon/Solarin\|Solarin]], the Sun** – The supreme creator and overseer of order

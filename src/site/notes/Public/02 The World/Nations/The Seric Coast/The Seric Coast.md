@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"02 The World/Nations/The Seric Coast/The Seric Coast.md","permalink":"/02-the-world/nations/the-seric-coast/the-seric-coast/"}
 ---
 
+
 # Overview
 
 The Seric Coast is a slender nation cradled by mountains to the north and west, and kissed by the ocean to the south and east. Its people are wind-sailors, sky-dancers, and artisans of breathtaking ingenuity, building cities that stretch both upward and outward, catching every whisper of the coastal gales. Life here is light and vibrant—few places in the world feel so alive with color, movement, and song.

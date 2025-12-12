@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Welcome.md","permalink":"/welcome/","pinned":true,"contentClasses":"t-c welcome-page","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-path":"Welcome.md","permalink":"/welcome/","tags":["gardenEntry"]}
 ---
+
 
 
 # Welcome to the World of Caelthys

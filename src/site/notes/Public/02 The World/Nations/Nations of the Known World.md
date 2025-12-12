@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"02 The World/Nations/Nations of the Known World.md","permalink":"/02-the-world/nations/nations-of-the-known-world/","pinned":true}
+{"dg-publish":true,"dg-path":"02 The World/Nations/Nations of the Known World.md","permalink":"/02-the-world/nations/nations-of-the-known-world/"}
 ---
+
 
 # The Shattered Reach
 Long before written memory, the world was a single sprawling landmass — a cradle where titans walked, celestials contended, and mortal kingdoms first took root. This unity was violently undone in the cataclysm of the Shattering, a world-rending upheaval said to have been caused by warring stars or a reckless spell of unimaginable scale. Mountains split, rivers boiled into steam, and fissures swallowed whole empires. When the world stilled, a vast ocean stood where fertile plains once stretched, forever dividing the continents and scattering countless islands like shattered jewels across the waters.
