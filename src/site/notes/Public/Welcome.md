@@ -14,28 +14,28 @@ Yet the fate of Caelthys is far from written. As ancient powers stir and the hea
 
 > [!column|flex 6 no-t embed nmg]
 >> [!card|no-t]
->> ### **[[Public/Player Info/Characters/Jin Tsuji\|Jin Tsuji]]**
->> ![Player Info/Characters/img/jin.jpeg|jin](/img/user/Public/Player%20Info/Characters/img/jin.jpeg)
+>> ### **[[Public/01 The Party/Characters/Jin Tsuji\|Jin Tsuji]]**
+>> ![01 The Party/Characters/img/jin.jpeg|jin](/img/user/Public/01%20The%20Party/Characters/img/jin.jpeg)
 >
 >> [!card|no-t]
->> ### **[[Public/Player Info/Characters/Kira Lux\|Kira Lux]]**
->> ![Player Info/Characters/img/kira.jpeg|kira](/img/user/Public/Player%20Info/Characters/img/kira.jpeg)
+>> ### **[[Public/01 The Party/Characters/Kira Lux\|Kira Lux]]**
+>> ![01 The Party/Characters/img/kira.jpeg|kira](/img/user/Public/01%20The%20Party/Characters/img/kira.jpeg)
 >
 >> [!card|no-t]
->> ### **[[Public/Player Info/Characters/Oleander 'Oly' Briar\|Oleander 'Oly' Briar]]**
->> ![Player Info/Characters/img/oly.jpeg|oly](/img/user/Public/Player%20Info/Characters/img/oly.jpeg)
+>> ### **[[Public/01 The Party/Characters/Oleander 'Oly' Briar\|Oleander 'Oly' Briar]]**
+>> ![01 The Party/Characters/img/oly.jpeg|oly](/img/user/Public/01%20The%20Party/Characters/img/oly.jpeg)
 > 
 >> [!card|no-t]
->> ### **[[Public/Player Info/Characters/Z'Rak\|Z'Rak]]**
->> ![Player Info/Characters/img/zrak.jpeg|zrak](/img/user/Public/Player%20Info/Characters/img/zrak.jpeg)
+>> ### **[[Public/01 The Party/Characters/Z'Rak\|Z'Rak]]**
+>> ![01 The Party/Characters/img/zrak.jpeg|zrak](/img/user/Public/01%20The%20Party/Characters/img/zrak.jpeg)
 >
 >> [!card|no-t]
->> ### **[[Public/Player Info/Characters/Norin Stormhammer\|Norin Stormhammer]]**
->> ![Player Info/Characters/img/norin3_4.jpeg|norin](/img/user/Public/Player%20Info/Characters/img/norin3_4.jpeg)
+>> ### **[[Public/01 The Party/Characters/Norin Stormhammer\|Norin Stormhammer]]**
+>> ![01 The Party/Characters/img/norin3_4.jpeg|norin](/img/user/Public/01%20The%20Party/Characters/img/norin3_4.jpeg)
 >
 >> [!card|no-t]
->> ### [[Public/Player Info/Characters/Amaeric Cassius Palius\|Amaeric Cassius Palius]]
->> ![Player Info/Characters/img/placeholder.jpeg|amaeric](/img/user/Public/Player%20Info/Characters/img/placeholder.jpeg)
+>> ### [[Public/01 The Party/Characters/Amaeric Cassius Palius\|Amaeric Cassius Palius]]
+>> ![01 The Party/Characters/img/placeholder.jpeg|amaeric](/img/user/Public/01%20The%20Party/Characters/img/placeholder.jpeg)
 
 
 ## Session History
@@ -43,12 +43,12 @@ Yet the fate of Caelthys is far from written. As ancient powers stir and the hea
 
 | \#  | Title                                                                               | Location                  |               Date |
 | --- | ----------------------------------------------------------------------------------- | ------------------------- | -----------------: |
-| 7   | [[Public/Sessions/Session 7 - The Lumbermill\|The Lumbermill]]                             | East of Greymoor          |  November 18, 2025 |
-| 6   | [[Public/Sessions/Session 6 - The Reaver Attack\|The Reaver Attack]]                       | Greymoor                  |   October 26, 2025 |
-| 5   | [[Public/Sessions/Session 5 - The Seafast Festival\|Seafast Festival]]                     | Greymoor                  |    October 5, 2025 |
-| 4   | [[Public/Sessions/Session 4 - The Observatory\|The Observatory]]                           | Stormwreck Isle           | September 21, 2025 |
-| 3   | [[Public/Sessions/Session 3 - The Shipwreck\|The Shipwreck]]                               | Stormwreck Isle           |    August 31, 2025 |
-| 2   | [[Public/Sessions/Session 2 - Curing the Blight\|Curing the Blight]]                       | Stormwreck Isle           |    August 10, 2025 |
-| 1   | [[Public/Sessions/Session 1 - Strangers on Stormwreck Isle\|Strangers on Stormwreck Isle]] | Greymoor, Stormwreck Isle |      July 19, 2025 |
-| 0   | [[Public/Sessions/Session 0 - Planning\|Session 0 - Planning]]                             |                           |                    |
+| 7   | [[Public/00 Session Logs/Session 7 - The Lumbermill\|The Lumbermill]]                             | East of Greymoor          |  November 18, 2025 |
+| 6   | [[Public/00 Session Logs/Session 6 - The Reaver Attack\|The Reaver Attack]]                       | Greymoor                  |   October 26, 2025 |
+| 5   | [[Public/00 Session Logs/Session 5 - The Seafast Festival\|Seafast Festival]]                     | Greymoor                  |    October 5, 2025 |
+| 4   | [[Public/00 Session Logs/Session 4 - The Observatory\|The Observatory]]                           | Stormwreck Isle           | September 21, 2025 |
+| 3   | [[Public/00 Session Logs/Session 3 - The Shipwreck\|The Shipwreck]]                               | Stormwreck Isle           |    August 31, 2025 |
+| 2   | [[Public/00 Session Logs/Session 2 - Curing the Blight\|Curing the Blight]]                       | Stormwreck Isle           |    August 10, 2025 |
+| 1   | [[Public/00 Session Logs/Session 1 - Strangers on Stormwreck Isle\|Strangers on Stormwreck Isle]] | Greymoor, Stormwreck Isle |      July 19, 2025 |
+| 0   | [[Public/00 Session Logs/Session 0 - Planning\|Session 0 - Planning]]                             |                           |                    |
 
