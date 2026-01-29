@@ -34,6 +34,8 @@
 }
 
 .navbar-inner, .filetree-sidebar {
+  position: fixed;
+  left: 0;
   h1 {
     visibility: hidden;
     width:0px;
