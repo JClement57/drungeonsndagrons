@@ -13,7 +13,7 @@ Emberwatch is the second-largest city in the [[Public/02 The World/Nations/The R
 
 Its imposing walls and towers stand as both deterrent and promise — a city that has endured for generations, proud of its role as the western guardian of the realm.
 
-At the heart of Emberwatch rises the blackstone **Ember Tower**, crowned with a magical flame that burns eternally and can be seen even from the coast. It remains the city’s defining landmark and symbol.
+At the heart of Emberwatch rises the black stone **Ember Tower**, crowned with a magical flame that burns eternally and can be seen even from the coast. It remains the city’s defining landmark and symbol.
 <br>
 
 ## Population
@@ -30,29 +30,26 @@ While the mayor seeks to balance the interests of all, the guildmasters often fe
 
 ## Religion
 
-Emberwatch hosts temples and shrines to many deities, reflecting its diverse populace and mercantile ties. The most prominent are:
+Due to the history of the Redwynn Empire - specifically the Condsor King's striving for godhood - religion holds only a minor foothold as a background feature in Emberwatch. Regardless, there is still a small presence of reverence for the Celestials.
 
-- **The Grand Temple of Tyr**, devoted to justice and protection, influential among judges and city guards.
-    
-- **The Arcanum of Mystra**, where magic is studied and regulated under the watchful eyes of Mystra’s clergy.
-    
-- **The House of Waukeen**, a lavish temple that draws merchants seeking blessings for their ventures.
-    
-
-Smaller shrines to Chauntea, Moradin, Lathander, and other gods are scattered throughout neighborhoods and marketplaces.
+ - **The Astral Hall** - A small place of worship for the celestials. Not dedicated to any particular celestial and isn't supremely popular. 
 <br>
 
 ## Market & Commerce
 
 Thanks to the Ravenflow River, Emberwatch is a **trade powerhouse**, serving as the main inland depot for goods flowing to and from the coast. Its famed market districts include:
 
-- **The Merchant Rows**, a sprawling maze of permanent shops and open-air stalls where exotic goods from distant lands mingle with local crafts.
+- **The Condsor Commons** - The scaffolding of the temple that was being constructed to **Gregor Hargrave** during the time of the Kingdom of Condsor has since taken root as the cultural center in the city. It is known as the **Condsor Commons** and serves as a marketplace and gathering space in the center of the city. 
     
 - **Guildwalk**, an area dominated by the headquarters and workshops of powerful trade guilds, who oversee everything from shipbuilding contracts to magical item registration.
-    
 
 Local exports include fine textiles, crafted metalworks, river fish, and goods transshipped from coastal merchants.
 <br>
+## Houses
+ - **Valerius** - Commerce, trade
+ - **Bellarose** - Law, civil control, administration, justice
+ - **Onyx** - Defense, military - house leaders are Redwynn military officers and likely friends of the Emperor
+
 
 ## Notable Locations
 

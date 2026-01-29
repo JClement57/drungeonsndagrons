@@ -2,7 +2,6 @@
 {"dg-publish":true,"dg-path":"02 The World/History & Lore/The Layers of Creation.md","permalink":"/02-the-world/history-and-lore/the-layers-of-creation/"}
 ---
 
-
 > [!INFOBOX]
 > ![imgs/layers.png|300](/img/user/Public/02%20The%20World/History%20&%20Lore/imgs/layers.png)
 

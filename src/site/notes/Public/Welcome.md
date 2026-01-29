@@ -2,8 +2,6 @@
 {"dg-publish":true,"dg-path":"Welcome.md","permalink":"/welcome/","contentClasses":"t-c welcome-page","tags":["gardenEntry"]}
 ---
 
-
-
 # Welcome to the World of Caelthys
 Caelthys is a world shaped by the watchful glow of its distant celestials, where ancient mountain confederacies, fractured faiths, and rising rebellions strain against the cosmic order. Magic flows from the stars themselves, touching lands divided by harsh climates, old grudges, and the shifting influence of divine powers. Mortals forge their own destinies beneath a sky that is never truly silent, dreaming, fighting, and surviving in a realm where forgotten myths stir and celestial forces cast long shadows across the world.
 

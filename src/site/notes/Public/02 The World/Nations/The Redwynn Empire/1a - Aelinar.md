@@ -30,17 +30,17 @@ Home to roughly **100,000 people**, Aelinar draws folk from all around the conti
 
 ## Government
 
-Aelinar is ruled by **Queen Elayne IV**, who oversees imperial matters from her grand palace on an artificial island at the river’s center—symbolizing unity between East and West.  
+Aelinar is ruled by **THE EMPEROR**, who oversees imperial matters from her grand palace on an artificial island at the river’s center—symbolizing unity between East and West.  
 
 Locally, the city is managed by:
 - **The Mayor of Aelinar**, elected every five years by the people.
 - **The Council of Guildmasters**, who represent powerful trade and artisan guilds. They often spar over laws and influence, forcing the mayor to balance conflicting interests.
 
-Though under the Queen’s banner, the city is very much steered by the competing ambitions of guilds and the democratic voice of its citizens.
+Though under the emperor’s banner, the city is very much steered by the competing ambitions of guilds and the democratic voice of its citizens.
 <br>
 ## Religion
 
-Temples, shrines, and quiet chapels pepper Aelinar. Worship of **Tyr (justice)**, **Mystra (magic)**, and **Waukeen (trade)** is especially prominent, though countless smaller shrines to local saints and river spirits appear on bridges and near bustling marketplaces. Festivals often weave together religious observances and commerce, with river processions lit by floating lanterns dedicated to Mystra or lavish charity feasts in Tyr’s honor.
+TODO
 <br>
 
 ## Notable Locations

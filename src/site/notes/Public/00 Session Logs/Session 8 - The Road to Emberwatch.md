@@ -4,7 +4,7 @@
 
 *Date:* 12/14/2025  
 *Game Master:* Landon  
-*Players Present:* Mike, Katy, Josh, Hailey, BJ
+*Players Present:* Mike, Katy, Josh, Hailey, BJ 
 
 # Live Notes
  - Amaeric and Norin join the party
@@ -28,7 +28,7 @@
 	 - Destination: House Valerius
 		 - A house founded on war/veterans, now known for commerce
 	 - Attacked by men with covered faces and tattered robes. Tattoo - Red Circle with a black triangle inside
- - Injured boy with a mastiff (Nolan and Ora)
+ - Injured boy with a mastiff (Nolan and Ora - both 7 years old)
 	 - "The bad men" took his mother
 
 ## Blood Magic People
@@ -38,6 +38,22 @@
 	 - Dagger with blood and ribbon
 	 - Dagger with blood and ribbon and rune
  - Norin got a black spell book
+
+#### Blood Drops Loot
+(oly) A tattered grey leather spellbook with a chain and lock (but it’s currently unlocked)
+(Norin) A breastplate of dark metal (cold iron is what Norin would know it as)
+(Amaeric) 2 greatswords of cold iron with a deep, blood-red Damascus pattern on the blades
+(P) 4 cold iron daggers (no patterns)
+(P) A monocle with a ruby lens set in a cold iron frame
+(Jin) A blood red cloak
+(Split) 2 potions of greater healing, 4 potions of healing
+(P) 2 vials of an opaque but glittery liquid
+(P) A ledger of sorts
+(Split) A total of 256gp
+(Norin) 2 cold iron ingots
+
+#### Bandit Camp Loot
+1213 gp worth of coins and gems (House Valerius)
 
 ---
 

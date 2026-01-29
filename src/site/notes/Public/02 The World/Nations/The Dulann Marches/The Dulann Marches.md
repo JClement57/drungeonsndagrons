@@ -17,6 +17,10 @@ The Kraal leads over several **clans** that make up Dulann. Each clan is led by 
 ## Culture
 Dulannese people are taught from the day that they are born that they must earn their keep in the world. At an early age they choose (or are assigned) a path to contribute to their clan, often following in their parents footsteps. Their tribal societies are fiercely competitive but deeply collaborative. Each member of a clan knows their position and fills it diligently, making Dulannese clans well-oiled machines when not plagued by infighting or mutiny.
 
+### Dark Magic
+To the people of the Marches, the stars are not guardians, but absentees who turned their backs on the frozen north centuries ago. Rejecting the stifling dogmas of **Celestial Law**, the Dulannese have forged a darker, more visceral path to power: [[Public/02 The World/History & Lore/Magic/Blood Magic\|Blood Magic]]. Viewed as a heretical abomination by most of the world, this art demands a tithe of vitality, requiring casters to sacrifice their own life essence to fuel their spells. To the "civilized" realms of Caelthys, this practice marks the Dulannese as irredeemable savages; to the Warlords of the peaks, however, it proves a simple, brutal truth—while the "pious" beg distant gods for miracles, the strong bleed to create their own.
+
+
 ## Cities
 
 | City Name    | Meaning                 | Notes                                                                                                |
