@@ -30,9 +30,10 @@
  - **Houses**: Bellarose, Onyx, Valerius
  - Valerius
 	 - Lord Cyprian Valerius - black hair, handsome, well-kept
+	 - Lady Genevieve Valerius - Currently kidnapped and maybe dead???
 	 - Jenkins - butler
 
-Athur met up with us at 1am at Sanctuary
+Arthur met up with us at 1am at Sanctuary
 He seems to be cool and wants to help stop the trafficking
 Poison smoke bomb falls into our meeting room as the session ended
 
