@@ -28,46 +28,15 @@
 	<div class="canvas-node-label">The Tzicali Isles</div>
 </div>
 <div class="canvas-node canvas-node-group " data-node-id="0a98a0df1ee03c79" style="transform: translate(540px, -540px); width: 1120px; height: 840px;  ">
-	<div class="canvas-node-label">The Dulann Marches</div>
+	<div class="canvas-node-label">The Dulann Confederacy</div>
 </div>
-<div class="canvas-node canvas-node-group " data-node-id="aa1351ae91f7a6e6" style="transform: translate(540px, 380px); width: 1120px; height: 840px;  ">
+<div class="canvas-node canvas-node-group has-color" data-node-id="aa1351ae91f7a6e6" style="transform: translate(540px, 380px); width: 1120px; height: 840px; --canvas-color: #e0de71; ">
 	<div class="canvas-node-label">The Korrandi League</div>
-</div>
-<div class="canvas-node canvas-node-group " data-node-id="3efe6524b51352df" style="transform: translate(1740px, -460px); width: 1120px; height: 840px;  ">
-	<div class="canvas-node-label">The Korrandi League</div>
-</div>
-<div class="canvas-node canvas-node-text " data-node-id="460e3666bc367e2a" style="transform: translate(-600px, -520px); width: 1065px; height: 200px; ">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="IyMgT3ZlcnZpZXcKVGhlIFJlZHd5bm4gRW1waXJlIGlzIGEgcG93ZXJmdWwgY29hc3RhbCBuYXRpb24sIGtub3duIGFjcm9zcyBjb250aW5lbnRzIGZvciBpdHMgYnVzdGxpbmcgcG9ydHMsIGxhdmlzaCBtYXJrZXRzLCBhbmQgYSBzcHJhd2xpbmcgbmV0d29yayBvZiB0cmFkZSByb3V0ZXMgdGhhdCBtYWtlIGl0IHRoZSBiZWF0aW5nIGhlYXJ0IG9mIGNvbW1lcmNlIGluIHRoZSByZWdpb24uIEl0cyBtZXJjaGFudCB2ZXNzZWxzIGZseSBjcmltc29uIHNhaWxzLCBhIHByb3VkIGVtYmxlbSBvZiBwcm9zcGVyaXR5IGFuZCBhbWJpdGlvbi4="></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text " data-node-id="70befa100adc832f" style="transform: translate(-600px, 400px); width: 1065px; height: 180px; ">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="IyMgT3ZlcnZpZXcKVGhlICoqVHppY2FsaSBJc2xlcyoqIGZvcm0gYSBzdHJpa2luZyBhcmNoaXBlbGFnbyBvZiB2ZXJkYW50LCBtaXN0eSBpc2xhbmRzIHNjYXR0ZXJlZCBhY3Jvc3Mgd2FybSB0cm9waWNhbCBzZWFzLiAgVGhlIElzbGVzIGFyZSBhIGxhbmQgb2YgKipjb21wZXRpbmcgbm9ibGUgaG91c2VzKiosIGVhY2ggcnVsaW5nIG92ZXIgdGhlaXIgb3duIGlzbGFuZCBvciBzdHJldGNoIG9mIGNvYXN0bGluZSwgbG9ja2VkIGluIGEgZGVsaWNhdGUgYW5kIGV2ZXItc2hpZnRpbmcgZ2FtZSBvZiBmZXVkYWwgYWxsaWFuY2VzLCBiZXRyYXlhbHMsIGFuZCBvcGVuIHdhci4="></div>
-		</div>
-	</div>
 </div>
 <div class="canvas-node canvas-node-text has-color" data-node-id="4d8f51251a707132" style="transform: translate(60px, 80px); width: 405px; height: 200px; --canvas-color: #a882ff;">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered">
 			<div class="canvas-node-text-content" data-markdown="IyMjIyBSZWxldmFudCBQQ3MKW1tQdWJsaWMvMDEgVGhlIFBhcnR5L0NoYXJhY3RlcnMvT2xlYW5kZXIgJ09seScgQnJpYXJcfE9seSBCcmlhcl1dIGlzIGZyb20gdGhlIFJlZHd5bm4gRW1waXJl"></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="63a2e97f74509e54" style="transform: translate(60px, 1000px); width: 405px; height: 197px; --canvas-color: #a882ff;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="IyMjIyBSZWxldmFudCBQQ3MKW1tQdWJsaWMvMDEgVGhlIFBhcnR5L0NoYXJhY3RlcnMvSmluIFRzdWppXHxKaW4gVHN1amldXSBpcyBhIHNhbXVyYWkgd2hvIHNlcnZlZCB1bmRlciBhIGxvcmQgaW4gdGhlIGlzbGVzIGJlZm9yZSBoaXMgZGFpbXlvIHdhcyBkZXN0cm95ZWQgaW4gYW4gYXR0YWNr"></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text " data-node-id="fb33fed392ac0139" style="transform: translate(580px, -520px); width: 1060px; height: 180px; ">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="IyMgT3ZlcnZpZXcKVGhlICoqVHppY2FsaSBJc2xlcyoqIGZvcm0gYSBzdHJpa2luZyBhcmNoaXBlbGFnbyBvZiB2ZXJkYW50LCBtaXN0eSBpc2xhbmRzIHNjYXR0ZXJlZCBhY3Jvc3Mgd2FybSB0cm9waWNhbCBzZWFzLiAgVGhlIElzbGVzIGFyZSBhIGxhbmQgb2YgKipjb21wZXRpbmcgbm9ibGUgaG91c2VzKiosIGVhY2ggcnVsaW5nIG92ZXIgdGhlaXIgb3duIGlzbGFuZCBvciBzdHJldGNoIG9mIGNvYXN0bGluZSwgbG9ja2VkIGluIGEgZGVsaWNhdGUgYW5kIGV2ZXItc2hpZnRpbmcgZ2FtZSBvZiBmZXVkYWwgYWxsaWFuY2VzLCBiZXRyYXlhbHMsIGFuZCBvcGVuIHdhci4="></div>
 		</div>
 	</div>
 </div>
@@ -88,7 +57,7 @@
 <div class="canvas-node canvas-node-text has-color" data-node-id="15f879294b6bbfb4" style="transform: translate(60px, -308px); width: 405px; height: 368px; --canvas-color: #44cf6e;">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="IyMjIyBDaXRpZXMKIC0gW1tQdWJsaWMvMDIgVGhlIFdvcmxkL05hdGlvbnMvVGhlIFJlZHd5bm4gRW1waXJlLzFhIC0gQWVsaW5hclx8QWVsaW5hcl1dIC0g4piFCiAtIFtbUHVibGljLzAyIFRoZSBXb3JsZC9OYXRpb25zL1RoZSBSZWR3eW5uIEVtcGlyZS9FbWJlcndhdGNoLmNhbnZhc1x8RW1iZXJ3YXRjaF1d"></div>
+			<div class="canvas-node-text-content" data-markdown="IyMjIyBDaXRpZXMKIC0gW1tQdWJsaWMvMDIgVGhlIFdvcmxkL05hdGlvbnMvVGhlIFJlZHd5bm4gRW1waXJlLzFhIC0gQWVsaW5hclx8QWVsaW5hcl1dIC0g4piFCiAtIFtbUHVibGljLzAyIFRoZSBXb3JsZC9OYXRpb25zL1RoZSBSZWR3eW5uIEVtcGlyZS9FbWJlcndhdGNoLmNhbnZhc1x8RW1iZXJ3YXRjaF1dCiAtIEdyZXltb29y"></div>
 		</div>
 	</div>
 </div>
@@ -102,7 +71,21 @@
 <div class="canvas-node canvas-node-text has-color" data-node-id="f682bb741caddefc" style="transform: translate(580px, -320px); width: 640px; height: 137px; --canvas-color: #e0de71;">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="IyMgUnVsZXIK"></div>
+			<div class="canvas-node-text-content" data-markdown="IyMgUnVsZXIKVGhlIEtyYWFs"></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text " data-node-id="460e3666bc367e2a" style="transform: translate(-600px, -520px); width: 1065px; height: 200px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyMgT3ZlcnZpZXcKVGhlIFJlZHd5bm4gRW1waXJlIGlzIGEgcG93ZXJmdWwgY29hc3RhbCBuYXRpb24sIGtub3duIGFjcm9zcyBjb250aW5lbnRzIGZvciBpdHMgYnVzdGxpbmcgcG9ydHMsIGxhdmlzaCBtYXJrZXRzLCBhbmQgYSBzcHJhd2xpbmcgbmV0d29yayBvZiB0cmFkZSByb3V0ZXMgdGhhdCBtYWtlIGl0IHRoZSBiZWF0aW5nIGhlYXJ0IG9mIGNvbW1lcmNlIGluIHRoZSByZWdpb24uIEl0cyBtZXJjaGFudCB2ZXNzZWxzIGZseSBjcmltc29uIHNhaWxzLCBhIHByb3VkIGVtYmxlbSBvZiBwcm9zcGVyaXR5IGFuZCBhbWJpdGlvbi4="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text " data-node-id="70befa100adc832f" style="transform: translate(-600px, 400px); width: 1065px; height: 180px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyMgT3ZlcnZpZXcKVGhlICoqVHppY2FsaSBJc2xlcyoqIGZvcm0gYSBzdHJpa2luZyBhcmNoaXBlbGFnbyBvZiB2ZXJkYW50LCBtaXN0eSBpc2xhbmRzIHNjYXR0ZXJlZCBhY3Jvc3Mgd2FybSB0cm9waWNhbCBzZWFzLiAgVGhlIElzbGVzIGFyZSBhIGxhbmQgb2YgKipjb21wZXRpbmcgbm9ibGUgaG91c2VzKiosIGVhY2ggcnVsaW5nIG92ZXIgdGhlaXIgb3duIGlzbGFuZCBvciBzdHJldGNoIG9mIGNvYXN0bGluZSwgbG9ja2VkIGluIGEgZGVsaWNhdGUgYW5kIGV2ZXItc2hpZnRpbmcgZ2FtZSBvZiBmZXVkYWwgYWxsaWFuY2VzLCBiZXRyYXlhbHMsIGFuZCBvcGVuIHdhci4="></div>
 		</div>
 	</div>
 </div>
@@ -123,7 +106,7 @@
 <div class="canvas-node canvas-node-text " data-node-id="34879a20e0a14df4" style="transform: translate(580px, 400px); width: 1065px; height: 180px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="IyMgT3ZlcnZpZXcK"></div>
+			<div class="canvas-node-text-content" data-markdown="IyMgT3ZlcnZpZXcKUmVub3duZWQgZm9yIGl0cyB0b3dlcmluZyBhY2FkZW1pZXMgYW5kIHZpYnJhbnQgYXJ0IGhhbGxzLCB0aGUgS29ycmFuZGkgTGVhZ3VlIGlzIGEgY29uc3RlbGxhdGlvbiBvZiBpbmRlcGVuZGVudCBjaXR5LXN0YXRlcy4gTWVyY2hhbnQgaG91c2VzLCBtYXN0ZXIgYXJ0aXNhbnMsIGFuZCBicmlsbGlhbnQgbWFnZXMgY29uc3RhbnRseSBwdXNoIHRoZSBsaW1pdHMgb2YgbWFnaWMsIHRlY2hub2xvZ3ksIGZhc2hpb24sIGFuZCBwaGlsb3NvcGh5LiBGaWVyY2VseSBjb21wZXRpdGl2ZSB5ZXQgZGF6emxpbmdseSBwcm9ncmVzc2l2ZSwgdGhlIExlYWd1ZSBzdGFuZHMgYXMgdGhlIGludGVsbGVjdHVhbCBhbmQgY3VsdHVyYWwgaGVhcnQgb2YgdGhlIHdvcmxkLg=="></div>
 		</div>
 	</div>
 </div>
@@ -145,6 +128,20 @@
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered">
 			<div class="canvas-node-text-content" data-markdown="IyMjIyBDaXRpZXMK"></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text " data-node-id="fb33fed392ac0139" style="transform: translate(580px, -520px); width: 1060px; height: 180px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyMgT3ZlcnZpZXcKVGhlICoqRHVsYW5uIENvbmZlZGVyYWN5KiogaXMgYSBoYXJzaCBhbGxpYW5jZSBvZiB3YXJsb3JkIGNsYW5zIHdobyBjYXJ2ZSB0aGVpciBob21lcyBpbnRvIHRoZSBmcm96ZW4gbW91bnRhaW5zIGFuZCB2b2xjYW5vZXMgb2YgdGhlIE5vcnRoLiBUaGV5IHRydXN0IHN0cmVuZ3RoIGZhciBtb3JlIHRoYW4gdGhlIGRpc3RhbnQgc3VuLCBtb29uLCBvciBzdGFycyB0aGF0IGxvbmcgYWdvIGFiYW5kb25lZCB0aGVtLiBFYWNoIGNsYW4gcnVsZXMgaXRzIG93biBkb21haW4sIHVuaXRlZCBvbmx5IGJ5ICoqdGhlIEtyYWFsKirigJRhIGxlYWRlciBjaG9zZW4gdGhyb3VnaCByaXR1YWwgY29tYmF0IHdoZW4gdGhlIHByZXZpb3VzIHJ1bGVyIGRpZXPigJRhbmQgYnkgdGhlaXIgc2hhcmVkIGJlbGllZiB0aGF0IHBvd2VyIGlzIGVhcm5lZCwgbmV2ZXIgZ3JhbnRlZC4g"></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="63a2e97f74509e54" style="transform: translate(60px, 1000px); width: 405px; height: 197px; --canvas-color: #a882ff;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyMjIyBSZWxldmFudCBQQ3MKW1tQdWJsaWMvMDEgVGhlIFBhcnR5L0NoYXJhY3RlcnMvSmluIFRzdWppXHxKaW4gVHN1amldXSBpcyBhIHNhbXVyYWkgd2hvIHNlcnZlZCB1bmRlciBhIGxvcmQgaW4gdGhlIGlzbGVzIGJlZm9yZSBoaXMgZGFpbXlvIHdhcyBkZXN0cm95ZWQgaW4gYW4gYXR0YWNr"></div>
 		</div>
 	</div>
 </div>
