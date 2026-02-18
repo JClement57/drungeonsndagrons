@@ -52,7 +52,7 @@
 <div class="canvas-node canvas-node-file canvas-node-image " data-node-id="4a519f48382fd4a6" style="transform: translate(520px, -1040px); width: 840px; height: 480px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content image-embed">
-			<img src="/img/user/z_assets/Emberwatch%20Night.png" alt="Emberwatch Night.png" loading="lazy" />
+			<img src="/img/user/z_assets/emberwatchNight.png" alt="emberwatchNight.png" loading="lazy" />
 		</div>
 	</div>
 </div>
@@ -101,7 +101,7 @@
 <div class="canvas-node canvas-node-text " data-node-id="d7080fc6d6ba1561" style="transform: translate(860px, 520px); width: 500px; height: 440px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="IyMjIyBbW3pfYXNzZXRzL0dyYW4uanBlZ3xHcmFuXV0gCkFuIGVsZGVybHkgaHVtYW4gd29tYW4gd2hvIGlzIHRoZSBvd25lciBvZiB0aGUgU2FuY3R1YXJ5IFRhdmVybi4gU2hlIG1heSBzZWNyZXRseSBiZSB0aGUgbW9zdCBwb3dlcmZ1bCBtYWdlIGluIEVtYmVyd2F0Y2guLi4KIyMjIyBbW3pfYXNzZXRzL05vZyBhbmQgV3JldC5qcGVnfE5vZ2cgYW5kIFdyZXRdXQpIYWxmIG9yYyBib3VuY2VycyBmb3IgdGhlIFNhbmN0dWFyeSBJbm4uIEdyYW4ncyBhZG9wdGVkIHNvbnMgd2hvIGhlbHAgaGVyIHJ1biB0aGUgdGF2ZXJuCiMjIyMgS2FsCkFkb2xlc2NlbnQgdGllZmxpbmcgZ2lybCBzZXJ2aW5nIGFzIGEgYmFybWFpZCBhdCB0aGUgU2FuY3R1YXJ5IGlubg=="></div>
+			<div class="canvas-node-text-content" data-markdown="IyMjIyBbWy4uLy4uLy4uLy4uL3pfYXNzZXRzL2dyYW4uanBlZ3xncmFuXV0gCkFuIGVsZGVybHkgaHVtYW4gd29tYW4gd2hvIGlzIHRoZSBvd25lciBvZiB0aGUgU2FuY3R1YXJ5IFRhdmVybi4gU2hlIG1heSBzZWNyZXRseSBiZSB0aGUgbW9zdCBwb3dlcmZ1bCBtYWdlIGluIEVtYmVyd2F0Y2guLi4KIyMjIyBbWy4uLy4uLy4uLy4uL3pfYXNzZXRzL25vZ1dyZXQuanBlZ3xOb2dnIGFuZCBXcmV0XV0KSGFsZiBvcmMgYm91bmNlcnMgZm9yIHRoZSBTYW5jdHVhcnkgSW5uLiBHcmFuJ3MgYWRvcHRlZCBzb25zIHdobyBoZWxwIGhlciBydW4gdGhlIHRhdmVybgojIyMjIEthbApBZG9sZXNjZW50IHRpZWZsaW5nIGdpcmwgc2VydmluZyBhcyBhIGJhcm1haWQgYXQgdGhlIFNhbmN0dWFyeSBpbm4="></div>
 		</div>
 	</div>
 </div>
@@ -115,7 +115,7 @@
 <div class="canvas-node canvas-node-text " data-node-id="38e5d92ed82d72a6" style="transform: translate(-20px, 520px); width: 480px; height: 340px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="IyMjIyBbWy4uLy4uLy4uLy4uL3pfYXNzZXRzL3NhbmRvci5qcGVnfHNhbmRvcl1dCiAtIE1hc3RlciBvZiBjdXN0b21zCiAtIEtpbmRhIGEgamVyawogLSBXb3JraW5nIHdpdGggdGhlIHBhcnR5IHRvIGNvbWJhdCB0cmFmZmlja2luZyBpbiB0aGUgY2l0eQoKW1suLi96X2Fzc2V0cy9BcnRodXIgU2FuZG9yLmpwZWdcfC4uL3pfYXNzZXRzL0FydGh1ciBTYW5kb3IuanBlZ11dICAKW1suLi8uLi8uLi8uLi96X2Fzc2V0cy9zYW5kb3IuanBlZ11dICAKW1suLi8uLi8uLi8uLi96X2Fzc2V0cy9zYW5kb3IuanBlZ3xzYW5kb3JdXQ=="></div>
+			<div class="canvas-node-text-content" data-markdown="IyMjIyBbW3pfYXNzZXRzL2FydGh1clNhbmRvci5qcGVnfEFydGh1ciBTYW5kb3JdXQogLSBNYXN0ZXIgb2YgY3VzdG9tcwogLSBLaW5kYSBhIGplcmsKIC0gV29ya2luZyB3aXRoIHRoZSBwYXJ0eSB0byBjb21iYXQgdHJhZmZpY2tpbmcgaW4gdGhlIGNpdHkKCltbLi4vLi4vLi4vel9hc3NldHMvYXJ0aHVyU2FuZG9yLmpwZWdcfC4uLy4uLy4uL3pfYXNzZXRzL2FydGh1clNhbmRvci5qcGVnXV0gIApbWy4uLy4uLy4uL3pfYXNzZXRzL2FydGh1clNhbmRvci5qcGVnXHxBcnRodXIgU2FuZG9yXV0gIApbW3pfYXNzZXRzL2FydGh1clNhbmRvci5qcGVnXV0gIApbW3pfYXNzZXRzL2FydGh1clNhbmRvci5qcGVnfGFydGh1clNhbmRvcl1d"></div>
 		</div>
 	</div>
 </div>

@@ -18,7 +18,7 @@
 	 - House Bellarose took Braun, who at this point was totally concussed and thought he was 17 and lived in Aelinar
  - The session ended with a woman who matches the description of Lady Genevieve Valerius hobbling into town
 
-[sandor](/img/user/z_assets/sandor.jpeg)
+[arthurSandor](/img/user/z_assets/arthurSandor.jpeg)
 
 
 
