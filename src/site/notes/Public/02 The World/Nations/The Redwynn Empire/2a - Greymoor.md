@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"02 The World/Nations/The Redwynn Empire/2a - Greymoor.md","permalink":"/02-the-world/nations/the-redwynn-empire/2a-greymoor/","title":"Greymoor"}
+{"dg-publish":true,"dg-path":"02 The World/Nations/The Redwynn Empire/2a - Greymoor.md","permalink":"/02-the-world/nations/the-redwynn-empire/2a-greymoor/","title":"Greymoor","dg-note-properties":{"title":"Greymoor"}}
 ---
 
 

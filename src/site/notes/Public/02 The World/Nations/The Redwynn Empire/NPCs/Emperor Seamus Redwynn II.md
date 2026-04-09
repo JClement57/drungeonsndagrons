@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"02 The World/Nations/The Redwynn Empire/NPCs/Emperor Seamus Redwynn II.md","permalink":"/02-the-world/nations/the-redwynn-empire/np-cs/emperor-seamus-redwynn-ii/"}
+{"dg-publish":true,"dg-path":"02 The World/Nations/The Redwynn Empire/NPCs/Emperor Seamus Redwynn II.md","permalink":"/02-the-world/nations/the-redwynn-empire/np-cs/emperor-seamus-redwynn-ii/","dg-note-properties":{}}
 ---
 
 Emperor of the[[Public/02 The World/Nations/The Redwynn Empire/0 - The Redwynn Empire\|The Redwynn Empire]]

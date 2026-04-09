@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"02 The World/History & Lore/Celestial Pantheon/Solarin.md","permalink":"/02-the-world/history-and-lore/celestial-pantheon/solarin/"}
+{"dg-publish":true,"dg-path":"02 The World/History & Lore/Celestial Pantheon/Solarin.md","permalink":"/02-the-world/history-and-lore/celestial-pantheon/solarin/","dg-note-properties":{}}
 ---
 
 

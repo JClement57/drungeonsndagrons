@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"01 The Party/Characters/Oleander 'Oly' Briar.md","permalink":"/01-the-party/characters/oleander-oly-briar/"}
+{"dg-publish":true,"dg-path":"01 The Party/Characters/Oleander 'Oly' Briar.md","permalink":"/01-the-party/characters/oleander-oly-briar/","dg-note-properties":{}}
 ---
 
 

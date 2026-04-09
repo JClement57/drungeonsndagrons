@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"00 Session Logs/Session 8 - The Road to Emberwatch.md","permalink":"/00-session-logs/session-8-the-road-to-emberwatch/"}
+{"dg-publish":true,"dg-path":"00 Session Logs/Session 8 - The Road to Emberwatch.md","permalink":"/00-session-logs/session-8-the-road-to-emberwatch/","dg-note-properties":{}}
 ---
 
 *Date:* 12/14/2025  

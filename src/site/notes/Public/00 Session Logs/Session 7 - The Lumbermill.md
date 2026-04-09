@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"00 Session Logs/Session 7 - The Lumbermill.md","permalink":"/00-session-logs/session-7-the-lumbermill/"}
+{"dg-publish":true,"dg-path":"00 Session Logs/Session 7 - The Lumbermill.md","permalink":"/00-session-logs/session-7-the-lumbermill/","dg-note-properties":{}}
 ---
 
 

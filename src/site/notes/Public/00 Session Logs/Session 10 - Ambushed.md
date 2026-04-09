@@ -1,41 +1,24 @@
 ---
-{"dg-publish":true,"dg-path":"00 Session Logs/Session 9 - Sanctuary.md","permalink":"/00-session-logs/session-9-sanctuary/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"00 Session Logs/Session 10 - Ambushed.md","permalink":"/00-session-logs/session-10-ambushed/","dg-note-properties":{}}
 ---
 
-*Date:* 12/14/2025  
+*Date:* 2/1/2026  
 *Game Master:* Landon  
-*Players Present:* Mike, Katy, Josh, Hailey, BJ (All online! Snow day)
+*Players Present:* Mike, Katy, Josh, Hailey, BJ
 
-# Live Notes
- - Norin opened the spell book and illusory black tentacles reached out as if to attack him
- - Monocle highlights the blood of magical beings (aasimar, dragonborn)
- - Nolan's mom: light skin, bright green eyes, platinum blonde hair
-- Found lots of gold belonging to House Valerius in the bandit camp (1312gp)
-- On the road to Emberwatch saw some gnome-looking creatures with red hats
-- **The Primway** - the main road of empire that connects major cities
 
-#### Emberwatch
- - The city is large and sits on the Ravenflow river
- - 2nd largest city in the Redwynn Empire. Large trade hub and bastion on the river to protect from intruders 
- - The **Arcanum** - a library containing historical and magical knowledge
-	 - One of Oly's professors used to work at the Arcanum
- - Tobias Redwynn - mayor, brother of Emperor Seamus Redwynn II
- - At the center of the city is a large tower that serves as a lighthouse for travelers - **The Ember Tower**
- - **The Ember Ring** - 
- - Arthur Sandor - "Boss" of the watch punch
- - **The Sanctuary Inn** - Arthur told the party to stay there - **Gran** is the innkeeper
-	 - Nogg & Rett are bouncers (half orcs)
-	 - Cal - Adolescent tiefling (lavender skin)
- - Dr. Brand
- - **Houses**: Bellarose, Onyx, Valerius
- - Valerius
-	 - Lord Cyprian Valerius - black hair, handsome, well-kept
-	 - Lady Genevieve Valerius - Currently kidnapped and maybe dead???
-	 - Jenkins - butler
+## Live Notes
+ - One of the attackers had a signet ring of the Ebony Hand
+ - Attackers were flanked by the guard who was outside of Arthur's office when we got there
+ - They were going to take us to "a path behind the harbormaster's shack leads to a cave in the side of the cliffs"
+ - Ledger from the Ebony Hand looking for our party
+	 - Ledge was written with a unique magical ink that matches the ink on the ledger we found at the lumber mill
+ - Prisoner (Braun) left with guards to be taken to jail 
+ - Lord Gill Bellarose - leader of the house
+	 - House Bellarose took Braun, who at this point was totally concussed and thought he was 17 and lived in Aelinar
+ - The session ended with a woman who matches the description of Lady Genevieve Valerius hobbling into town
 
-Arthur met up with us at 1am at Sanctuary
-He seems to be cool and wants to help stop the trafficking
-Poison smoke bomb falls into our meeting room as the session ended
+
 
 ---
 

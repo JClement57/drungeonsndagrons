@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"00 Session Logs/Session 0 - Planning.md","permalink":"/00-session-logs/session-0-planning/"}
+{"dg-publish":true,"dg-path":"00 Session Logs/Session 0 - Planning.md","permalink":"/00-session-logs/session-0-planning/","dg-note-properties":{}}
 ---
 
 

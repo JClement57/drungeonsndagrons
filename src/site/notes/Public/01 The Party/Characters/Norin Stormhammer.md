@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"01 The Party/Characters/Norin Stormhammer.md","permalink":"/01-the-party/characters/norin-stormhammer/"}
+{"dg-publish":true,"dg-path":"01 The Party/Characters/Norin Stormhammer.md","permalink":"/01-the-party/characters/norin-stormhammer/","dg-note-properties":{}}
 ---
 
 

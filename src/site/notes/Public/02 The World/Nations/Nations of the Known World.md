@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"02 The World/Nations/Nations of the Known World.md","permalink":"/02-the-world/nations/nations-of-the-known-world/"}
+{"dg-publish":true,"dg-path":"02 The World/Nations/Nations of the Known World.md","permalink":"/02-the-world/nations/nations-of-the-known-world/","dg-note-properties":{}}
 ---
 
 

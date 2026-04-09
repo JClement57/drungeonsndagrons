@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"02 The World/Nations/The Redwynn Empire/1a - Aelinar.md","permalink":"/02-the-world/nations/the-redwynn-empire/1a-aelinar/","title":"Aelinar"}
+{"dg-publish":true,"dg-path":"02 The World/Nations/The Redwynn Empire/1a - Aelinar.md","permalink":"/02-the-world/nations/the-redwynn-empire/1a-aelinar/","title":"Aelinar","dg-note-properties":{"title":"Aelinar"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"02 The World/Nations/The Seric Coast/The Seric Coast.md","permalink":"/02-the-world/nations/the-seric-coast/the-seric-coast/"}
+{"dg-publish":true,"dg-path":"02 The World/Nations/The Seric Coast/The Seric Coast.md","permalink":"/02-the-world/nations/the-seric-coast/the-seric-coast/","dg-note-properties":{}}
 ---
 
 

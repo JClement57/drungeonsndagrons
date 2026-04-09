@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-assets/asset-importer/","hide":"true","hideInGraph":true}
+{"dg-publish":true,"permalink":"/z-assets/asset-importer/","hide":"true","hideInGraph":true,"dg-note-properties":{}}
 ---
 
 ![arthurSandor.jpeg](/img/user/z_assets/arthurSandor.jpeg)

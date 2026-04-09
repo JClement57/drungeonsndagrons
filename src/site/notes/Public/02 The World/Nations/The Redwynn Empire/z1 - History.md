@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"02 The World/Nations/The Redwynn Empire/z1 - History.md","permalink":"/02-the-world/nations/the-redwynn-empire/z1-history/","title":"History"}
+{"dg-publish":true,"dg-path":"02 The World/Nations/The Redwynn Empire/z1 - History.md","permalink":"/02-the-world/nations/the-redwynn-empire/z1-history/","title":"History","dg-note-properties":{"title":"History"}}
 ---
 
 ## The Old Regime

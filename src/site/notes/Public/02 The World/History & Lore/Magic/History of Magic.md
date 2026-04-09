@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"02 The World/History & Lore/Magic/History of Magic.md","permalink":"/02-the-world/history-and-lore/magic/history-of-magic/"}
+{"dg-publish":true,"dg-path":"02 The World/History & Lore/Magic/History of Magic.md","permalink":"/02-the-world/history-and-lore/magic/history-of-magic/","dg-note-properties":{}}
 ---
 
 

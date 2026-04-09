@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"02 The World/History & Lore/Celestial Pantheon/Lunira.md","permalink":"/02-the-world/history-and-lore/celestial-pantheon/lunira/"}
+{"dg-publish":true,"dg-path":"02 The World/History & Lore/Celestial Pantheon/Lunira.md","permalink":"/02-the-world/history-and-lore/celestial-pantheon/lunira/","dg-note-properties":{}}
 ---
 
 

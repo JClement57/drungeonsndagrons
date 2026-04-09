@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"00 Session Logs/Session 6 - The Reaver Attack.md","permalink":"/00-session-logs/session-6-the-reaver-attack/"}
+{"dg-publish":true,"dg-path":"00 Session Logs/Session 6 - The Reaver Attack.md","permalink":"/00-session-logs/session-6-the-reaver-attack/","dg-note-properties":{}}
 ---
 
 

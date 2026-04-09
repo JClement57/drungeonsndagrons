@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Welcome.md","permalink":"/welcome/","contentClasses":"t-c welcome-page","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-path":"Welcome.md","permalink":"/welcome/","contentClasses":"t-c welcome-page","tags":["gardenEntry"],"dg-note-properties":{"pinned":true,"cssclasses":["t-c","welcome-page"]}}
 ---
 
 # Welcome to the World of Caelthys
@@ -14,32 +14,32 @@ Yet the fate of Caelthys is far from written. As ancient powers stir and the hea
 > [!column|flex 6 no-t embed nmg]
 >> [!card|no-t]
 >> ### **[[Public/01 The Party/Characters/Jin Tsuji\|Jin Tsuji]]**
->> ![01 The Party/Characters/img/jin.jpeg|jin](/img/user/Public/01%20The%20Party/Characters/img/jin.jpeg)
+>> ![01 The Party/Characters/img/jin.jpeg\|jin](/img/user/Public/01%20The%20Party/Characters/img/jin.jpeg)
 >> <div style="text-align:center;">Samurai Fighter</div>
 >
 >> [!card|no-t]
 >> ### **[[Public/01 The Party/Characters/Kira Lux\|Kira Lux]]**
->> ![01 The Party/Characters/img/kira.jpeg|kira](/img/user/Public/01%20The%20Party/Characters/img/kira.jpeg)
+>> ![01 The Party/Characters/img/kira.jpeg\|kira](/img/user/Public/01%20The%20Party/Characters/img/kira.jpeg)
 >> <div style="text-align:center;">Oath of Glory Paladin</div>
 >
 >> [!card|no-t]
 >> ### **[[Public/01 The Party/Characters/Oleander 'Oly' Briar\|Oleander 'Oly' Briar]]**
->> ![01 The Party/Characters/img/oly.jpeg|oly](/img/user/Public/01%20The%20Party/Characters/img/oly.jpeg)
+>> ![01 The Party/Characters/img/oly.jpeg\|oly](/img/user/Public/01%20The%20Party/Characters/img/oly.jpeg)
 >> <div style="text-align:center">Order of Scribes Wizard</div>
 > 
 >> [!card|no-t]
 >> ### **[[Public/01 The Party/Characters/Z'Rak\|Z'Rak]]**
->> ![01 The Party/Characters/img/zrak.jpeg|zrak](/img/user/Public/01%20The%20Party/Characters/img/zrak.jpeg)
+>> ![01 The Party/Characters/img/zrak.jpeg\|zrak](/img/user/Public/01%20The%20Party/Characters/img/zrak.jpeg)
 >> <div style="text-align:center">Wild Draconic Sorcerer</div>
 >
 >> [!card|no-t]
 >> ### **[[Public/01 The Party/Characters/Norin Stormhammer\|Norin Stormhammer]]**
->> ![01 The Party/Characters/img/norin3_4.jpeg|norin](/img/user/Public/01%20The%20Party/Characters/img/norin3_4.jpeg)
+>> ![01 The Party/Characters/img/norin3_4.jpeg\|norin](/img/user/Public/01%20The%20Party/Characters/img/norin3_4.jpeg)
 >> <div style="text-align:center">Drakewarden Ranger</div>
 >
 >> [!card|no-t]
 >> ### [[Public/01 The Party/Characters/Amaeric Cassius Palius\|Amaeric Cassius Palius]]
->> ![01 The Party/Characters/img/amaeric.jpeg|amaeric](/img/user/Public/01%20The%20Party/Characters/img/amaeric.jpeg)
+>> ![01 The Party/Characters/img/amaeric.jpeg\|amaeric](/img/user/Public/01%20The%20Party/Characters/img/amaeric.jpeg)
 >> <div style="text-align:center">Zealot Barbarian</div>
 
 

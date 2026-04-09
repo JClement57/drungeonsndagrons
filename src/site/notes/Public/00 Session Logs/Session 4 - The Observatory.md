@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"00 Session Logs/Session 4 - The Observatory.md","permalink":"/00-session-logs/session-4-the-observatory/"}
+{"dg-publish":true,"dg-path":"00 Session Logs/Session 4 - The Observatory.md","permalink":"/00-session-logs/session-4-the-observatory/","dg-note-properties":{}}
 ---
 
 

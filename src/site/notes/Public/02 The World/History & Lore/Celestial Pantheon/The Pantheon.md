@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"02 The World/History & Lore/Celestial Pantheon/The Pantheon.md","permalink":"/02-the-world/history-and-lore/celestial-pantheon/the-pantheon/"}
+{"dg-publish":true,"dg-path":"02 The World/History & Lore/Celestial Pantheon/The Pantheon.md","permalink":"/02-the-world/history-and-lore/celestial-pantheon/the-pantheon/","dg-note-properties":{}}
 ---
 
 

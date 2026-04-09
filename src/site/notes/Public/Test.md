@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Test.md","permalink":"/test/"}
+{"dg-publish":true,"dg-path":"Test.md","permalink":"/test/","dg-note-properties":{}}
 ---
 
 [../../../z_assets/arthurSandor.jpeg](/img/user/z_assets/arthurSandor.jpeg)  

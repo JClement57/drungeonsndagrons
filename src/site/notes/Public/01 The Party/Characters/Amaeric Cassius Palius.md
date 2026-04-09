@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"01 The Party/Characters/Amaeric Cassius Palius.md","permalink":"/01-the-party/characters/amaeric-cassius-palius/"}
+{"dg-publish":true,"dg-path":"01 The Party/Characters/Amaeric Cassius Palius.md","permalink":"/01-the-party/characters/amaeric-cassius-palius/","dg-note-properties":{}}
 ---
 
 

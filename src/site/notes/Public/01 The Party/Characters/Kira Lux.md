@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"01 The Party/Characters/Kira Lux.md","permalink":"/01-the-party/characters/kira-lux/"}
+{"dg-publish":true,"dg-path":"01 The Party/Characters/Kira Lux.md","permalink":"/01-the-party/characters/kira-lux/","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"02 The World/Nations/The Redwynn Empire/0 - The Redwynn Empire.md","permalink":"/02-the-world/nations/the-redwynn-empire/0-the-redwynn-empire/","title":"The Redwynn Empire"}
+{"dg-publish":true,"dg-path":"02 The World/Nations/The Redwynn Empire/0 - The Redwynn Empire.md","permalink":"/02-the-world/nations/the-redwynn-empire/0-the-redwynn-empire/","title":"The Redwynn Empire","dg-note-properties":{"title":"The Redwynn Empire"}}
 ---
 
 ## Overview
