@@ -9,13 +9,13 @@ Long before written memory, the world was a single sprawling landmass — a crad
 Even now, sages debate the true cause of the Shattering, poring over fragmentary myths and cryptic ruins. Meanwhile, sailors and merchants ply the seas born of that long-ago devastation, unknowingly tracing the scars of an ancient wound with every voyage. This ocean stands as both a bridge and a barrier between civilizations, its depths hiding echoes of the world that once was.
 
 ## The Veildeep Ocean
-The Veildeep is the ocean that  separates the two continents main of The Shattered Reach. Legends say that it hides mysteries and ancient wreckage from the Shattering. 
+The Veildeep is the ocean that  separates the two continents main of The Shattered Reach. Legends say that it hides mysteries and ancient wreckage from the clashes during the Twilight Rebellion. 
 <br><br>
 # Nations
 
 ## The Redwynn Empire
 
-[[Public/02 The World/Nations/The Redwynn Empire/0 - The Redwynn Empire\|0 - The Redwynn Empire]] is a mighty kingdom sprawling along the western coast of the eastern continent. Rolling hills give way to dense forests, jagged mountain ranges, and breathtaking coastlines dotted with bustling ports. The Redwynn Empire is ruled by a monarch — currently Queen Alandra Vaelwyn — but each major city maintains its own elected mayor, balancing the interests of local governance with imperial decree. This mix of monarchy and civic democracy, alongside its thriving guilds, makes it a hub of trade, politics, and intrigue.
+[[Public/02 The World/Nations/The Redwynn Empire/0 - The Redwynn Empire\|0 - The Redwynn Empire]] is a mighty kingdom sprawling along the western coast of the eastern continent. Rolling hills give way to dense forests, jagged mountain ranges, and breathtaking coastlines dotted with bustling ports. The Redwynn Empire is ruled by Emperor Seamus Redwynn II, but each major city maintains its own elected mayor, balancing the interests of local governance with imperial decree. This mix of monarchy and civic democracy, alongside its thriving guilds, makes it a hub of trade, politics, and intrigue.
 
 *Think: Classic coastal fantasy setting. A melting pot of races, cultures and religions due to the coastal trading nature of the nation.*
 
@@ -23,7 +23,7 @@ The Veildeep is the ocean that  separates the two continents main of The Shatter
 
 ## The Tzicali Isles
 
-[[Public/02 The World/Nations/The Tzicali Isles/The Tzicali Isles\|The Tzicali Isles]] form a striking archipelago of verdant, misty islands scattered across warm tropical seas. Beneath their vibrant jungles lie titanic, dormant forms of ancient titans — colossal remnants from a war of the celestials, whose uneasy slumber occasionally sends tremors across the land.
+[[Public/02 The World/Nations/The Tzicali Isles/The Tzicali Isles\|The Tzicali Isles]] are a verdant archipelago of misty, tropical islands where feudal noble houses rule individual islands or coastal regions. While the landscape and culture draw on bright Mayan-inspired aesthetics with samurai-like warrior orders, political life is dominated by competing Daimyo who jockey for influence across the archipelago. A ceremonial High Shogun — chosen only in times of grave need by a council of the most powerful houses and the Starreaders — serves as the Isles’ singular monarch in ritual and foreign affairs, but day-to-day authority remains with the local lords and their warrior clans.
 
 *Think: Feudal Japan with lords and ladies ruling small portions of the region, all submitting to a singular king. Aesthetically the Tzicali isles resemble Mayan tradition and architecture with bright colors and decorating their clothes and buildings.*
 

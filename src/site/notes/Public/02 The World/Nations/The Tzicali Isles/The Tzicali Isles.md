@@ -10,14 +10,9 @@ The Isles are a land of **competing noble houses**, each ruling over their own i
 
 ## Government & Power
 
-The Tzicali Isles operate under a **feudal system**, with lords and ladies (known as **Tlatoani** and **Tlatoya**) who control territories, raise militias, and scheme to expand their holdings. Their strongholds — stone keeps adorned with jungle motifs — dot the islands, while knights and samurai-like retainers uphold their honor and defend their claims.
+The Isles operate as a decentralized feudal confederation. Most power rests with local Daimyo — leaders of noble houses that control territories, raise militias, levy tariffs, and maintain courts. Houses form shifting alliances, arrange marriages, and occasionally wage limited wars, all while avoiding total destruction that might awaken the titans beneath them. The Starreaders act as a lasting spiritual check: their festivals, omens, and curses can force temporary truces or legitimize (or delegitimize) a ruler’s claim.
 
-Political life resembles the cutthroat court intrigue of medieval England: arranged marriages, secret assassinations, and ever-shifting loyalties define the noble game. Battles are frequent but rarely total, as every house fears stirring the titans beneath them with prolonged, devastating warfare.
-
-<br>
-## Samurai Tradition
-
-**[[Public/02 The World/Nations/The Tzicali Isles/Tzicali Warrior Traditions\|Martial traditions]]** flourish across the Tzicali Isles, where **warrior clans known as the Tiwi and the Balami** hold deep cultural significance. The Tiwi — eagle-inspired warriors — act as noble defenders of peace and freedom, upholding ancient codes of conduct and spiritual guardianship. In contrast, the jaguar-inspired Balami serve as mercenaries and power brokers, often employed by feuding lords to enforce will through strength. While both warrior traditions command respect, their conflicting ideals reflect the divided soul of the archipelago itself.
+To reconcile the need for a single diplomatic voice in exceptional circumstances, the Isles maintain the institution of the High Shogun. This is not an inheritable kingship in the classic sense: the High Shogun is a largely ceremonial monarch elected (or ratified) by a conclave of leading houses and the senior Starreaders when famine, titanic tremors, foreign invasion, or other archipelago‑wide crises demand unified leadership. The High Shogun presides over inter‑island councils, leads sacred rites intended to calm the titans, and represents the Isles to foreign powers, but routine governance is still conducted by the individual houses and their councils.
 <br>
 
 ## Religion
