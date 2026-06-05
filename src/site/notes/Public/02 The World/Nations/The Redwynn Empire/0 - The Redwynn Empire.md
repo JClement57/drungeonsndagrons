@@ -19,11 +19,13 @@ The Redwynn Empire is a powerful coastal nation, known across continents for its
 
 ### National Governance
 
-Seamus Redwynn II is the found Emperor and the ultimate sovereign of the Redwynn Empire.
+Seamus Redwynn II is the Emperor and the ultimate sovereign of the Redwynn Empire. He inherited the throne from his father, Seamus Redwynn I, following his death after 40 years of reign. 
+
+General sentiment towards the emperor by the populace is positive. 
 
 ### Local Governance
 
-Each major city is largely autonomous in daily affairs, governed by an **elected mayor** who answers ultimately to the Emperor. This layered system ensures local voices are heard but keeps the throne’s authority intact.
+Each major city is led by officials who are appointed by the Emperor. Most are former associates or family of the Emperor, while others have earned their position through merit.
 
 Each mayor has a council which could be made up of local guild masters, heads of houses, or other relevant characters in a city.
 

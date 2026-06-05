@@ -29,49 +29,25 @@ The Veildeep is the ocean that  separates the two continents main of The Shatter
 
 ---
 
-## The Tyrasil Dominion
+## The Kingdom of Tyril
 
-A realm of lush jungles and resplendent jeweled palaces, the Tyrasil Dominion thrives atop the living roots of a primordial world-tree. Its sap brings both miraculous life and horrifying mutations, a power closely guarded by the ruling dynasties. Emperors and nobles maintain vast menageries of magical beasts — status symbols as much as formidable weapons — creating a society where wonder and terror walk hand in hand.
+A realm of lush jungles and resplendent jeweled palaces, the Kingdom of Tyril thrives amongst the lush Eastern forests of Caelthys. The king and his nobles maintain vast menageries of magical beasts — status symbols as much as formidable weapons — creating a society where wonder and terror walk hand in hand.
 
 *Think: Wood-elves and humanoid animal-folk dominate this realm. Essentially forest cities where the buildings are built into the canopy. Imagine the Ewok village.*
 
 ---
 
-## The Korrandi League
+## The Korrandian League
 
-Renowned for its towering academies and vibrant art halls, the Korrandi League is a constellation of independent city-states. Merchant houses, master artisans, and brilliant mages constantly push the limits of magic, technology, fashion, and philosophy. Fiercely competitive yet dazzlingly progressive, the League stands as the intellectual and cultural heart of the world.
+Renowned for its towering academies and vibrant art halls, the Korrandian League is an alliance of independent city-states. Merchant houses, master artisans, and brilliant mages constantly push the limits of magic, technology, fashion, and philosophy. Fiercely competitive yet dazzlingly progressive, Korrandi stands as the intellectual and cultural heart of the world.
 
 *Think: Renaissance Italy. A cultural hub for innovation in technology, fashion, and politics. This has led to a huge societal wealth gap. Basically hunger games districts with the uber wealthy and the super poor.*
 
 
----
-
-## The Seric Coast
-
-The **Seric Coast** is a radiant maritime nation famed for its relationship with the wind. A place of airy towers, painted pagodas, and cliffside cities, the very air seems alive with bright sails, drifting lanterns, and a thousand vibrant kites. From elegant sky ships to daring gliders, the people of Seric trust the breath of the sea to carry them. Festivals are constant, color is everywhere, and joy seems to dance on every breeze.
-
-*Think: Air nomads. That's all I've got so far lol.*
 
 ---
 
-## The Varrholm Confederacy
+## The Dulann Confederacy
 
-Frost giants once ruled here, and their lingering magic makes the winters sentient — the snow whispers, blizzards seek vengeance, and auroras can open gates to the spirit realms. The people ride giant elk and sail longships that can glide over both water and ice.
+The Dulann Confederacy is a harsh alliance of warlord clans who carve their homes into the frozen mountains and volcanoes of the North. They trust strength far more than the distant sun, moon, or stars that long ago abandoned them. Each clan rules its own domain, united only by **the Kraal**—a leader chosen through ritual combat when the previous ruler dies—and by their shared belief that power is earned, never granted.  Their cities exist inside the warm confines of the mountains and volcanoes in the Northern Wastelands. 
 
-*Think: Scandinavian viking culture mixed with waterbender villages.*
-
----
-
-## The Aetheric Reaches
-
-Far above the surface world lies the Aetheric Reaches: a realm of floating islands adrift in a vast sky-ocean roiled by endless storms. Airships with sails spun from woven spells traverse these magical currents, connecting sky ports and cloud fortresses. Governed by councils elected by free peoples, the Reaches represent a fragile democratic web in a place where the laws of gravity — and often reality — are not to be trusted.
-
-*Think: Floating islands above the ocean.*
-
----
-
-## The Amber Sultanates
-
-Golden deserts stretch beneath sun-bleached skies where mighty cities rise vertically, built upon foundations of reddish, nearly indestructible glass forged from the very sands below. Each towering city is ruled by a Sultan, whose authority balances lavish patronage of the arts with iron control over water and trade. Intricate glasswork, opulent bazaars, and vibrant festivals bloom in this harsh yet dazzling land.
-
-*Think: Desert arabic cultures. Sand people who have become adept at navigating the harsh environment.*
