@@ -34,7 +34,7 @@
 > ---
 
 ## Kallista ("Kal")
-> [!caption|left wsmall static clear]
+> [!caption|right wsmall static clear]
 > ![attachments/kal.png](/img/user/Public/01%20The%20Party/Bastion/attachments/kal.png)
 > Kal
 
