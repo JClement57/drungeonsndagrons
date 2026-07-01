@@ -68,10 +68,10 @@ Once established, merchants:
   
 ### Current Businesses
 
-| Business      | Name | Proprietor       | Services                               |
-| ------------- | ---- | ---------------- | -------------------------------------- |
-| General Store |      | Milo Coppershine | Common goods, basic supplies, sundries |
-| Tavern & Inn  |      | Kal              | Lodging, meals, rumors, a warm fire    |
+| Business      | Name             | Proprietor       | Services                               |
+| ------------- | ---------------- | ---------------- | -------------------------------------- |
+| General Store |                  | Milo Coppershine | Common goods, basic supplies, sundries |
+| Tavern & Inn  | The Rising Ember | Kal              | Lodging, meals, rumors, a warm fire    |
   *More businesses can be recruited through play.*
   
 
