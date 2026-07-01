@@ -19,10 +19,10 @@ Yet as his creation grew, Solarin’s burden grew with it. To ease his labor, he
 #### The Veil
 To preserve this harmony, Solarin raised a radiant **veil** between realms — a barrier of divine light separating the **Celestial Realm** from **Caelthys**. Through it, his Stars could watch and guide, but never fully touch the mortal world. This assured his order would be maintained.
 
-#### Celestial Law and the Krisis
-As Solarin began distributing power and authority amongst the stars he also created the [[Public/02 The World/History & Lore/Celestial Pantheon/Celestial Law\|../../../02 The World/History & Lore/Celestial Pantheon/Celestial Law]] - a set of rules that all members of the cosmic legion abided by. 
+#### Celestial Law and the Brightlance
+As Solarin began distributing power and authority amongst the stars he also created the [[Public/02 The World/History & Lore/Celestial Pantheon/Celestial Law\|Celestial Law]] - a set of rules that all members of the cosmic legion abided by. 
 
-To enforce his divine order, Solarin forged the **Krisis** — a spear of purest light capable of piercing even the radiant veil. With it, he could cast judgment upon the Stars who defied the celestial code, striking them from the heavens and casting their brilliance down into the mortal realm. The Vaelspire became both the instrument of divine justice and the symbol of Solarin’s ultimate authority.
+To enforce his divine order, Solarin forged the **Brightlance** — a spear of purest light capable of piercing even the radiant veil. With it, he could cast judgment upon the Stars who defied the celestial code, striking them from the heavens and casting their brilliance down into the mortal realm. The Brightlance became both the instrument of divine justice and the symbol of Solarin’s ultimate authority.
 
 ### **Lunira**
 Perfection dulled with time. Solarin longed for something new — for wonder.  
