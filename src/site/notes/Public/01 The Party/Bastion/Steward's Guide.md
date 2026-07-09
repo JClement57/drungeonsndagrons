@@ -4,12 +4,6 @@
 
 # Greyphon Hallow — Steward's Guide
   
-> *You didn't just save Greyphon Hallow. You own it now. Here's what that means.*
-
----
-
-## Overview
-
 As stewards of Greyphon Hallow, the party can issue **orders** to the town — commissioning work, recruiting merchants, improving infrastructure, or directing defenses. The town grows and improves over time based on your decisions.
 
 ### Rules at a glance
