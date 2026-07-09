@@ -23,7 +23,7 @@ As stewards of Greyphon Hallow, the party can issue **orders** to the town — c
 
 ##### Player Bastions
  - Players will also each have their own ***Bastions*** - homes that contain facilities that can  take actions on behalf of the player.
-	 - See "Bastion Facilities" for the available options of these specialized facilities
+	 - See [[Public/01 The Party/Bastion/Steward's Guide#Special Facilities\|#Special Facilities]] for the available options of these specialized facilities
 	 - Each player may issue **one active order at a time** . Upon issuing an order the DM will prescribe a duration and cost (if incurred) required to complete the action
 
 ##### Town Events
@@ -77,6 +77,7 @@ The town has a **Defense Rating** from 1–5, representing the strength of its w
 | 3      | Organized guard. Handles most threats without party involvement.                  |
 | 4      | Fortified. Capable of holding against significant assault.                        |
 | 5      | Garrison-level. The town can defend itself from nearly anything short of an army. |
+
 **Defense Rating increases** when the party invests in walls, recruits guards, repels attacks, or completes relevant quests. It can decrease if the town suffers serious damage and goes unrepaired.
 
 ## Town Orders
@@ -92,14 +93,11 @@ Town orders are issued collectively by the party (not tied to individual players
 - **Host an Event** — Organize a festival, market day, or public gathering to grow the town's reputation
 - **Anything you could think of** - Get creative!
 
-# Town Events
-
 
 # Player Bastions
 Each player has their own **Bastion** — a personal space within or near Greyphon Hallow that grows alongside the town. Bastions contain **facilities** that can act on a character's behalf.
 
 **Rules:**
-
 - Each player may issue **one active Bastion order at a time**
 - Orders are issued and resolved the same way as town orders — the DM assigns a duration and cost
 - Facilities become available based on **character level**, not town tier
