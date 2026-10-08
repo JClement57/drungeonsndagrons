@@ -34,7 +34,7 @@ Yet the fate of Caelthys is far from written. As ancient powers stir and the hea
 >
 >> [!card|no-t]
 >> ### **[[04 - Party/Characters/Valwyn Ravara\|Valwyn Ravara]]**
->> ![norin3_4.jpeg\|norin](/img/user/99%20-%20Assets/Party/norin3_4.jpeg)
+>> ![Valwyn.png\|Valwyn](/img/user/99%20-%20Assets/Valwyn.png)
 >> <div style="text-align:center">Soulknife Rogue</div>
 
 ## Former Party Members
