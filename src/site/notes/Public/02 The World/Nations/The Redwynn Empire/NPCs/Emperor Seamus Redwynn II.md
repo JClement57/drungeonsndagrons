@@ -1,7 +1,0 @@
----
-{"dg-publish":true,"dg-path":"02 The World/Nations/The Redwynn Empire/NPCs/Emperor Seamus Redwynn II.md","permalink":"/02-the-world/nations/the-redwynn-empire/np-cs/emperor-seamus-redwynn-ii/","dg-note-properties":{}}
----
-
-Son of Seamus Redwynn I, the founding emperor of the Redwynn Empire. Seamus Redwynn II currently serves as the Emperor of the[[Public/02 The World/Nations/The Redwynn Empire/0 - The Redwynn Empire\|The Redwynn Empire]]
-
-He resides in a castle in [[Public/02 The World/Nations/The Redwynn Empire/1a - Aelinar\|Aelinar]] that sits on the river that cuts through the city.
