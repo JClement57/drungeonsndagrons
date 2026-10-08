@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Session Logs/Session 03 - The Shipwreck.md","dg-permalink":"/00-session-logs/session-3-the-shipwreck/","permalink":"/00-session-logs/session-3-the-shipwreck/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Session Logs/Session 03 - The Shipwreck.md","permalink":"/session-logs/session-03-the-shipwreck/","dg-note-properties":{}}
 ---
 
 

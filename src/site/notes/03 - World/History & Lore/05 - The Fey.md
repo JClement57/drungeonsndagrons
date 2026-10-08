@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"History & Lore/05 - The Fey.md","dg-permalink":"/02-the-world/history-and-lore/creation/the-fey/","permalink":"/02-the-world/history-and-lore/creation/the-fey/","title":"The Fey","dg-note-properties":{"title":"The Fey","aliases":["The Fey"]}}
+{"dg-publish":true,"dg-path":"History & Lore/05 - The Fey.md","permalink":"/history-and-lore/05-the-fey/","title":"The Fey","dg-note-properties":{"title":"The Fey","aliases":["The Fey"]}}
 ---
 
 # Summary

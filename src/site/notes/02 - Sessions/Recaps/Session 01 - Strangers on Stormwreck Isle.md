@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Session Logs/Session 01 - Strangers on Stormwreck Isle.md","dg-permalink":"/00-session-logs/session-1-strangers-on-stormwreck-isle/","permalink":"/00-session-logs/session-1-strangers-on-stormwreck-isle/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Session Logs/Session 01 - Strangers on Stormwreck Isle.md","permalink":"/session-logs/session-01-strangers-on-stormwreck-isle/","dg-note-properties":{}}
 ---
 
 

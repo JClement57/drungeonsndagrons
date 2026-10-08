@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Locations/Nations of the Known World.md","dg-permalink":"/02-the-world/nations/nations-of-the-known-world/","permalink":"/02-the-world/nations/nations-of-the-known-world/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Locations/Nations of the Known World.md","permalink":"/locations/nations-of-the-known-world/","dg-note-properties":{}}
 ---
 
 

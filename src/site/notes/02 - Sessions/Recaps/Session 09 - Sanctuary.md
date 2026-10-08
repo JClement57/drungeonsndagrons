@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Session Logs/Session 09 - Sanctuary.md","dg-permalink":"/00-session-logs/session-9-sanctuary/","permalink":"/00-session-logs/session-9-sanctuary/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Session Logs/Session 09 - Sanctuary.md","permalink":"/session-logs/session-09-sanctuary/","dg-note-properties":{}}
 ---
 
 *Date:* 12/14/2025  

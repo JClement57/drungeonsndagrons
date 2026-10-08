@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Locations/The Redwynn Empire/History of the Redwynn Empire.md","dg-permalink":"/02-the-world/nations/the-redwynn-empire/z1-history/","permalink":"/02-the-world/nations/the-redwynn-empire/z1-history/","title":"History","dg-note-properties":{"title":"History","aliases":["History of the Redwynn Empire"]}}
+{"dg-publish":true,"dg-path":"Locations/The Redwynn Empire/History of the Redwynn Empire.md","permalink":"/locations/the-redwynn-empire/history-of-the-redwynn-empire/","title":"History","dg-note-properties":{"title":"History","aliases":["History of the Redwynn Empire"]}}
 ---
 
 ## The Old Regime

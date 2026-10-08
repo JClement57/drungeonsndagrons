@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Locations/The Redwynn Empire/Aelinar.md","dg-permalink":"/02-the-world/nations/the-redwynn-empire/1a-aelinar/","permalink":"/02-the-world/nations/the-redwynn-empire/1a-aelinar/","title":"Aelinar","dg-note-properties":{"title":"Aelinar","aliases":["Aelinar"],"type":"location","parent-location":"The Redwynn Empire","region":"The Redwynn Empire"}}
+{"dg-publish":true,"dg-path":"Locations/The Redwynn Empire/Aelinar.md","permalink":"/locations/the-redwynn-empire/aelinar/","title":"Aelinar","dg-note-properties":{"title":"Aelinar","aliases":["Aelinar"],"type":"location","parent-location":"The Redwynn Empire","region":"The Redwynn Empire"}}
 ---
 
 
@@ -46,9 +46,9 @@
 
 ## Religion
 - Aelinar holds major temples of the Celestium.
-- They honor the three tiers: [[03 - World/Celestials & Faith/02 - Solarin\|Solarin]], [[03 - World/Celestials & Faith/03 - Lunira\|Lunira]], and [[03 - World/Celestials & Faith/04 - The Stars\|the Stars]].
+- They honor the three tiers: [[03 - World/History & Lore/Celestials & Faith/02 - Solarin\|Solarin]], [[03 - World/History & Lore/Celestials & Faith/03 - Lunira\|Lunira]], and [[03 - World/History & Lore/Celestials & Faith/04 - The Stars\|the Stars]].
 - A senior priest, similar to a bishop, heads the Order in the Empire.
-- See [[03 - World/Celestials & Faith/06 - The Order of the Celestium\|The Order of the Celestium]].
+- See [[03 - World/History & Lore/Celestials & Faith/06 - The Order of the Celestium\|The Order of the Celestium]].
 
 ## Points of interest
 - [[03 - World/Locations/The Redwynn Empire/Aelinar/The Twin Keeps\|The Twin Keeps]]

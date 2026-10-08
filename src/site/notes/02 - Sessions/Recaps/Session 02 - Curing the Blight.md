@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Session Logs/Session 02 - Curing the Blight.md","dg-permalink":"/00-session-logs/session-2-curing-the-blight/","permalink":"/00-session-logs/session-2-curing-the-blight/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Session Logs/Session 02 - Curing the Blight.md","permalink":"/session-logs/session-02-curing-the-blight/","dg-note-properties":{}}
 ---
 
 

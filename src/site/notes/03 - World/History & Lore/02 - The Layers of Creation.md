@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"History & Lore/02 - The Layers of Creation.md","dg-permalink":"/02-the-world/history-and-lore/the-layers-of-creation/","permalink":"/02-the-world/history-and-lore/the-layers-of-creation/","title":"The Layers of Creation","dg-note-properties":{"title":"The Layers of Creation","aliases":["The Layers of Creation"]}}
+{"dg-publish":true,"dg-path":"History & Lore/02 - The Layers of Creation.md","permalink":"/history-and-lore/02-the-layers-of-creation/","title":"The Layers of Creation","dg-note-properties":{"title":"The Layers of Creation","aliases":["The Layers of Creation"]}}
 ---
 
 > [!INFOBOX]

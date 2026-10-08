@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Session Logs/Session 10 - Ambushed.md","dg-permalink":"/00-session-logs/session-10-ambushed/","permalink":"/00-session-logs/session-10-ambushed/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Session Logs/Session 10 - Ambushed.md","permalink":"/session-logs/session-10-ambushed/","dg-note-properties":{}}
 ---
 
 *Date:* 2/1/2026  

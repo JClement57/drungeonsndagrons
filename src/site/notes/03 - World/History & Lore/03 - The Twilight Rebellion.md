@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"History & Lore/03 - The Twilight Rebellion.md","dg-permalink":"/02-the-world/history-and-lore/creation/the-twilight-rebellion/","permalink":"/02-the-world/history-and-lore/creation/the-twilight-rebellion/","title":"The Twilight Rebellion","dg-note-properties":{"title":"The Twilight Rebellion","aliases":["The Twilight Rebellion"]}}
+{"dg-publish":true,"dg-path":"History & Lore/03 - The Twilight Rebellion.md","permalink":"/history-and-lore/03-the-twilight-rebellion/","title":"The Twilight Rebellion","dg-note-properties":{"title":"The Twilight Rebellion","aliases":["The Twilight Rebellion"]}}
 ---
 
 

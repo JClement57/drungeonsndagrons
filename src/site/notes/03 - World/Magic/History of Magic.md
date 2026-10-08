@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Magic/History of Magic.md","dg-permalink":"/02-the-world/history-and-lore/magic/history-of-magic/","permalink":"/02-the-world/history-and-lore/magic/history-of-magic/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Magic/History of Magic.md","permalink":"/magic/history-of-magic/","dg-note-properties":{}}
 ---
 
 
@@ -10,7 +10,7 @@ In the ages after the Twilight Rebellion, mortals began to uncover the lingering
 
 ### Lunira’s Breath
 
-[[03 - World/Celestials & Faith/03 - Lunira\|Lunira]], the Moon Celestial, saw the danger that was brought with the wounds of the Twilight Rebellion. She knew the world that she had grown to love would cease to exist unless something was done. To prevent the world from collapsing, she imbued celestial energy - **Aetherium** - into the fabric of the universe to mend the wounds that had been created. This divine act infused reality with a powerful energy that it had not known prior. Aetherium sealed the world’s wounds, stitching existence back together. The presence of these threads - this energy - became the foundation of what mortals now call **magic**.
+[[03 - World/History & Lore/Celestials & Faith/03 - Lunira\|Lunira]], the Moon Celestial, saw the danger that was brought with the wounds of the Twilight Rebellion. She knew the world that she had grown to love would cease to exist unless something was done. To prevent the world from collapsing, she imbued celestial energy - **Aetherium** - into the fabric of the universe to mend the wounds that had been created. This divine act infused reality with a powerful energy that it had not known prior. Aetherium sealed the world’s wounds, stitching existence back together. The presence of these threads - this energy - became the foundation of what mortals now call **magic**.
 
 Sites of the greatest battles during the rebellion required an especially large amount of Aetherium to keep them together. These sites became known as [[03 - World/Magic/The Seams\|The Seams]].  
 

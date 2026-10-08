@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"The Party/Characters/Jin Tsuji.md","dg-permalink":"/01-the-party/characters/jin-tsuji/","permalink":"/01-the-party/characters/jin-tsuji/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"The Party/Characters/Jin Tsuji.md","permalink":"/the-party/characters/jin-tsuji/","dg-note-properties":{}}
 ---
 
 

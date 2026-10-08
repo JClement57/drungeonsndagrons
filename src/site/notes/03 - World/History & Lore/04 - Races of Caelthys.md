@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"History & Lore/04 - Races of Caelthys.md","dg-permalink":"/02-the-world/history-and-lore/creation/races-of-caelthys/","permalink":"/02-the-world/history-and-lore/creation/races-of-caelthys/","title":"Races of Caelthys","dg-note-properties":{"title":"Races of Caelthys","aliases":["Races of Caelthys"]}}
+{"dg-publish":true,"dg-path":"History & Lore/04 - Races of Caelthys.md","permalink":"/history-and-lore/04-races-of-caelthys/","title":"Races of Caelthys","dg-note-properties":{"title":"Races of Caelthys","aliases":["Races of Caelthys"]}}
 ---
 
 # Overworld

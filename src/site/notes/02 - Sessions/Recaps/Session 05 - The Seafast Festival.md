@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Session Logs/Session 05 - The Seafast Festival.md","dg-permalink":"/00-session-logs/session-5-the-seafast-festival/","permalink":"/00-session-logs/session-5-the-seafast-festival/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Session Logs/Session 05 - The Seafast Festival.md","permalink":"/session-logs/session-05-the-seafast-festival/","dg-note-properties":{}}
 ---
 
 

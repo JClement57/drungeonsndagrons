@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Locations/The Dulann Confederacy/The Dulann Confederacy.md","dg-permalink":"/02-the-world/nations/the-dulann-confederacy/the-dulann-confederacy/","permalink":"/02-the-world/nations/the-dulann-confederacy/the-dulann-confederacy/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Locations/The Dulann Confederacy/The Dulann Confederacy.md","permalink":"/locations/the-dulann-confederacy/the-dulann-confederacy/","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Locations/The Redwynn Empire/Greymoor.md","dg-permalink":"/02-the-world/nations/the-redwynn-empire/2a-greymoor/","permalink":"/02-the-world/nations/the-redwynn-empire/2a-greymoor/","title":"Greymoor","dg-note-properties":{"title":"Greymoor","aliases":["Greymoor"],"type":"location","parent-location":"The Redwynn Empire","region":"The Redwynn Empire"}}
+{"dg-publish":true,"dg-path":"Locations/The Redwynn Empire/Greymoor.md","permalink":"/locations/the-redwynn-empire/greymoor/","title":"Greymoor","dg-note-properties":{"title":"Greymoor","aliases":["Greymoor"],"type":"location","parent-location":"The Redwynn Empire","region":"The Redwynn Empire"}}
 ---
 
 

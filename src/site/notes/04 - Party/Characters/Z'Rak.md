@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"The Party/Characters/Z'Rak.md","dg-permalink":"/01-the-party/characters/z-rak/","permalink":"/01-the-party/characters/z-rak/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"The Party/Characters/Z'Rak.md","permalink":"/the-party/characters/z-rak/","dg-note-properties":{}}
 ---
 
 

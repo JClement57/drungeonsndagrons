@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Locations/The Tzicali Isles/The Tzicali Isles.md","dg-permalink":"/02-the-world/nations/the-tzicali-isles/the-tzicali-isles/","permalink":"/02-the-world/nations/the-tzicali-isles/the-tzicali-isles/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Locations/The Tzicali Isles/The Tzicali Isles.md","permalink":"/locations/the-tzicali-isles/the-tzicali-isles/","dg-note-properties":{}}
 ---
 
 

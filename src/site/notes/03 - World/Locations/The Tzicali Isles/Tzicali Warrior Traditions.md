@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Locations/The Tzicali Isles/Tzicali Warrior Traditions.md","dg-permalink":"/02-the-world/nations/the-tzicali-isles/tzicali-warrior-traditions/","permalink":"/02-the-world/nations/the-tzicali-isles/tzicali-warrior-traditions/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Locations/The Tzicali Isles/Tzicali Warrior Traditions.md","permalink":"/locations/the-tzicali-isles/tzicali-warrior-traditions/","dg-note-properties":{}}
 ---
 
 

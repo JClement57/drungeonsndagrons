@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Locations/The Redwynn Empire/The Redwynn Empire.md","dg-permalink":"/02-the-world/nations/the-redwynn-empire/0-the-redwynn-empire/","permalink":"/02-the-world/nations/the-redwynn-empire/0-the-redwynn-empire/","title":"The Redwynn Empire","dg-note-properties":{"title":"The Redwynn Empire","aliases":["The Redwynn Empire"]}}
+{"dg-publish":true,"dg-path":"Locations/The Redwynn Empire/The Redwynn Empire.md","permalink":"/locations/the-redwynn-empire/the-redwynn-empire/","title":"The Redwynn Empire","dg-note-properties":{"title":"The Redwynn Empire","aliases":["The Redwynn Empire"]}}
 ---
 
 ## Overview

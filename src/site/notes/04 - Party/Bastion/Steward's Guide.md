@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"The Party/Bastion/Steward's Guide.md","dg-permalink":"/01-the-party/bastion/steward-s-guide/","permalink":"/01-the-party/bastion/steward-s-guide/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"The Party/Bastion/Steward's Guide.md","permalink":"/the-party/bastion/steward-s-guide/","dg-note-properties":{}}
 ---
 
 # Greyphon Hallow — Steward's Guide

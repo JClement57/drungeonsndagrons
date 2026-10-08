@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Magic/The Seams.md","dg-permalink":"/02-the-world/history-and-lore/magic/the-seams/","permalink":"/02-the-world/history-and-lore/magic/the-seams/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Magic/The Seams.md","permalink":"/magic/the-seams/","dg-note-properties":{}}
 ---
 
 
