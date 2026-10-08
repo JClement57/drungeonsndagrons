@@ -1,14 +1,81 @@
 {
   "/": [
     "Welcome",
-    "Campaign",
-    "History & Lore",
-    "Locations",
-    "Magic",
-    "NPCs",
     "Session Logs",
     "The Party",
+    "Locations",
+    "NPCs",
+    "Campaign",
+    "History & Lore",
+    "Magic",
     "Caelthys"
+  ],
+  "/Session Logs": [
+    "Session 00 - Planning",
+    "Session 01 - Strangers on Stormwreck Isle",
+    "Session 02 - Curing the Blight",
+    "Session 03 - The Shipwreck",
+    "Session 04 - The Observatory",
+    "Session 05 - The Seafast Festival",
+    "Session 06 - The Reaver Attack",
+    "Session 07 - The Lumbermill",
+    "Session 08 - The Road to Emberwatch",
+    "Session 09 - Sanctuary",
+    "Session 10 - Ambushed"
+  ],
+  "/The Party": [
+    "Characters",
+    "Bastion"
+  ],
+  "/The Party/Characters": [
+    "Amaeric Cassius Palius",
+    "Jin Tsuji",
+    "Kira Lux",
+    "Norin Stormhammer",
+    "Oleander 'Oly' Briar",
+    "Z'Rak"
+  ],
+  "/The Party/Bastion": [
+    "Steward's Guide"
+  ],
+  "/Locations": [
+    "World Map",
+    "Nations of the Known World",
+    "The Redwynn Empire",
+    "The Tzicali Isles",
+    "The Dulann Confederacy",
+    "The Seric Coast"
+  ],
+  "/Locations/The Redwynn Empire": [
+    "Emberwatch",
+    "Aelinar",
+    "Greymoor",
+    "History of the Redwynn Empire",
+    "The Redwynn Empire"
+  ],
+  "/Locations/The Redwynn Empire/Emberwatch": [
+    "Emberwatch"
+  ],
+  "/Locations/The Tzicali Isles": [
+    "The Tzicali Isles",
+    "Tzicali Warrior Traditions"
+  ],
+  "/Locations/The Dulann Confederacy": [
+    "The Dulann Confederacy"
+  ],
+  "/Locations/The Seric Coast": [
+    "Temple of Ailan and Vormas",
+    "The Lifting Yards",
+    "The Seric Coast",
+    "Yansho",
+    "Zephyr Port"
+  ],
+  "/NPCs": [
+    "Redwynn Empire"
+  ],
+  "/NPCs/Redwynn Empire": [
+    "Emperor Seamus Redwynn II",
+    "Grand Vizier Arandor"
   ],
   "/Campaign": [
     "House Rules"
@@ -33,75 +100,8 @@
     "08 - The Argent Vanguard",
     "09 - Celestium Rites and Practices"
   ],
-  "/Locations": [
-    "The Dulann Confederacy",
-    "The Redwynn Empire",
-    "The Seric Coast",
-    "The Tzicali Isles",
-    "Nations of the Known World",
-    "World Map"
-  ],
-  "/Locations/The Dulann Confederacy": [
-    "The Dulann Confederacy"
-  ],
-  "/Locations/The Redwynn Empire": [
-    "Emberwatch",
-    "Aelinar",
-    "Greymoor",
-    "History of the Redwynn Empire",
-    "The Redwynn Empire"
-  ],
-  "/Locations/The Redwynn Empire/Emberwatch": [
-    "Emberwatch"
-  ],
-  "/Locations/The Seric Coast": [
-    "Temple of Ailan and Vormas",
-    "The Lifting Yards",
-    "The Seric Coast",
-    "Yansho",
-    "Zephyr Port"
-  ],
-  "/Locations/The Tzicali Isles": [
-    "The Tzicali Isles",
-    "Tzicali Warrior Traditions"
-  ],
   "/Magic": [
     "History of Magic",
     "The Seams"
-  ],
-  "/NPCs": [
-    "Redwynn Empire"
-  ],
-  "/NPCs/Redwynn Empire": [
-    "Emperor Seamus Redwynn II",
-    "Grand Vizier Arandor"
-  ],
-  "/Session Logs": [
-    "Session 00 - Planning",
-    "Session 01 - Strangers on Stormwreck Isle",
-    "Session 02 - Curing the Blight",
-    "Session 03 - The Shipwreck",
-    "Session 04 - The Observatory",
-    "Session 05 - The Seafast Festival",
-    "Session 06 - The Reaver Attack",
-    "Session 07 - The Lumbermill",
-    "Session 08 - The Road to Emberwatch",
-    "Session 09 - Sanctuary",
-    "Session 10 - Ambushed"
-  ],
-  "/The Party": [
-    "Bastion",
-    "Characters"
-  ],
-  "/The Party/Bastion": [
-    "Steward's Guide"
-  ],
-  "/The Party/Characters": [
-    "Amaeric Cassius Palius",
-    "Jin Tsuji",
-    "Kira Lux",
-    "Norin Stormhammer",
-    "Oleander 'Oly' Briar",
-    "Z'Rak"
   ]
 }
