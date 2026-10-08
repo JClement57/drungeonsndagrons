@@ -7,16 +7,11 @@ Caelthys is a world shaped by the watchful glow of its distant celestials, where
 
 Yet the fate of Caelthys is far from written. As ancient powers stir and the heavens themselves tremble, the world looks to a handful of rising heroes—wanderers, rebels, students, and champions whose choices will ripple far beyond the lands they walk. Will they uphold the celestial order or challenge it? Will they mend old wounds or tear open new ones? In a world where even the stars can falter, the path they choose may decide not only the future of Caelthys, but the balance of the skies above.
 
-##  Player Characters
+##  Party Members
 
 
 
 > [!column|flex 6 no-t embed nmg]
->> [!card|no-t]
->> ### **[[04 - Party/Characters/Jin Tsuji\|Jin Tsuji]]**
->> ![jin.jpeg\|jin](/img/user/99%20-%20Assets/Party/jin.jpeg)
->> <div style="text-align:center;">Samurai Fighter</div>
->
 >> [!card|no-t]
 >> ### **[[04 - Party/Characters/Kira Lux\|Kira Lux]]**
 >> ![kira.jpeg\|kira](/img/user/99%20-%20Assets/Party/kira.jpeg)
@@ -30,12 +25,24 @@ Yet the fate of Caelthys is far from written. As ancient powers stir and the hea
 >> [!card|no-t]
 >> ### **[[04 - Party/Characters/Z'Rak\|Z'Rak]]**
 >> ![zrak.jpeg\|zrak](/img/user/99%20-%20Assets/Party/zrak.jpeg)
->> <div style="text-align:center">Wild Draconic Sorcerer</div>
+>> <div style="text-align:center">Wild Magic Draconic Sorcerer</div>
 >
 >> [!card|no-t]
 >> ### **[[04 - Party/Characters/Norin Stormhammer\|Norin Stormhammer]]**
 >> ![norin3_4.jpeg\|norin](/img/user/99%20-%20Assets/Party/norin3_4.jpeg)
 >> <div style="text-align:center">Drakewarden Ranger</div>
+>
+>> [!card|no-t]
+>> ### **[[04 - Party/Characters/Valwyn Ravara\|Valwyn Ravara]]**
+>> ![norin3_4.jpeg\|norin](/img/user/99%20-%20Assets/Party/norin3_4.jpeg)
+>> <div style="text-align:center">Soulknife Rogue</div>
+
+## Former Party Members
+> [!column|flex 6 no-t embed nmg]
+>> [!card|no-t]
+>> ### **[[04 - Party/Characters/Jin Tsuji\|Jin Tsuji]]**
+>> ![jin.jpeg\|jin](/img/user/99%20-%20Assets/Party/jin.jpeg)
+>> <div style="text-align:center;">Samurai Fighter</div>
 >
 >> [!card|no-t]
 >> ### [[04 - Party/Characters/Amaeric Cassius Palius\|Amaeric Cassius Palius]]
