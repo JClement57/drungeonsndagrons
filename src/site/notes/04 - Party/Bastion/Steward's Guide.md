@@ -110,7 +110,6 @@ Each player has their own **Bastion** — a personal space within or near Greyph
 | **Greenhouse**           | 1         | Grow spell components and alchemical ingredients                     |
 | **Laboratory**           | 1         | Craft potions and poisons                                            |
 | **Library**              | 1         | Research lore, creatures, or locations; advantage on relevant checks |
-| **Meditation Chamber**   | 1         | Passive bonus to long rests; may allow extra spell slot recovery     |
 | **Pub**                  | 1         | Generates weekly income; surfaces rumors and local intel             |
 | **Sacristy**             | 1         | Craft holy items; receive blessings before travel                    |
 | **Scriptorium**          | 1         | Copy spell scrolls; produce official documents                       |

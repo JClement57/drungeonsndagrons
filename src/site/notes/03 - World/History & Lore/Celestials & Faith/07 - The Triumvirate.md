@@ -10,14 +10,17 @@
 > | **Type** | Council of three High Priests |
 > | **Leads** | [[03 - World/History & Lore/Celestials & Faith/06 - The Order of the Celestium\|The Order of the Celestium]] |
 > | **Seat** | [[03 - World/Locations/Korrandi League/The Constellarium\|The Constellarium]], in the capital of the [[03 - World/Locations/Korrandi League/Korrandi League\|Korrandi League]] |
-> | **Members** | [[03 - World/NPCs/The Celestium/Polaris Aurelian IV\|Polaris Aurelian IV]] · [[03 - World/NPCs/The Celestium/Tamara Windemere\|Tamara Windemere]] · [[03 - World/NPCs/The Celestium/Lathai Torro\|Lathai Torro]] |
+> | **Members** | [[03 - World/NPCs/The Celestium/Polaris Aurelian IV\|Polaris Aurelian IV]] · [[03 - World/NPCs/The Celestium/Sariel Windemere\|Sariel Windemere]] · [[03 - World/NPCs/The Celestium/Lathai Torro\|Lathai Torro]] |
 
 *The three High Priests who lead the Order of the Celestium.*
 
 ## Overview
 - A council of 3 High Priests.
 - Each represents one tier of the [[03 - World/History & Lore/Celestials & Faith/01 - The Pantheon\|Triad]]: Solarin, Lunira, and the Stars.
-- Sets doctrine for worshippers.
+- Each member holds one portfolio:
+  - **The Polaris** (Solarin): doctrine and the [[03 - World/History & Lore/Celestials & Faith/08 - The Argent Vanguard\|Argent Vanguard]].
+  - **The High Priestess of Lunira**: culture and practices.
+  - **The High Priest of the Stars**: the treasury and the Order’s logistics.
 - Leads major rituals.
 - Decides the Order’s direction as culture changes.
 
@@ -28,24 +31,26 @@
 - Head of the Celestium. **Polaris** is the title of the Order’s leader.
 - A new Polaris is given a name that reflects their legacy.
 - Major decisions and religious figurehead.
+- Oversees **doctrine**: what the Order teaches and what it names heresy.
+- Commands [[03 - World/History & Lore/Celestials & Faith/08 - The Argent Vanguard\|the Argent Vanguard]] through its Marshal.
 - Supports keeping indulgences.
 - Aasimar man.
 - Church ambassador to the nations.
 - Works with political leaders to keep relations friendly and mutually beneficial.
 
-### Tamara Windemere, High Priestess of Lunira
-- [[03 - World/NPCs/The Celestium/Tamara Windemere\|Tamara Windemere]]
+### Sariel Windemere, High Priestess of Lunira
+- [[03 - World/NPCs/The Celestium/Sariel Windemere\|Sariel Windemere]]
 - Argues for removing indulgences.
-- Human woman.
-- Oversees cultural and doctrinal development.
+- Half-elf woman.
+- Oversees **culture and practices**: rites, festivals, household worship, and how the faith is lived.
 - Keeps the Church relevant in a changing world.
 
 ### Lathai Torro, High Priest of the Stars
 - [[03 - World/NPCs/The Celestium/Lathai Torro\|Lathai Torro]]
-- Supports keeping indulgences, which fund the Vanguard.
+- Supports keeping indulgences, which fill the treasury he keeps.
 - Elven man.
-- Oversees [[03 - World/History & Lore/Celestials & Faith/08 - The Argent Vanguard\|the Argent Vanguard]].
-- Oversees the organization of the constellations.
+- Oversees the **treasury**: indulgences, tithes, and the Order’s holdings.
+- Oversees the Order’s **logistics**: temples, supplies, relics, and the organization of the constellations.
 
 ## Debate over indulgences
 - Some reformers reject the idea that money can solve moral problems.

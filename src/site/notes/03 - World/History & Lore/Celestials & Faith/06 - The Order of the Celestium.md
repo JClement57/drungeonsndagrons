@@ -51,11 +51,6 @@
 - See [[03 - World/History & Lore/Celestials & Faith/09 - Celestium Rites and Practices\|Celestium Rites and Practices]].
 - Covers clergy rites, household worship, and giving to the Church.
 
-## Holy symbol
-- Centered on Solarin’s symbol.
-- Lunira flanks it.
-- A ring of constellations surrounds it.
-
 ## Politics and influence
 - Holds no direct political power.
 - Shapes Caelthys’s sense of morality.
@@ -77,7 +72,7 @@
 
 ## Internal debate
 - Reformers dislike the idea that money can solve moral problems.
-- [[03 - World/NPCs/The Celestium/Tamara Windemere\|Tamara Windemere]] argues for removing indulgences.
+- [[03 - World/NPCs/The Celestium/Sariel Windemere\|Sariel Windemere]] argues for removing indulgences.
 - [[03 - World/NPCs/The Celestium/Polaris Aurelian IV\|Polaris Aurelian IV]] and [[03 - World/NPCs/The Celestium/Lathai Torro\|Lathai Torro]] keep them.
 - They say indulgences fund the Order and the Vanguard.
 

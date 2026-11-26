@@ -29,9 +29,9 @@ The Veildeep is the ocean that  separates the two continents main of The Shatter
 
 ---
 
-## The Kingdom of Tyril
+## The Tyril Dominion
 
-A realm of lush jungles and resplendent jeweled palaces, the Kingdom of Tyril thrives amongst the lush Eastern forests of Caelthys. The king and his nobles maintain vast menageries of magical beasts — status symbols as much as formidable weapons — creating a society where wonder and terror walk hand in hand.
+A realm of lush jungles and resplendent jeweled palaces, the Tyril Dominion thrives amongst the lush Eastern forests of Caelthys. The king and his nobles maintain vast menageries of magical beasts — status symbols as much as formidable weapons — creating a society where wonder and terror walk hand in hand.
 
 *Think: Wood-elves and humanoid animal-folk dominate this realm. Essentially forest cities where the buildings are built into the canopy. Imagine the Ewok village.*
 

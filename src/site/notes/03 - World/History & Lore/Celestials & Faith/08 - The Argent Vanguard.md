@@ -10,7 +10,7 @@
 > | **Type** | Military order |
 > | **Members** | Argents |
 > | **Serves** | [[03 - World/History & Lore/Celestials & Faith/06 - The Order of the Celestium\|The Order of the Celestium]] |
-> | **Overseen by** | The High Priest of the Stars ([[03 - World/History & Lore/Celestials & Faith/07 - The Triumvirate\|The Triumvirate]]) |
+> | **Overseen by** | The Polaris ([[03 - World/History & Lore/Celestials & Faith/07 - The Triumvirate\|The Triumvirate]]) |
 
 *The armored knights of the Celestium.*
 
@@ -32,7 +32,7 @@
 | 2. Vesper | Knight |
 | 3. Beacon | Sergeant |
 | 4. Constellian | Commands a company |
-| 5. Marshal of the Legion | Highest rank. Answers to the High Priest of the Stars |
+| 5. Marshal of the Legion | Highest rank. Answers to the Polaris |
 
 ## Insignia
 - A shoulder patch shows rank.
