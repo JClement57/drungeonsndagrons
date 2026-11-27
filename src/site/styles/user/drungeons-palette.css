@@ -192,3 +192,20 @@ body.theme-light.css-settings-manager {
 body .navbar, body .navbar-inner, body .filetree-sidebar {
   background-color: var(--outer-bar);
 }
+
+/* Visited links: keep the normal link color instead of the browser's dark default */
+body a:visited,
+body .internal-link:visited,
+body .external-link:visited,
+body .markdown-rendered a:visited {
+  color: var(--link-color);
+}
+body a:visited:hover,
+body .internal-link:visited:hover {
+  color: var(--link-color-hover);
+}
+
+/* Infoboxes: breathing room between the floated box and the text beside it */
+body .callout[data-callout*="infobox"] {
+  margin: 0.25em 0 1em 1.5em;
+}
