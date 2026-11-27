@@ -1,5 +1,8 @@
 /* ==========================================================================
    Drungeons & Dagrons: site styles
+   Repo path: src/site/styles/user/custom-style.scss
+   Vault copy is the tracked version; paste this file into GitHub.
+   Last updated 2026-11-27.
    ========================================================================== */
 
 /* --- Sizes ----------------------------------------------------------------- */
@@ -7,6 +10,7 @@
 body {
   --dg-content-max-width: 1100px; /* widest the text column gets */
   --font-text-size: 14px;         /* body text */
+  /* --dg-navbar-height: 60px;       top bar on tablet/phone (theme default) */
 }
 
 
@@ -20,7 +24,8 @@ body .navbar-inner {
   background-color: var(--background-secondary);
 }
 
-.navbar-inner, .filetree-sidebar {
+/* Sidebar: keep the file tree pinned left and hide its duplicate title */
+.filetree-sidebar {
   position: fixed;
   left: 0;
 
@@ -45,13 +50,52 @@ body .content {
   body .content { max-width: calc(100vw - 40px); }
 }
 
-#drungeons-home-button {
-  @media (max-width: 1400px) {
-    height: 70px;
-    padding-top: 10px;
+
+/* --- Top navbar (tablet and phone) ----------------------------------------- */
+
+body .navbar {
+  height: var(--dg-navbar-height);
+  padding: 0 16px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+
+  .navbar-inner {
+    position: static;
+    height: 100%;
+    align-items: center;
+    gap: 12px;
+
+    h1 {
+      visibility: hidden;
+      width: 0px;
+      height: 0px;
+    }
+
+    > span {                 // menu button
+      margin-right: 0 !important;
+      display: flex;
+      align-items: center;
+      cursor: pointer;
+    }
+
+    > a {
+      display: flex;
+      align-items: center;
+      height: 100%;
+    }
   }
-  @media (min-width: 1401px) {
-    padding: 10px;
+
+  #drungeons-home-button {   // logo: 8px above and below
+    height: calc(var(--dg-navbar-height) - 16px);
+    width: auto;
+    padding: 0;
+  }
+
+  .navbar-actions {
+    align-items: center;
+    height: 100%;
   }
 }
 
