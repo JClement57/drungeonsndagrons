@@ -1,3 +1,63 @@
+/* ==========================================================================
+   Drungeons & Dagrons: site styles
+   ========================================================================== */
+
+/* --- Sizes ----------------------------------------------------------------- */
+
+body {
+  --dg-content-max-width: 1100px; /* widest the text column gets */
+  --font-text-size: 14px;         /* body text */
+}
+
+
+/* --- Layout ---------------------------------------------------------------- */
+
+/* Sidebar: make the file-tree wrapper, sidebar and navbar one color */
+body .filetree-wrapper,
+body .filetree-sidebar,
+body .navbar,
+body .navbar-inner {
+  background-color: var(--background-secondary);
+}
+
+.navbar-inner, .filetree-sidebar {
+  position: fixed;
+  left: 0;
+
+  h1 {
+    visibility: hidden;
+    width: 0px;
+    height: 0px;
+  }
+}
+
+/* Wider, responsive content column */
+body .content {
+  max-width: var(--dg-content-max-width);
+  font-size: var(--font-text-size);
+}
+
+@media (max-width: 1400px) {
+  body .content { max-width: calc(100vw - var(--dg-filetree-width) - 50px); }
+}
+
+@media (max-width: 1000px) {
+  body .content { max-width: calc(100vw - 40px); }
+}
+
+#drungeons-home-button {
+  @media (max-width: 1400px) {
+    height: 70px;
+    padding-top: 10px;
+  }
+  @media (min-width: 1401px) {
+    padding: 10px;
+  }
+}
+
+
+/* --- Link previews --------------------------------------------------------- */
+
 #tooltip-wrapper {
   width: 80%;
   max-width: 800px !important;
@@ -11,127 +71,102 @@
   }
 }
 
-#drungeons-home-button {
-  @media (max-width: 1400px) {
-    height: 70px;
-    padding-top: 10px;
-  }
-  @media (min-width: 1401px) {
-    padding: 10px;
-  }
-}
 
-.content {
-  max-width:800px;
-}
+/* --- Callouts -------------------------------------------------------------- */
 
 .callout {
-  background-color: rgba(255,255,255,0.1);
+  background-color: rgba(255, 255, 255, 0.1);
 }
 
-.navbar-inner, .filetree-sidebar {
-  position: fixed;
-  left: 0;
-  h1 {
-    visibility: hidden;
-    width:0px;
-    height:0px;
-  }
-  background-color: #2a2e34;
+/* Callouts and infoboxes set their own 16px; match the body text */
+body .content .callout {
+  font-size: var(--font-text-size);
 }
 
-.navbar {
-  background-color: #2a2e34;
+/* Infoboxes: space between the floated box and the text beside it */
+body .callout[data-callout*="infobox"] {
+  margin: 0.25em 0 1em 1.5em;
 }
 
-.welcome-page {
-  header {
-    display: none;
-  }
-  
-  .callout-content {
-    p {
-      // 1. Hide paragraphs that are strictly empty (standard check)
-      &:empty {
-        display: none;
-      }
-  
-      // 2. Hide paragraphs that only contain whitespace/newlines 
-      //    by checking if they lack significant child elements.
-      //    (This targets <p> </p> but keeps <p><picture>...</picture>)
-      &:not(:has(picture)):not(:has(img)):not(:has(a)):not(:has(strong)) {
-        display: none;
-      }
-  
-      // 3. (Optional) Structural cleanup specific to your layout:
-      
-      // Hide any paragraph that immediately precedes a Header 3
-      &:has(+ h3) {
-        display: none;
-      }
-  
-      // Hide any paragraph that immediately precedes another Callout card
-      &:has(+ .callout) {
-        display: none;
-      }
-    }
-  }
-}
-
-// Target only 'card' type callouts if you want to be specific
+// Card callouts: center the portrait
 .callout[data-callout="card"] .callout-content {
-  
-  // 1. Target the paragraph specifically containing the picture
   p:has(picture) {
     display: flex;
-    justify-content: center; // Centers horizontally
-    align-items: center;     // Centers vertically (if height varies)
-    width: 100%;             // Ensures the container fills the card width
-    margin: 0;               // Reset margins to ensure perfect centering
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 0;
   }
 
-  // 2. Ensure the picture tag itself doesn't fight the centering
   picture {
-    display: flex; // Allows the img inside to fit correctly
+    display: flex;
     max-width: 100%;
   }
-  
-  // 3. Optional: Add a border-radius if you want rounded corners on images
+
   img {
-    border-radius: 8px; // Adjust as needed
+    border-radius: 8px;
   }
 }
 
+// Column callouts with the flex option: card grid
 .callout[data-callout*=column][data-callout-metadata~=flex] > .callout-content .callout {
   flex: 1 0 12rem;
   max-width: 15rem;
   align-content: center;
   border-radius: 8px;
-  
+
   h3 {
     text-align: center;
     font-size: 1.2em;
     margin-top: 0px;
     margin-bottom: 0px;
   }
-  
+
   h3::after {
     display: none;
   }
-  
+
   p {
     align-content: center;
     margin-top: 3px;
     margin-bottom: 0px;
   }
-  
+
   img, picture {
     max-height: 15rem;
     height: auto;
     max-width: 100%;
   }
-  
+
   .image-embed {
     max-width: 100%;
+  }
+}
+
+
+/* --- Welcome page ---------------------------------------------------------- */
+
+.welcome-page {
+  header {
+    display: none;
+  }
+
+  .callout-content p {
+    // Empty paragraphs
+    &:empty {
+      display: none;
+    }
+
+    // Whitespace-only paragraphs. Note: this also hides plain-text paragraphs
+    // (no image, link or bold) inside welcome-page callouts.
+    &:not(:has(picture)):not(:has(img)):not(:has(a)):not(:has(strong)) {
+      display: none;
+    }
+
+    // Stray paragraphs before an H3 or a nested callout
+    &:has(+ h3),
+    &:has(+ .callout) {
+      display: none;
+    }
   }
 }
