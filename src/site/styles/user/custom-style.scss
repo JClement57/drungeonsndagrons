@@ -24,6 +24,12 @@ body .navbar-inner {
   background-color: var(--background-secondary);
 }
 
+/* Sidebar: on wide screens the theme grows the wrapper past the 250px sidebar,
+   leaving an empty colored band. Keep it the sidebar's width. */
+body .filetree-wrapper {
+  width: var(--dg-filetree-width);
+}
+
 /* Sidebar: keep the file tree pinned left and hide its duplicate title */
 .filetree-sidebar {
   position: fixed;
