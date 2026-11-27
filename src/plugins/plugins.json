@@ -13,6 +13,9 @@
         "src/plugins/image-lightbox/styles/lightbox.scss",
         "src/plugins/image-lightbox/templates/lightbox.njk"
       ]
+    },
+    "dg-math": {
+      "enabled": false
     }
   }
 }
